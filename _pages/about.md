@@ -22,7 +22,7 @@ InTime：文中图，一图胜千言；图中文，一文抵万物。
 
 + 自监督、增量与对抗学习等  
 
-<div class="col-sm-offset-1 col-sm-4">
+<div class="right=150px">
   <div class="well">
     <h4 style="color:red"><em>News of Intime!!</em></h4>
     2024年
