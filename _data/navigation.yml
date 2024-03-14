@@ -1,13 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/  
-
-  - title: "Teaching"
-    url: /teaching/    
-        
-  - title: "Recruit Students"
+  - title: "招生信息"
     url: /stu/
     
-  - title: "Guide"
+  - title: "学术论文"
+    url: /publications/  
+
+  - title: "竞赛奖项"
+    url: /teaching/    
+        
+  - title: "专利软著"
+    url: /markdown/
+
+  - title: "科研项目"
+    url: /markdown/
+
+  - title: "学术服务"
+    url: /markdown/
+
+  - title: "学生指导"
     url: /markdown/
