@@ -1,10 +1,8 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+layout: archive
+permalink: /services/
+title: "学术服务"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
 ## Locations of key files/directories
