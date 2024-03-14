@@ -24,6 +24,7 @@ InTime：文中图，一图胜千言；图中文，一文抵万物。
 
 <style>
   .well{
+    position: absolute
     top: 150px;
     right: 150px;
   }
