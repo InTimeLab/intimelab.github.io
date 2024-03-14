@@ -30,6 +30,12 @@ InTime：文中图，一图胜千言；图中文，一文抵万物。
     right: 150px;
     width: 275px;
   }
+  @media screen and (max-width: 600px) {
+    .well {
+      position: absolute;
+      bottom: 0;
+    }
+  }
 </style>
 <div class="well">
   <h4 style="color:red"><em>News of Intime!!</em></h4>
