@@ -13,10 +13,10 @@ main:
     url: /patent/
 
   - title: "科研项目"
-    url: /markdown/
+    url: /project/
 
   - title: "学术服务"
-    url: /markdown/
+    url: /services/
 
   - title: "学生指导"
-    url: /markdown/
+    url: /edu/
