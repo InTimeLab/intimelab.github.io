@@ -27,6 +27,9 @@ author:
   bio              : "研究员 博士生导师 Intime组负责人"
   location         : "第六研究室"
   employer         : "中国科学院信息工程研究所"
+  教育经历          : 2009.12，哈尔滨工业大学，学士、硕士、博士
+  工作经历          : 2012.03，上海交通大学，博士后
+                      2012.04至今，中国科学院信息工程研究所，助理研究员、副研究员、硕士生导师、博士生导师、研究员
   uri              : # URL
   email            : "zhouyu@iie.ac.cn" 
 
@@ -34,9 +37,6 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://0-scholar-google-com.brum.beds.ac.uk/citations?hl=en&user=FNfBHg8AAAAJ"
   impactstory      : # URL
-  教育经历          : 2009.12，哈尔滨工业大学，学士、硕士、博士
-  工作经历          : 2012.03，上海交通大学，博士后
-                      2012.04至今，中国科学院信息工程研究所，助理研究员、副研究员、硕士生导师、博士生导师、研究员
   researchgate     : # URL
 
   # Repositories and software development
