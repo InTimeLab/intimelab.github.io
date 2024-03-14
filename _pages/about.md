@@ -22,6 +22,7 @@ InTime：文中图，一图胜千言；图中文，一文抵万物。
 
 + 自监督、增量与对抗学习等  
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
   .well{
     position: absolute;
