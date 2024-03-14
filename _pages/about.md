@@ -31,7 +31,7 @@ InTime：文中图，一图胜千言；图中文，一文抵万物。
   }
   @media screen and (max-width: 600px) {
     .well {
-      position: static；
+      position: static;
     }
   }
 </style>
