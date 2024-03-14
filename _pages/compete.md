@@ -10,7 +10,7 @@ author_profile: true
     <p></p>
     <ol style="text-wrap: wrap;">
       <li>
-        <span style="text-wrap: nowrap;"><font size="6">ACM MM 2021, Best Paper Candidate, 5篇/1942篇, 2021</font></span>
+        <span style="text-wrap: nowrap;"><font size="4">ACM MM 2021, Best Paper Candidate, 5篇/1942篇, 2021</font></span>
       </li>
       <li>
         <span style="text-wrap: nowrap;"><font size="2">ICDAR ReST 2023，印章主体文字检测，第三名，2023</font></span>
