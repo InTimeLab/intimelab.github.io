@@ -1,8 +1,8 @@
 ---
+layout: archive
 title: "招生信息"
 permalink: /stu/
 author_profile: true
-
 ---
 
 + 具备推免资格，满足国科大及信工所推免条件；
