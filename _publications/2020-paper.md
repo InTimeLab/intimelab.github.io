@@ -5,7 +5,7 @@ permalink: /publication/2020-paper
 excerpt: 'Works of IntimeLab in 2020.'
 date: 2020
 ---
-<span style="font-size:12px">可视文字<span style="background-color: rgb(198, 217, 240);">&nbsp; &nbsp; &nbsp;</span>  
+
 Z Qiao, Y Zhou*, D Yang, Y Zhou, W Wang. "SEED: Semantics Enhanced Encoder-decoder Framework for Scene Text Recognition." CVPR, 2020. (CCF-A, Acceptance Rate 22%, 229 Citations, PDF)  
 Y Yao, C Liu, D Luo, Y Zhou, Q Ye. "Video Playback Rate Perception for Self-supervised Spatio-temporal Representation Learning." CVPR, 2020. (CCF-A, Acceptance Rate 22%, 180 Citations, PDF)  
 D Luo, C Liu, Y Zhou*, D Yang, C Ma, Q Ye, W Wang. "Video Cloze Procedure for Self-supervised  Spatio-temporal Learning." AAAI, 2020. (CCF-A, Oral Presentation, Acceptance Rate 5.8%, 161 Citations, PDF)  
