@@ -22,19 +22,24 @@ InTime：文中图，一图胜千言；图中文，一文抵万物。
 
 + 自监督、增量与对抗学习等  
 
-<div class="right=150px">
-  <div class="well">
-    <h4 style="color:red"><em>News of Intime!!</em></h4>
-    2024年
-    <p>
-      <em>张宜飞论文被 TMM 录用！</em><br>
-    </p>
-    2023年
-    <p>
-      <em>方波论文被 ICCV 录用！</em><br>
-    </p>
-  </div>
+<style>
+  .well{
+    top: 150px;
+    right: 150px;
+  }
+</style>
+<div class="well">
+  <h4 style="color:red"><em>News of Intime!!</em></h4>
+  2024年
+  <p>
+    <em>张宜飞论文被 TMM 录用！</em><br>
+  </p>
+  2023年
+  <p>
+    <em>方波论文被 ICCV 录用！</em><br>
+  </p>
 </div>
+
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=IZ9pPSCretfEwjCp7s_Fm8UrWtt2kUvApAL5BtbtCBA&cl=ffffff&w=a"></script>
