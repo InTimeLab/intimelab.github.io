@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-CN"
 title                    : "IntimeLab"
 title_separator          : "-"
 name                     : &name "周宇"
 description              : &description "研究员 博士生导师"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://intimelab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "intimeLab/intimelab.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,15 +24,15 @@ author:
   avatar           : "profile.png"
   name             : "周宇"
   pronouns         : # example: "she/her"  
-  bio              : "研究员 博士生导师"
-  location         : "Earth"
+  bio              : "研究员 博士生导师 Intime组负责人"
+  location         : "第六研究室"
   employer         : "中国科学院信息工程研究所"
   uri              : # URL
   email            : "zhouyu@iie.ac.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://0-scholar-google-com.brum.beds.ac.uk/citations?hl=en&user=FNfBHg8AAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
