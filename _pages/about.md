@@ -25,7 +25,7 @@ InTime：文中图，一图胜千言；图中文，一文抵万物。
 <style>
   .well{
     position: absolute;
-    top: 150px;
+    top: 120px;
     right: 150px;
     width: 275px;
   }
@@ -34,15 +34,15 @@ InTime：文中图，一图胜千言；图中文，一文抵万物。
   <h4 style="color:red"><em>News of Intime!!</em></h4>
   2024年
   <p>
-    <em>张宜飞论文被 TMM 录用！</em><br>
+    <em>张宜飞论文被 TMM 录用！</em><br><br>
   </p>
   2023年
   <p>
-    <em>周宇老师参加CSIG文档图像分析与识别专委会2023年学术年会</em><br>
-    <em>申化文论文被 IJCAI 录用！</em><br>
-    <em>杨东宝论文被 AAAI 录用！</em><br>
-    <em>方波论文被 ICCV 录用！</em><br>
-    <em>秦绪功论文被 ACM MM 录用！</em><br>
+    <em>周宇老师参加CSIG文档图像分析与识别专委会2023年学术年会</em><br><br>
+    <em>申化文论文被 IJCAI 录用！</em><br><br>
+    <em>杨东宝论文被 AAAI 录用！</em><br><br>
+    <em>方波论文被 ICCV 录用！</em><br><br>
+    <em>秦绪功论文被 ACM MM 录用！</em><br><br>
   </p>
 </div>
 
