@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-CN"
-title                    : "IntimeLab"
+title                    : "InTimeLab"
 title_separator          : "-"
 name                     : &name "周宇"
 description              : &description "InTime：INterpret Text In MEdia"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "周宇"
   pronouns         : # example: "she/her"  
-  bio              : "研究员 博士生导师 Intime组负责人"
-  location         : "第六研究室"
-  employer         : "中国科学院信息工程研究所"
+  bio              : "教授 博士生导师 InTime组负责人"
+  location         : ""
+  employer         : ""
   uri              : # URL
   email            : "zhouyu@iie.ac.cn" 
 
