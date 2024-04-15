@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "欢迎了解Intime          "
+title: "欢迎了解InTime研究组"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
    
 InTime：INterpret Text In MEdia
   
-InTime：文中图，一图胜千言；图中文，一文抵万物。
+InTime：文中图，一图胜千言；景嵌字，数字藏万象。
   
     
     
