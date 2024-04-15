@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "欢迎了解Intime"
+title: "欢迎了解Intime          "
 author_profile: true
 redirect_from: 
   - /about/
