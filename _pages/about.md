@@ -10,7 +10,7 @@ redirect_from:
    
 InTime：INterpret Text In MEdia
   
-InTime：文中图，一图胜千言；景嵌字，数字藏万象。
+InTime：文附图，一图胜千言；景嵌字，数字藏万象。
   
     
     
