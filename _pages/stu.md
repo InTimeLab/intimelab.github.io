@@ -4,7 +4,7 @@ title: "招生信息"
 permalink: /stu/
 author_profile: true
 ---
-+ <h4 style="color:red"><em>招生：2025年硕转博1名，感兴趣者提前联系yzhouhit@163.com。</em></h4>
++ <h6 style="color:red"><em>招生：2025年硕转博1名，感兴趣者提前联系yzhouhit@163.com。</em></h6>
 + 具备推免资格；
 
 + 具备**自我激励**能力、对探索未知的科研工作有**热情，以学位为终极目标者勿来**，请全面深入了解我们的工作（通过论文）及团队风格，对团队有**认同感**；
