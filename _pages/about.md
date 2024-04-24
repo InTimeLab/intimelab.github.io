@@ -48,7 +48,7 @@ InTime：文附图，一图胜千言；景嵌字，数字藏万象。
     <em>申化文论文被 IJCAI 录用！</em><br><br>
     <em>杨东宝论文被 AAAI 录用！</em><br><br>
     <em>方波论文被 ICCV 录用！</em><br><br>
-    <em>秦绪功论文被 ACM MM 录用！</em><br><br>
+    <em>杨东宝、秦绪功、曾港艳、舒言论文被 ACM MM 录用！</em><br><br>
   </p>
 </div>
 
