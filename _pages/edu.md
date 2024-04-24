@@ -25,9 +25,6 @@ author_profile: true
      <span style="background-color: rgb(255, 255, 255);"><strong>陈语地</strong>，2017级硕士生<span style="white-space: normal;">，一作ICPR-20、PRICAI-19，3项国内外竞赛前三名</span>，入职抖音</span>
     </li>
     <li>
-     <strong>曾港艳</strong>，2018级硕博生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM</span>-21 Oral、<span style="background-color: rgb(198, 217, 240);">ACM MM</span>-23 Oral、<span style="background-color: rgb(235, 241, 221);">PR</span>-23、PRICAI-21，入职南理工（<span style="text-wrap: wrap;">教职</span>）
-    </li>
-    <li>
      <strong><em>张宜飞</em></strong>，2018级硕博生，一作<span style="background-color: rgb(235, 241, 221);">TMM</span><span style="background-color: rgb(255, 255, 255);">-24</span>、ICPR-20，在读
     </li>
     <li>
@@ -40,7 +37,11 @@ author_profile: true
      <strong>李晓倪</strong>，2019级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM</span>-21 Oral、<span style="background-color: rgb(235, 241, 221);">PR</span>-22、ICANN-21，三好学生标兵，入职北京银行
     </li>
     <li>
-     <span style="background-color: rgb(255, 255, 255);"><strong>过友辉</strong>，2019级硕士生，一作</span><span style="background-color: rgb(242, 220, 219);">ICME</span><span style="background-color: rgb(255, 255, 255);">-22、ICANN-21，入职科大讯飞（飞星计划<span style="white-space: normal;">）</span></span></li><li><strong style="">王</strong><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span><strong style="">威</strong>，2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM</span>-22，CSIG 2022票据识别与分析挑战赛冠军，国奖，第二届中国图象图形学报研究生学术论坛优秀报告，入职上海人工智能实验室
+     <span style="background-color: rgb(255, 255, 255);"><strong>过友辉</strong>，2019级硕士生，一作</span><span style="background-color: rgb(242, 220, 219);">ICME</span><span style="background-color: rgb(255, 255, 255);">-22、ICANN-21，入职科大讯飞（飞星计划<span style="white-space: normal;">）</span></span></li>
+     <li>
+     <strong>曾港艳</strong>，2020级博士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM</span>-21 Oral、<span style="background-color: rgb(198, 217, 240);">ACM MM</span>-23 Oral、<span style="background-color: rgb(235, 241, 221);">PR</span>-23、PRICAI-21，入职南理工（<span style="text-wrap: wrap;">教职</span>）
+    </li>
+    <li><strong style="">王</strong><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span><strong style="">威</strong>，2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM</span>-22，CSIG 2022票据识别与分析挑战赛冠军，国奖，第二届中国图象图形学报研究生学术论坛优秀报告，入职上海人工智能实验室
     </li>
     <li>
      <strong style="">方</strong><span style="white-space: normal;"><span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></span><strong style="">波</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ICCV</span>-23、<span style="background-color: rgb(198, 217, 240);">ACM MM</span>-22 Oral，国奖，香港城市大学博士生</span></li><li><span style="white-space: normal;"><strong style="">魏</strong><span style="white-space: normal;"><span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></span><strong style="">谨</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM</span>-22，入职联想研究院</span></span>
