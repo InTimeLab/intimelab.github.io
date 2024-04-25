@@ -36,18 +36,13 @@ InTime：文附图，一图胜千言；景嵌字，数字藏万象。
 
 <div class="well">
   <h20 style="color:red"><em>招生：2025年硕转博1名，感兴趣者提前联系yzhouhit@163.com。</em></h20><br><br>
-  2024年
-  <p>
-        <em>张宜飞论文被 TMM 录用！</em><br><br>
-  </p>
-  2023年
-  <p>
-    <em>周宇老师参加CSIG文档图像分析与识别专委会2023年学术年会</em><br><br>
-    <em>申化文论文被 IJCAI 录用！</em><br><br>
-    <em>杨东宝论文被 AAAI 录用！</em><br><br>
-    <em>方波论文被 ICCV 录用！</em><br><br>
+    <em>张宜飞论文被TMM 2024录用！</em><br><br>
+    <em>周宇老师参加CSIG文档图像分析与识别专委会2023年学术年会并作报告</em><br><br>
+    <em>方波论文被ICCV 2023录用！</em><br><br>  
     <em>杨东宝、秦绪功、曾港艳、舒言论文被 ACM MM 录用！</em><br><br>
-  </p>
+    <em>申化文论文被IJCAI 2023录用！</em><br><br>
+    <em>杨东宝论文被AAAI 2023录用！</em><br><br>
+    </p>
 </div>
 
 
