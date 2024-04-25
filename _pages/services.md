@@ -36,7 +36,7 @@ author_profile: true
   <ul style="text-wrap: wrap;">
    <li>Area Chair: ICME-24, ICME-23,&nbsp;ICME-22, ICME-21, PRCV-24</li>
    <li>SPC Member: IJCAI-21, ICDAR-24</li>
-   <li>PC Member: CVPR-24/23/22/21, ICCV-23/21, ECCV-24/22, NeurIPS-23, ICLR-24, ICML-24, AAAI-24/23/22/21, IJCAI-24/23/22, ACM MM-24/23/22/21, ICDAR-23/21,&nbsp;&nbsp;ICPR-20,&nbsp;ChinaMM-21, ...</li>
+   <li>PC Member: CVPR-24/23/22/21, ICCV-23/21, ECCV-24/22, NeurIPS-23, ICLR-24, ICML-24, AAAI-24/23/22/21, IJCAI-24/23/22, ACM MM-24/23/22/21, ICDAR-23/21, ECAI-24, ICPR-20,&nbsp;ChinaMM-21, ...</li>
    <li>Session Chair: ICME-21, TrustCom-14</li>
   </ul>
   <p style="text-wrap: wrap;"><strong><strong></strong></strong></p>
