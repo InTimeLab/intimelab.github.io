@@ -27,7 +27,7 @@ InTime：文附图，一图胜千言；景嵌字，数字藏万象。
     right: 150px;
     width: 275px;
   }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 400px) {
     .well {
       position: static;
     }
