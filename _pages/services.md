@@ -52,6 +52,7 @@ author_profile: true
   </p>
   <ul style="text-wrap: wrap;">
    <li><p>2021夏季学期，人工智能安全</p></li>
+   <li><p>2024春季学期，文献阅读</p></li>
   </ul>
  </div>
 </div>
