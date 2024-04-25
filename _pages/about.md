@@ -35,7 +35,7 @@ InTime：文附图，一图胜千言；景嵌字，数字藏万象。
 </style>
 
 <div class="well">
-  <h4 style="color:red"><em>招生：2025年硕转博1名，感兴趣者提前联系yzhouhit@163.com。</em></h4>
+  <h20 style="color:red"><em>招生：2025年硕转博1名，感兴趣者提前联系yzhouhit@163.com。</em></h20>
   2024年
   <p>
         <em>张宜飞论文被 TMM 录用！</em><br><br>
