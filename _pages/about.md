@@ -35,7 +35,7 @@ redirect_from:
 </style>
 
 <div class="well">
-  <h20 style="color:red"><em>招生：2025年硕转博1名，感兴趣者提前联系yzhouhit@163.com。</em></h20><br><br>
+  <h20 style="color:red"><em>招生：2025级推免招生启动，同时2025级招硕转博1名，感兴趣者提前联系yzhouhit@163.com。</em></h20><br><br>
     <em>张宜飞论文被TMM 2024录用！</em><br><br>
     <em>周宇老师参加CSIG文档图像分析与识别专委会2023年学术年会并作报告。</em><br><br>
     <em>方波论文被ICCV 2023录用！</em><br><br>  
