@@ -250,7 +250,7 @@ author_profile: true
 		<div style="text-wrap: wrap;">
 			<span style="font-family: arial, helvetica, sans-serif;">
 				<strong style="">
-					<span style="font-size:15px">2019<strong style="">&amp;Pre，参见<a href="https://dblp.uni-trier.de/pid/36/2728-15.html" target="_blank" style="" _href="https://dblp.uni-trier.de/pid/36/2728-15.html">DBLP</a>&nbsp;&amp;&nbsp;<a href="https://0-scholar-google-com.brum.beds.ac.uk/citations?hl=en&amp;user=FNfBHg8AAAAJ" target="_blank" style="" _href="https://scholar.google.com/citations?user=FNfBHg8AAAAJ&hl=en">Google Scholar</a></strong></span>
+					<span style="font-size:15px">2019<strong style="">&amp;Pre，参见<a href="https://dblp.uni-trier.de/pid/36/2728-15.html" target="_blank" style="" _href="https://dblp.uni-trier.de/pid/36/2728-15.html">DBLP</a>&nbsp;&amp;&nbsp;<a href="https://scholar.google.com/citations?user=FNfBHg8AAAAJ&hl=en" target="_blank" style="" _href="https://scholar.google.com/citations?user=FNfBHg8AAAAJ&hl=en">Google Scholar</a></strong></span>
 				</strong>
 			</span>
 		</div>
