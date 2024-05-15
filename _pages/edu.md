@@ -25,7 +25,7 @@ author_profile: true
      <span style="background-color: rgb(255, 255, 255);"><strong>陈语地</strong>，2017级硕士生<span style="white-space: normal;">，一作ICPR-20、PRICAI-19，3项国内外竞赛前三名</span>，入职抖音</span>
     </li>
     <li>
-     <strong>李鸿宇</strong>，2018级博士生，一作<span style="background-color: rgb(235, 241, 221);">ICTAI *2</span><span style="background-color: rgb(255, 255, 255);"></span>，入职中关村科学城创新发展有限公司
+     <strong>李鸿宇</strong>，2018级博士生，一作ICTAI *2，入职中关村科学城创新发展有限公司
     </li>
     <li>
      <strong><em>张宜飞</em></strong>，2018级硕博生，一作<span style="background-color: rgb(235, 241, 221);">TMM</span><span style="background-color: rgb(255, 255, 255);">-24</span>、ICPR-20，在读
@@ -59,7 +59,7 @@ author_profile: true
      <span style="white-space: normal;"><strong>舒<span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span>言</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM</span>-23 Oral、<span style="background-color: rgb(242, 220, 219);">ICASSP</span>-23，多伦多大学博士生</span>
     </li> 
     <li>
-     <strong>杨晓萌</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IEEE SPL</span>、<span style="background-color: rgb(198, 217, 240);">ICASSP</span>，美国东北大学博士生</span>
+     <strong>杨晓萌</strong>，2021级硕士生，一作IEEE SPL、<span style="background-color: rgb(242, 220, 219);">ICASSP</span>，美国东北大学博士生</span>
     </li>
    </ol>
  </div>
