@@ -59,7 +59,7 @@ author_profile: true
      <span style="white-space: normal;"><strong>舒<span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span>言</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM</span>-23 Oral、<span style="background-color: rgb(242, 220, 219);">ICASSP</span>-23，多伦多大学博士生</span>
     </li> 
     <li>
-     <strong>杨晓萌</strong>，2021级硕士生，一作IEEE SPL、<span style="background-color: rgb(242, 220, 219);">ICASSP</span>，美国东北大学博士生</span>
+     <strong>杨晓萌</strong>，2021级硕士生，一作IEEE SPL、<span style="background-color: rgb(242, 220, 219);">ICASSP</span>，美国东北大学博士生
     </li>
    </ol>
  </div>
