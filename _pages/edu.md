@@ -42,7 +42,7 @@ author_profile: true
     <li>
      <span style="background-color: rgb(255, 255, 255);"><strong>过友辉</strong>，2019级硕士生，一作</span><span style="background-color: rgb(242, 220, 219);">ICME</span><span style="background-color: rgb(255, 255, 255);">-22、ICANN-21，入职科大讯飞（飞星计划<span style="white-space: normal;">）</span></span></li>
      <li>
-     <strong>曾港艳</strong>，2020级博士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *2、<span style="background-color: rgb(235, 241, 221);">PR</span>-23、PRICAI-21，入职南理工（<span style="text-wrap: wrap;">教职</span>）
+     <strong>曾港艳</strong>，2020级博士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM</span> *2、<span style="background-color: rgb(235, 241, 221);">PR</span>-23、PRICAI-21，入职南理工（<span style="text-wrap: wrap;">教职</span>）
     </li>
     <li><strong style="">王</strong><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span><strong style="">威</strong>，2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM</span>-22，CSIG 2022票据识别与分析挑战赛冠军，国奖，第二届中国图象图形学报研究生学术论坛优秀报告，入职上海人工智能实验室
     </li>
