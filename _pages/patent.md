@@ -14,7 +14,7 @@ author_profile: true
       <span style="text-wrap: nowrap;"><strong></strong></span>
     </p>
     <ol style="text-wrap: wrap;">
-	    <li><span style="text-wrap: nowrap;">基于提示学习的生成式文本视觉问答方法机系统，2023，受理号：202311267037.6</span></li>
+	    <li><span style="text-wrap: nowrap;">基于提示学习的生成式文本视觉问答方法及系统，2023，受理号：202311267037.6</span></li>
 	    <li><span style="text-wrap: nowrap;">基于对比学习特征增强的场景文字检测方法及装置，2023，受理号：202311298617.1</span></li>
 	    <li><span style="text-wrap: nowrap;">基于伪目标重放与挖掘的增量目标检测方法及装置，2023，受理号：202311216027.X</span></li>
 	    <li><span style="text-wrap: nowrap;">基于Transformer 的逐行扫描的表格结构识别方法及系统，2023，受理号：202311025547.2</span></li>
