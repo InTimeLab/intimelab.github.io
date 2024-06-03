@@ -25,7 +25,7 @@ redirect_from:
     position: absolute;
     top: 120px;
     right: 150px;
-    width: 275px;
+    width: 300px;
   }
   @media screen and (max-width: 600px) {
     .well {
