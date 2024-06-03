@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---  
 
-   
+
+
+  
 **InTime**：文附图，一图胜千言；景嵌字，数字藏万象。
   
     
@@ -47,7 +49,7 @@ redirect_from:
     <em>方波论文被ICCV 2023录用！</em><br><br>  
     <em>杨东宝、秦绪功、曾港艳、舒言论文被ACM MM 2023录用！</em><br><br>
     <em>申化文论文被IJCAI 2023录用！</em><br><br>
-    <em>杨东宝论文被AAAI 2023录用！</em><br><br>
+    <em>杨东宝论文被AAAI 2023录用！</em>
 </div>
 
 
