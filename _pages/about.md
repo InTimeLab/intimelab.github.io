@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---  
-
-
 <br>
 
 **InTime**：文附图，一图胜千言；景嵌字，数字藏万象。  
