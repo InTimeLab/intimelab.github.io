@@ -25,7 +25,7 @@ author:
   name             : "周宇"
   pronouns         : # example: "she/her"  
   bio              : "教授 博导 InTime组负责人"
-  location         : ""
+#  location         : ""
   employer         : "南开大学计算机学院/网安学院"
   uri              : # URL
   email            : "yzhou@nankai.edu.cn" 
