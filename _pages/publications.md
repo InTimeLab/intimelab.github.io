@@ -32,11 +32,11 @@ author_profile: true
 				</p>
 			</li>
 			<li>
-				<p style="text-wrap: wrap;"><span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">X Yang, Z Qiao, J Wei, D Yang,&nbsp;</span><strong style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">Y Zhou*</strong><span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">. "Masked and Permuted Implicit Context Learning for Scene Text Recognition."&nbsp;<strong>IEEE SPL</strong>, 2024. (<strong>CCF-C</strong>, <strong>SCI</strong>,&nbsp;</span><a href="https://arxiv.org/abs/2305.16172" target="_blank" style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);" _href="https://arxiv.org/abs/2305.16172"><span style="font-size:15px">PDF</span></a><span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">)</span>
+				<p style="text-wrap: wrap;"><span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">X Yang, Z Qiao, J Wei, D Yang,&nbsp; <b>Y Zhou*</b>. "Masked and Permuted Implicit Context Learning for Scene Text Recognition."&nbsp;<strong>IEEE SPL</strong>, 2024. (<strong>CCF-C</strong>, <strong>SCI</strong>,&nbsp;<a href="https://arxiv.org/abs/2305.16172" target="_blank" _href="https://arxiv.org/abs/2305.16172">PDF</a>)</span>
 				</p>
 			</li>
 			<li>
-				<p style="text-wrap: wrap;"><span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">Y Shu, W Zeng, Z Li, F Zhao, </span><b>Y Zhou*</b>. "Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing." arXiv, 2024. (<a href="https://arxiv.org/abs/2402.03082" target="_blank" _href="https://arxiv.org/abs/2402.03082">PDF</a>)</span>
+				<p style="text-wrap: wrap;"><span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">Y Shu, W Zeng, Z Li, F Zhao, <b>Y Zhou*</b>. "Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing." arXiv, 2024. (<a href="https://arxiv.org/abs/2402.03082" target="_blank" _href="https://arxiv.org/abs/2402.03082">PDF</a>)</span>
 				</p>
 			</li>
 			<li>
