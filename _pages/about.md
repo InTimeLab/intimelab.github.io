@@ -22,7 +22,7 @@ redirect_from:
   .well{
     position: absolute;
     top: 7%;
-    right: 5%;
+    right: 7%;
     width: 23%;
   }
   .map{
