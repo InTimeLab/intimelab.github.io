@@ -25,14 +25,17 @@ redirect_from:
     right: 5%;
     width: 23%;
   }
+  .map{
+    width: 60%;
+  }
   @media screen and (max-width: 600px) {
     .well {
       position: static;
       width: auto;
     }
-  }
-  .map{
-    width: 60%;
+    .map{
+      width: auto;
+    }
   }
 </style>
 
