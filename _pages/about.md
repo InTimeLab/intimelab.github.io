@@ -26,7 +26,7 @@ redirect_from:
     width: 23%;
   }
   .map{
-    width: 60%;
+    width: 80%;
   }
   @media screen and (max-width: 600px) {
     .well {
