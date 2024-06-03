@@ -31,7 +31,7 @@ redirect_from:
     }
   }
   .map{
-    width: 600px;
+    width: 40%;
   }
 </style>
 
