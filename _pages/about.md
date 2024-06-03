@@ -21,9 +21,9 @@ redirect_from:
 <style>
   .well{
     position: absolute;
-    top: 5%;
-    right: 10%;
-    width: 350px;
+    top: 7%;
+    right: 5%;
+    width: 23%;
   }
   @media screen and (max-width: 600px) {
     .well {
