@@ -24,13 +24,16 @@ redirect_from:
   .well{
     position: absolute;
     top: 120px;
-    right: 100px;
+    right: 80px;
     width: 300px;
   }
   @media screen and (max-width: 600px) {
     .well {
       position: static;
     }
+  }
+  .map{
+    width: 450px;
   }
 </style>
 
@@ -48,6 +51,6 @@ redirect_from:
 </div>
 
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=IZ9pPSCretfEwjCp7s_Fm8UrWtt2kUvApAL5BtbtCBA&cl=ffffff&w=a"></script>
-
+<div class="map">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=IZ9pPSCretfEwjCp7s_Fm8UrWtt2kUvApAL5BtbtCBA&cl=ffffff&w=a"></script>
+</div>
