@@ -23,10 +23,10 @@ redirect_from:
     position: absolute;
     top: 7%;
     right: 7%;
-    width: 23%;
+    width: 25%;
   }
   .map{
-    width: 80%;
+    width: 75%;
   }
   @media screen and (max-width: 600px) {
     .well {
