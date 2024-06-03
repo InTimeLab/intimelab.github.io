@@ -32,7 +32,7 @@ redirect_from:
     }
   }
   .map{
-    width: 40%;
+    width: 60%;
   }
 </style>
 
