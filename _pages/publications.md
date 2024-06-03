@@ -36,11 +36,11 @@ author_profile: true
 				</p>
 			</li>
 			<li>
-				<p style="text-wrap: wrap;"><span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">Y Shu, W Zeng, Z Li, F Zhao, </span><strong style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">Y Zhou*</strong><span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">. "Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing." arXiv, 2024. (</span><a href="https://arxiv.org/abs/2402.03082" target="_blank" style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;" _href="https://arxiv.org/abs/2402.03082">PDF</a><span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">)</span>
+				<p style="text-wrap: wrap;"><span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">Y Shu, W Zeng, Z Li, F Zhao, </span><b>Y Zhou*</b>. "Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing." arXiv, 2024. (<a href="https://arxiv.org/abs/2402.03082" target="_blank" _href="https://arxiv.org/abs/2402.03082">PDF</a>)</span>
 				</p>
 			</li>
 			<li>
-				<p style="text-wrap: wrap;"><span style="font-size: small; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">J Lyu, J Wei, G Zeng, Z Li, E Xie, W Wang, <b>Y Zhou*</b>. "TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model." arXiv, 2024. (<a href="https://arxiv.org/abs/2403.10047" target="_blank" title="" _href="https://arxiv.org/abs/2403.10047">PDF</a>)</span>
+				<p style="text-wrap: wrap;"><span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">J Lyu, J Wei, G Zeng, Z Li, E Xie, W Wang, <b>Y Zhou*</b>. "TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model." arXiv, 2024. (<a href="https://arxiv.org/abs/2403.10047" target="_blank" title="" _href="https://arxiv.org/abs/2403.10047">PDF</a>)</span>
 				</p>
 			</li>
 		</ol>
