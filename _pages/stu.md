@@ -5,7 +5,7 @@ permalink: /stu/
 author_profile: true
 ---
 + <h16 style="color:red"><em>招生：2025级推免招生启动，拟招生硕转博/申请考核制博士生1名、学术硕士生2名，感兴趣者提前联系yzhou@nankai.edu.cn。</em></h16>
-+ 具备**推免资格**；满足**南开大学及计算机/网安学院推免要求**；
++ 具备**推免资格**；满足<a href="https://cc.nankai.edu.cn/2024/0613/c13297a545420/page.htm" target="_blank" style="background-color: rgb(255, 255, 255);" _href="https://cc.nankai.edu.cn/2024/0613/c13297a545420/page.htm">**南开大学及计算机/网安学院推免要求**；
 
 + 具备**自我激励**能力、对探索未知的科研工作有**热情，以学位为终极目标者勿来**，请全面深入了解我们的工作（通过论文）及团队风格，对团队有**认同感**；
 
