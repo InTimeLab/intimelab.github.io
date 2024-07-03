@@ -31,7 +31,7 @@ author_profile: true
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">X Yang, D Yang, Z Qiao, <strong>Y Zhou</strong>. "Accurate and Robust Scene Text Recognition via Adversarial Training." <strong>ICASSP</strong>, 2024. (<strong>CCF-B</strong>)</span></span>				
 			</li>
 			<li>
-				<span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">X Yang, Z Qiao, J Wei, D Yang, <b>Y Zhou*</b>. "Masked and Permuted Implicit Context Learning for Scene Text Recognition."&nbsp;<strong>IEEE SPL</strong>, 2024. (<strong>CCF-C</strong>, <strong>SCI</strong>,&nbsp;<a href="https://arxiv.org/abs/2305.16172" target="_blank" _href="https://arxiv.org/abs/2305.16172">PDF</a>)</span>				
+				<span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">X Yang, Z Qiao, J Wei, D Yang, <b>Y Zhou*</b>. "Masked and Permuted Implicit Context Learning for Scene Text Recognition."&nbsp;<strong>IEEE SPL</strong>, 2024. (<strong>CCF-C</strong>, <strong>SCI</strong>,&nbsp;<a href="https://ieeexplore.ieee.org/document/10479970" target="_blank" _href="https://ieeexplore.ieee.org/document/10479970">PDF</a>)</span>				
 			<li>
 				<span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">Y Zhang, G Zeng, H Shen, C Ma, <b>Y Zhou*</b>. "Show Exemplars and Tell Me What You See: In-context Learning with Frozen Large Language Models for TextVQA."&nbsp;<strong>PRCV</strong>, 2024. (<strong>CCF-C</strong>)</span>				
 			</li>
