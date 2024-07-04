@@ -60,6 +60,9 @@ author_profile: true
     <li>
      <strong>杨晓萌</strong>，2021级硕士生，一作IEEE SPL、<span style="background-color: rgb(242, 220, 219);">ICASSP</span>，美国东北大学博士生
     </li>
+    <li>
+     <strong><em>李祯航</em></strong>，2022级硕士生，一作<span style="background-color: rgb(242, 220, 219);">ECAI 24</span>，在读
+    </li>
    </ol>
  </div>
 </div>
