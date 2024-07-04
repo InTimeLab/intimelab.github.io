@@ -47,10 +47,8 @@ redirect_from:
     <em>2024年04月24日，周宇老师参加CSIG“2024图图名师讲堂”系列学术讲座并作报告。</em><br><br>
     <em>张宜飞论文被TMM 2024录用！</em><br><br>
     <em>周宇老师参加CSIG文档图像分析与识别专委会2023年学术年会并作报告。</em><br><br>
-    <em>方波论文被ICCV 2023录用！</em><br><br>  
+    <em>方波、申化文、杨东宝论文分别被ICCV/IJCAI/AAAI 2023录用！</em><br><br>  
     <em>杨东宝、秦绪功、曾港艳、舒言论文被ACM MM 2023录用！</em><br><br>
-    <em>申化文论文被IJCAI 2023录用！</em><br><br>
-    <em>杨东宝论文被AAAI 2023录用！</em>
 </div>
 
 
