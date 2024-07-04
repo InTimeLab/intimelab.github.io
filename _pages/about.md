@@ -49,7 +49,6 @@ redirect_from:
     <em>杨东宝、秦绪功、曾港艳、舒言论文被ACM MM 2023录用！</em><br><br>
 </div>
 
-
 <div class="map">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=IZ9pPSCretfEwjCp7s_Fm8UrWtt2kUvApAL5BtbtCBA&cl=ffffff&w=a"></script>
 </div>
