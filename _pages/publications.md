@@ -28,7 +28,7 @@ author_profile: true
 				</span>
 			</li>
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">Z Li, Y Shu, W Zeng, D Yang, <strong>Y Zhou*</strong>. "First Creating Backgrounds Then Rendering Texts: A New Paradigm for Visual Text Blending." <strong>ECAI</strong>, 2024. (<strong>CCF-B</strong>, </strong>Acceptance Rate 23.0%</strong>)</span></span>				
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">Z Li, Y Shu, W Zeng, D Yang, <strong>Y Zhou*</strong>. "First Creating Backgrounds Then Rendering Texts: A New Paradigm for Visual Text Blending." <strong>ECAI</strong>, 2024. (<strong>CCF-B</strong>, Acceptance Rate 23.0%)</span></span>			
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">X Yang, D Yang, Z Qiao, <strong>Y Zhou</strong>. "Accurate and Robust Scene Text Recognition via Adversarial Training." <strong>ICASSP</strong>, 2024. (<strong>CCF-B</strong>, <a href="https://ieeexplore.ieee.org/document/10445827" target="_blank" _href="https://ieeexplore.ieee.org/document/10445827">PDF</a>)</span></span>				
