@@ -18,7 +18,7 @@ author_profile: true
      <span style="background-color: rgb(255, 255, 255);"><strong style="">杨东宝</strong>，2020级博士生（在职），发表期刊会议论文近20篇（含一作</span><span style="background-color: rgb(198, 217, 240);">AAAI</span><span style="background-color: rgb(255, 255, 255);"> Oral、</span><span style="background-color: rgb(198, 217, 240);">ACM MM</span><span style="background-color: rgb(255, 255, 255);">&nbsp;Oral<span style="text-wrap: wrap;">、</span></span><span style="background-color: rgb(235, 241, 221);">PR</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(235, 241, 221);">TOMM</span><span style="background-color: rgb(255, 255, 255);">等），中科院信工所助理研究员<a href="https://shownx.github.io/" target="_blank" _href="https://shownx.github.io/"></a></span>
     </li>
     <li>
-     <span style="background-color: rgb(255, 255, 255);"><strong>秦绪功</strong>，2017级博士生，一作</span><span style="background-color: rgb(198, 217, 240);">ACM MM *2</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(242, 220, 219);">ICASSP</span><span style="background-color: rgb(255, 255, 255);">-21、ICDAR，优秀毕业生，入职南理工（教职）</span>
+     <span style="background-color: rgb(255, 255, 255);"><strong>秦绪功</strong>，2017级博士生，一作</span><span style="background-color: rgb(198, 217, 240);">ACM MM *2</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(242, 220, 219);">ICASSP</span><span style="background-color: rgb(255, 255, 255);">、ICDAR，优秀毕业生，入职南理工（教职）</span>
     </li>
     <li>
      <span style="background-color: rgb(255, 255, 255);"><strong>陈语地</strong>，2017级硕士生<span style="white-space: normal;">，一作ICPR、PRICAI，3项国内外竞赛前三名</span>，入职抖音</span>
