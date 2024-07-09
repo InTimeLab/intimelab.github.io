@@ -40,6 +40,7 @@ redirect_from:
 </style>
 
 <div class="news">
+    <em></em>**最新消息**<br><br>
     <h16 style="color:red"><em>招生：2024年推免拟招生2025级学术型硕士生2名, 已发表CCF列表论文、大四可提前进组者优先；</em></h16><br>
     <h16 style="color:red"><em>拟招生2025级硕转博/申请考核制博士生1名，已发表CCF-A/中科院SCI一区或同等级论文、经导师同意可现在进组者优先；</em></h16><br>
     <h16 style="color:red"><em>欢迎南开大学本科生进组实习，可选择研究或工程工作；</em></h16><br>
