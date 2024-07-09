@@ -22,8 +22,8 @@ redirect_from:
   .news{
     position: absolute;
     top: 7%;
-    right: 15%;
-    width: 20%;
+    right: 5%;
+    width: 30%;
   }
   .map{
     width: 75%;
