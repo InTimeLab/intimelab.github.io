@@ -23,7 +23,7 @@ redirect_from:
     position: absolute;
     top: 7%;
     right: 5%;
-    width: 30%;
+    width: 25%;
   }
   .map{
     width: 75%;
