@@ -45,8 +45,7 @@ redirect_from:
     <em>2024年05月15日，祝贺李鸿宇、杨晓萌分别顺利通过博士、硕士学位论文答辩！</em><br><br>
     <em>2024年04月24日，周宇老师参加CSIG“2024图图名师讲堂”系列学术讲座并作报告。</em><br><br>
     <em>张宜飞论文被TMM 2024录用！</em><br><br>
-    <em>方波、申化文、杨东宝论文分别被ICCV/IJCAI/AAAI 2023录用！</em><br><br>
-    <em>杨东宝、秦绪功、曾港艳、舒言论文被ACM MM 2023录用！</em><br><br>
+    <em>方波、申化文、杨东宝论文分别被ICCV/IJCAI/AAAI 2023录用，杨东宝、秦绪功、曾港艳、舒言论文被ACM MM 2023录用！</em><br><br>
 </div>
 
 <div class="map">
