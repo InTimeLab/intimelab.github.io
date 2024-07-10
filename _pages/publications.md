@@ -35,9 +35,9 @@ author_profile: true
 			</li>
 			<li>
 				<span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">X Yang, Z Qiao, J Wei, D Yang, <b>Y Zhou*</b>. "Masked and Permuted Implicit Context Learning for Scene Text Recognition."&nbsp;<strong>IEEE SPL</strong>, 2024. (<strong>CCF-C</strong>, <strong>SCI</strong>,&nbsp;<a href="https://ieeexplore.ieee.org/document/10479970" target="_blank" _href="https://ieeexplore.ieee.org/document/10479970">PDF</a>)</span>				
+			</li>
 			<li>
 				<span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">Y Zhang, G Zeng, H Shen, C Ma, <b>Y Zhou*</b>. "Show Exemplars and Tell Me What You See: In-context Learning with Frozen Large Language Models for TextVQA."&nbsp;<strong>PRCV</strong>, 2024. (<strong>CCF-C</strong>)</span>				
-			</li>
 			</li>
 			<li>
 				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">Y Shu, W Zeng, Z Li, F Zhao, <b>Y Zhou*</b>. "Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing." arXiv, 2024. (<a href="https://arxiv.org/abs/2402.03082" target="_blank" _href="https://arxiv.org/abs/2402.03082">PDF</a>)</span>				
@@ -45,6 +45,8 @@ author_profile: true
 			<li>
 				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">J Lyu, J Wei, G Zeng, Z Li, E Xie, W Wang, <b>Y Zhou*</b>. "TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model." arXiv, 2024. (<a href="https://arxiv.org/abs/2403.10047" target="_blank" title="" _href="https://arxiv.org/abs/2403.10047">PDF</a>)</span>				
 			</li>
+			<li>
+				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">D Wu, D Yang, H Shen, C Ma, Y Zhou. "Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition." arXiv, 2024. (<a href="https://arxiv.org/abs/2407.07026" target="_blank" title="" _href="https://arxiv.org/abs/2407.07026">PDF</a>)</span>				</li>
 		</ol>
 		<p style="text-wrap: wrap;">
 			<span style="font-family: arial, helvetica, sans-serif;">
