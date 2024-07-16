@@ -30,32 +30,37 @@ author_profile: true
      <strong><em>张宜飞</em></strong>，2018级硕博生，一作<span style="background-color: rgb(235, 241, 221);">TMM</span><span style="background-color: rgb(255, 255, 255);"></span>、ICPR，在读
     </li>
     <li>
-     <strong style="background-color: rgb(255, 255, 255);">乔</strong><span style="background-color: rgb(255, 255, 255);color:#ffffff">一</span><strong style="background-color: rgb(255, 255, 255);">峙</strong><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">ACM MM</span><span style="background-color: rgb(255, 255, 255);"> Best Paper Candidate、</span><span style="background-color: rgb(198, 217, 240);">CVPR</span><span style="background-color: rgb(255, 255, 255);">、ICPR</span></span><span style="background-color: rgb(255, 255, 255);">，院长奖提名、国奖、优秀毕业生，入职好未来（SSP Offer）</span>
+     <strong style="background-color: rgb(255, 255, 255);">乔</strong><span style="background-color: rgb(255, 255, 255);color:#ffffff">一</span><strong style="background-color: rgb(255, 255, 255);">峙</strong><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">ACM MM Best Paper Candidate</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(198, 217, 240);">CVPR</span><span style="background-color: rgb(255, 255, 255);">、ICPR</span></span><span style="background-color: rgb(255, 255, 255);">，院长奖提名、国奖、优秀毕业生，入职好未来（SSP Offer）</span>
     </li>
     <li>
-     <a href="https://luodezhao.github.io/" target="_blank" style="background-color: rgb(255, 255, 255);" _href="https://luodezhao.github.io/"><strong>罗德昭</strong></a><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">AAAI</span><span style="background-color: rgb(255, 255, 255);"> Oral、</span><span style="background-color: rgb(235, 241, 221);">TOMM</span><span style="background-color: rgb(255, 255, 255);"></span></span><span style="background-color: rgb(255, 255, 255);">，国奖、所长特别奖、优秀毕业生，QMUL龚少刚教授博士生</span>
+     <a href="https://luodezhao.github.io/" target="_blank" style="background-color: rgb(255, 255, 255);" _href="https://luodezhao.github.io/"><strong>罗德昭</strong></a><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">AAAI Oral</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(235, 241, 221);">TOMM</span><span style="background-color: rgb(255, 255, 255);"></span></span><span style="background-color: rgb(255, 255, 255);">，国奖、所长特别奖、优秀毕业生，QMUL龚少刚教授博士生</span>
     </li>
     <li>
-     <strong>李晓倪</strong>，2019级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM</span> Oral、<span style="background-color: rgb(235, 241, 221);">PR</span>、ICANN，三好学生标兵，入职北京银行
+     <strong>李晓倪</strong>，2019级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM Oral</span>、<span style="background-color: rgb(235, 241, 221);">PR</span>、ICANN，三好学生标兵，入职北京银行
     </li>
     <li>
      <span style="background-color: rgb(255, 255, 255);"><strong>过友辉</strong>，2019级硕士生，一作</span><span style="background-color: rgb(242, 220, 219);">ICME</span><span style="background-color: rgb(255, 255, 255);">、ICANN，入职科大讯飞（飞星计划<span style="white-space: normal;">）</span></span></li>
      <li>
-     <strong>曾港艳</strong>，2020级博士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *2</span>、<span style="background-color: rgb(235, 241, 221);">PR</span>、PRICAI，入职南理工（<span style="text-wrap: wrap;">教职</span>）
+     <strong>曾港艳</strong>，2020级博士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *3</span>、<span style="background-color: rgb(235, 241, 221);">PR</span>、PRICAI，入职南理工（<span style="text-wrap: wrap;">教职</span>）
     </li>
     <li><strong style="">王</strong><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span><strong style="">威</strong>，2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM</span>，CSIG 2022票据识别与分析挑战赛冠军，国奖，第二届中国图象图形学报研究生学术论坛优秀报告，入职上海人工智能实验室
     </li>
     <li>
-     <strong style="">方</strong><span style="white-space: normal;"><span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></span><strong style="">波</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ICCV</span>、<span style="background-color: rgb(198, 217, 240);">ACM MM</span> Oral，国奖，香港城市大学博士生</span></li><li><span style="white-space: normal;"><strong style="">魏</strong><span style="white-space: normal;"><span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></span><strong style="">谨</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM</span>，入职联想研究院</span></span>
+     <strong style="">方</strong><span style="white-space: normal;"><span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></span><strong style="">波</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ICCV</span>、<span style="background-color: rgb(198, 217, 240);">ACM MM Oral</span>，国奖，香港城市大学博士生</span></li><li><span style="white-space: normal;"><strong style="">魏</strong><span style="white-space: normal;"><span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></span><strong style="">谨</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM</span>，入职联想研究院</span></span>
     </li>
     <li>
      <span style="white-space: normal;"><span style="white-space: normal;"><strong>杨欣烨</strong>，2020级硕士生，一作<span style="background-color: rgb(242, 220, 219);">ICME</span>，入职中科院软件所</span></span>
     </li>
     <li>
-     <span style="white-space: normal;"><span style="white-space: normal;"><strong style="">李<span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></strong><strong style="">强</strong>，2020级硕士生，一作ICANN，入职重庆赛力斯技术有限公司</span></span></li><li><strong style=""><em>申化文</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">IJCAI</span> Oral，<span style="white-space: normal;">CSIG 2022票据识别与分析挑战赛冠军，在读</span>
+     <span style="white-space: normal;"><span style="white-space: normal;"><strong style="">李<span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></strong><strong style="">强</strong>，2020级硕士生，一作ICANN，入职重庆赛力斯技术有限公司</span></span></li>
+    <li>
+     <strong style=""><em>申化文</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">IJCAI Oral</span>，<span style="white-space: normal;">CSIG 2022票据识别与分析挑战赛冠军，在读</span>
     </li>
     <li>
-     <span style="white-space: normal;"><strong>舒<span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span>言</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM</span> Oral、<span style="background-color: rgb(242, 220, 219);">ICASSP</span>，多伦多大学博士生</span>
+     <strong style=""><em>吴岱卿</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM*2</span>，在读
+    </li>
+    <li>
+     <span style="white-space: normal;"><strong>舒<span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span>言</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM Oral</span>、<span style="background-color: rgb(242, 220, 219);">ICASSP</span>，多伦多大学博士生</span>
     </li> 
     <li>
      <strong>杨晓萌</strong>，2021级硕士生，一作IEEE SPL、<span style="background-color: rgb(242, 220, 219);">ICASSP</span>，美国东北大学博士生
