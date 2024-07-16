@@ -27,6 +27,10 @@ author_profile: true
 				<span style="background-color: rgb(235, 241, 221);"><span style="font-family: arial, helvetica, sans-serif; font-size: 15px;">​​Y Zhang, C Liu,&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif; font-size: 15px;">Y Zhou*</strong><span style="font-family: arial, helvetica, sans-serif; font-size: 15px;">, W Wang, Q Ye, X Ji. "Beyond Instance Discrimination: Relation-aware Contrastive Self-supervised Learning."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif; font-size: 15px;">TMM</strong><span style="font-family: arial, helvetica, sans-serif; font-size: 15px;">, 2024. (</span><strong style="font-family: arial, helvetica, sans-serif; font-size: 15px;">SCI一区</strong><span style="font-family: arial, helvetica, sans-serif; font-size: 15px;">,&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif; font-size: 15px;">CCF-B</strong><span style="font-family: arial, helvetica, sans-serif; font-size: 15px;">,&nbsp;</span><a href="https://ieeexplore.ieee.org/document/10285026" target="_blank" _href="https://ieeexplore.ieee.org/document/10285026" style="font-family: arial, helvetica, sans-serif; font-size: 15px;">PDF</a><span style="font-family: arial, helvetica, sans-serif; font-size: 15px;">)</span>
 				</span>
 			</li>
+   			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">G Zeng, Y Zhang, J Wei, D Yang, P Zhang, Y Gao, X Qin, Y Zhou. "Focus, Distinguish, and Prompt: Unleashing CLIP for Efficient and Flexible Scene Text Retrieval." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>)</span></span>
+			</li>li
+
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">Z Li, Y Shu, W Zeng, D Yang, <strong>Y Zhou*</strong>. "First Creating Backgrounds Then Rendering Texts: A New Paradigm for Visual Text Blending." <strong>ECAI</strong>, 2024. (<strong>CCF-B</strong>, Acceptance Rate 23.0%)</span></span>			
 			</li>
