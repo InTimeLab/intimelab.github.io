@@ -28,10 +28,13 @@ author_profile: true
 				</span>
 			</li>
    			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">G Zeng, Y Zhang, J Wei, D Yang, P Zhang, Y Gao, X Qin, <strong>Y Zhou</strong>strong. "Focus, Distinguish, and Prompt: Unleashing CLIP for Efficient and Flexible Scene Text Retrieval." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>)</span></span>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">G Zeng, Y Zhang, J Wei, D Yang, P Zhang, Y Gao, X Qin, <strong>Y Zhou</strong>. "Focus, Distinguish, and Prompt: Unleashing CLIP for Efficient and Flexible Scene Text Retrieval." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>)</span></span>
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">D Wu, D Yang, <strong>Y Zhou</strong>, C Ma. "Bridging Visual Affective Gap: Borrowing Textual Knowledge by Learning from Noisy Image-Text Pairs." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>)</span></span>
+			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">D Wu, D Yang, <strong>Y Zhou</strong>, C Ma. "Robust Multimodal Sentiment Analysis of Image-Text Pairs by Distribution-Based Feature Recovery and Fusion." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>)</span></span>
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">Z Li, Y Shu, W Zeng, D Yang, <strong>Y Zhou*</strong>. "First Creating Backgrounds Then Rendering Texts: A New Paradigm for Visual Text Blending." <strong>ECAI</strong>, 2024. (<strong>CCF-B</strong>, Acceptance Rate 23.0%)</span></span>			
