@@ -57,7 +57,7 @@ author_profile: true
      <strong style=""><em>申化文</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">IJCAI Oral</span>，<span style="white-space: normal;">CSIG 2022票据识别与分析挑战赛冠军，在读</span>
     </li>
     <li>
-     <strong style=""><em>吴岱卿</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM*2</span>，在读
+     <strong style=""><em>吴岱卿</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *2</span>，在读
     </li>
     <li>
      <span style="white-space: normal;"><strong>舒<span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span>言</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM Oral</span>、<span style="background-color: rgb(242, 220, 219);">ICASSP</span>，多伦多大学博士生</span>
