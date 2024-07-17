@@ -40,9 +40,8 @@ redirect_from:
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=IZ9pPSCretfEwjCp7s_Fm8UrWtt2kUvApAL5BtbtCBA&cl=ffffff&w=a"></script>
 </div>
 
-**最新消息：**
 <div class="news">
-    最新消息：
+    <strong>最新消息：</strong>
     <em>招生：24年推免拟招生25级学术型硕士生2名；同步招生25级硕转博/申请考核制博士生1名；欢迎南开大学津南校区本科生进组实习！<em><br><br>
     <em>2024年07月15日，祝贺曾港艳CLIP4SceneTextRetrieval、吴岱卿2项多模态情感分析工作共3篇论文被ACM MM 2024接收！</em><br><br>
     <em>2024年07月04日，祝贺李祯航可视文字生成工作被ECAI 2024录用！</em><br><br>
