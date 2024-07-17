@@ -48,4 +48,4 @@ redirect_from:
 
 <div class="map">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=IZ9pPSCretfEwjCp7s_Fm8UrWtt2kUvApAL5BtbtCBA&cl=ffffff&w=a"></script>
-</div>
+
