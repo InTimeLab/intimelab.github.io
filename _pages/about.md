@@ -36,6 +36,10 @@ redirect_from:
   }
 </style>
 
+<div class="map">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=IZ9pPSCretfEwjCp7s_Fm8UrWtt2kUvApAL5BtbtCBA&cl=ffffff&w=a"></script>
+</div>
+
 <div class="news">
     <em>招生：24年推免拟招生25级学术型硕士生2名，同步招生25级硕转博/申请考核制博士生1名，欢迎南开大学本科生进组实习！<em><br><br>
     <em>2024年07月15日，祝贺曾港艳CLIP4SceneTextRetrieval、吴岱卿2项多模态情感分析工作共3篇论文被ACM MM 2024接收！</em><br><br>
@@ -45,7 +49,3 @@ redirect_from:
     <em>2024年04月24日，周宇老师参加CSIG“2024图图名师讲堂”系列学术讲座并作报告。</em><br><br>    
     <em>2023年11月24日，祝贺杨东宝、曾港艳顺利通过博士学位论文答辩！</em><br><br>    
 </div>
-
-<div class="map">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=IZ9pPSCretfEwjCp7s_Fm8UrWtt2kUvApAL5BtbtCBA&cl=ffffff&w=a"></script>
-
