@@ -30,7 +30,9 @@ author_profile: true
    <strong>评审咨询</strong>
   </div>
   <ul style="text-wrap: wrap;">
-   <li>国家自然科学基金委，项目评审专家</li><li>国家广播电视总局，项目评审专家</li>
+   <li>国家自然科学基金委，项目评审专家</li>
+   <li>国家广播电视总局，项目评审专家</li>
+   <li>国家工业信息安全发展研究中心，科技成果评审专家</li>
   </ul>
   <p style="text-wrap: wrap;">
    <strong>会议</strong><br>
