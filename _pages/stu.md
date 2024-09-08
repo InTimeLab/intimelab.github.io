@@ -4,7 +4,10 @@ title: "招生信息"
 permalink: /stu/
 author_profile: true
 ---
-+ <h16 style="color:red"><em>招生：2024年推免拟招生2025级学术型硕士生2名, 已发表CCF列表论文、大四可提前进组者优先；同步招生2025级硕转博/申请考核制博士生1名，已发表CCF-A/中科院SCI一区或同等级论文、经导师同意可现在进组者优先；欢迎南开大学本科生进组实习，可选择研究或工程工作；感兴趣者请联系yzhou@nankai.edu.cn考核。</em></h16>
++ <h16 style="color:red"><em>招生：2024年推免拟招生2025级学术型硕士生2名, 已发表CCF列表论文、大四可提前进组者优先；拟招生校企联培直博及硕士生（本校本科生优先）；拟招生退役士兵计划硕士生（推免及统招）；拟与中央民族大学联合招生硕士生（条件可适当放松）；</em></h16>
++ <h16 style="color:red"><em>同步招生2025级硕转博/申请考核制博士生1名，已发表CCF-A/中科院SCI一区或同等级论文、经导师同意可现在进组者优先；拟与中央民族大学联合招生博士生（应用语言学专业、多模态及NLP方向、条件可适当放松）；</em></h16>
++ <h16 style="color:red"><em>欢迎南开大学津南校区本科生进组实习；</em></h16>
++ <h16 style="color:red"><em>感兴趣者请联系yzhou@nankai.edu.cn考核。</em></h16>
 
 + 具备**推免资格**；满足**南开大学及**<a href="https://cc.nankai.edu.cn/2024/0613/c13297a545420/page.htm" target="_blank" style="background-color: rgb(255, 255, 255);" _href="https://cc.nankai.edu.cn/2024/0613/c13297a545420/page.htm">**计算机/网安学院推免要求**；
 
