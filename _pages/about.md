@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "InTime：INterpret Text In MEdia"
+title: "InTime：INterpret Tongue In MEdia"
 author_profile: true
 redirect_from: 
   - /about/
