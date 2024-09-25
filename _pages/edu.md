@@ -21,7 +21,7 @@ author_profile: true
      <span style="background-color: rgb(255, 255, 255);"><strong>秦绪功</strong>，2017级博士生，一作</span><span style="background-color: rgb(198, 217, 240);">CCF-A *2</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(242, 220, 219);">CCF-B *1</span><span style="background-color: rgb(255, 255, 255);">、CCF-C *1，优秀毕业生，入职南理工（教职）</span>
     </li>
     <li>
-     <span style="background-color: rgb(255, 255, 255);"><strong>陈语地</strong>，2017级硕士生<span style="white-space: normal;">，一作CCF-C*2，3项国内外竞赛前三名</span>，入职抖音</span>
+     <span style="background-color: rgb(255, 255, 255);"><strong>陈语地</strong>，2017级硕士生<span style="white-space: normal;">，一作CCF-C *2，3项国内外竞赛前三名</span>，入职抖音</span>
     </li>
     <li>
      <strong>李鸿宇</strong>，2018级博士生，一作CCF-C *2，入职中关村科学城创新发展有限公司
