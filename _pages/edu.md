@@ -66,7 +66,7 @@ author_profile: true
      <strong>杨晓萌</strong>，2021级硕士生，一作<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>、CCF-C *1，美国东北大学博士生
     </li>
     <li>
-     <strong><em>曾维超</em></strong>，2022级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，在读
+     <strong><em>曾维超</em></strong>，2022级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Spotlight *1</span>，在读
     </li>
     <li>
      <strong><em>李祯航</em></strong>，2022级硕士生，一作<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>，在读
