@@ -44,6 +44,7 @@ redirect_from:
     <strong>最新消息：</strong><br><br>    
     <em><span style="background-color: rgb(225, 225, 255);">【南开大学本校申请考核制博士及中央民族大学联合培养申请考核制博士招生】 同步招生25级硕转博/申请考核制博士生1名、拟与中央民族大学联合招生博士生1名（应用语言学专业、多模态及NLP方向、条件可适当放松）；</span><em><br><br>
     <em><span style="background-color: rgb(225, 225, 255);">【南开大学本科实习招生】欢迎南开大学津南校区本科生进组实习！</span><em><br><br>
+    <em>2024年09月29日，欢迎冯宇菲、陈泽宇、刘亿超同学加入团队！</em><br><br>
     <em>2024年09月26日，祝贺曾维超可视文字编辑工作被NeurIPS 2024接收！Spotlight类型报告。</em><br><br>
     <em>2024年09月25日，欢迎李斐然同学加入团队！</em><br><br>
     <em>2024年07月15日，祝贺曾港艳CLIP4SceneTextRetrieval、吴岱卿2项多模态情感分析工作共3篇论文被ACM MM 2024接收！</em><br><br>
