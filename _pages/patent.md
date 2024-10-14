@@ -15,7 +15,6 @@ author_profile: true
     </p>
     <ol style="text-wrap: wrap;">
 	    <li><span style="text-wrap: nowrap;">具有场景文字的图像生成方法，2024，受理号：202411423694.X</span></li>
-	    <li><span style="text-wrap: nowrap;">test</span></li>
 	    <li><span style="text-wrap: nowrap;">基于对抗训练的场景文字识别方法及装置，2024，受理号：202410434598.9</span></li>
 	    <li><span style="text-wrap: nowrap;">基于提示学习的生成式文本视觉问答方法及系统，2023，受理号：202311267037.6</span></li>
 	    <li><span style="text-wrap: nowrap;">基于对比学习特征增强的场景文字检测方法及装置，2023，受理号：202311298617.1</span></li>
