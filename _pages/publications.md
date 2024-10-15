@@ -32,7 +32,7 @@ author_profile: true
 				</span>
 			</li>
    			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">G Zeng, Y Zhang, J Wei, D Yang, P Zhang, Y Gao, X Qin, <strong>Y Zhou</strong>. "Focus, Distinguish, and Prompt: Unleashing CLIP for Efficient and Flexible Scene Text Retrieval." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>)</span></span>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">G Zeng, Y Zhang, J Wei, D Yang, P Zhang, Y Gao, X Qin, <strong>Y Zhou</strong>. "Focus, Distinguish, and Prompt: Unleashing CLIP for Efficient and Flexible Scene Text Retrieval." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2408.00441" target="_blank" _href="https://arxiv.org/abs/2408.00441">PDF</a>)</span></span>
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">D Wu, D Yang, <strong>Y Zhou</strong>, C Ma. "Bridging Visual Affective Gap: Borrowing Textual Knowledge by Learning from Noisy Image-Text Pairs." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>)</span></span>
