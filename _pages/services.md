@@ -24,7 +24,7 @@ author_profile: true
    <strong>专委会</strong><br>
   </p>
   <ul style="text-wrap: wrap;">
-   <li>中国图象图形学学会文档图像分析与识别专委会，委员</li>
+   <li>中国图象图形学学会文档图像分析与识别专委会，副秘书长、常务委员</li>
   </ul>
   <div style="text-wrap: wrap;">
    <strong>评审咨询</strong>
