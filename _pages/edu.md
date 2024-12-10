@@ -55,7 +55,10 @@ author_profile: true
     <li>
      <span style="white-space: normal;"><span style="white-space: normal;"><strong style="">李<span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></strong><strong style="">强</strong>，2020级硕士生，一作CCF-C *1，入职重庆赛力斯技术有限公司</span></span></li>
     <li>
-     <strong style=""><em>申化文</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span>，<span style="white-space: normal;">CSIG 2022票据识别与分析挑战赛冠军，在读</span>
+     <strong style=""><em>申化文</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>，<span style="white-space: normal;">CSIG 2022票据识别与分析挑战赛冠军，在读</span>
+    </li>    
+    <li>
+     <strong style=""><em>张傲婷</em></strong>，2021级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>，在读
     </li>
     <li>
      <strong style=""><em>吴岱卿</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>，在读
@@ -65,6 +68,12 @@ author_profile: true
     </li> 
     <li>
      <strong>杨晓萌</strong>，2021级硕士生，一作<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>、CCF-C *1，美国东北大学王言治教授博士生
+    </li>
+    <li>
+     <strong><em>吕嘉昊</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，在读
+    </li>
+    <li>
+     <span style="white-space: normal;"><strong>张<span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span>言</strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，在读</span>
     </li>
     <li>
      <strong><em>曾维超</em></strong>，2022级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Spotlight *1</span>，国奖，在读
