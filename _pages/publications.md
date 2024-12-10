@@ -19,6 +19,34 @@ author_profile: true
 		</p>
 		<p style="text-wrap: wrap;">
 			<span style="font-family: arial, helvetica, sans-serif;">
+				<strong><span style="font-size:15px">2025</span></strong>
+			</span>
+		</p>
+		<ol>
+
+   			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+J Lyu, W Wang, D Yang, J Zhong, <strong>Y Zhou*</strong>. "Arbitrary Reading Order Scene Text Spotter with Local Semantics Guidance." <strong>AAAI</strong>, 2025. (<strong>CCF-A</strong>)</span></span>
+			</li> 
+   			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+H Shen, G Li, J Zhong, <strong>Y Zhou*</strong>. "LDP: Generalizing to Multilingual Visual Information Extraction by Language Decoupled Pretraining." <strong>AAAI</strong>, 2025. (<strong>CCF-A</strong>)</span></span>
+			</li>
+      			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+Y Zhang, G Zeng, H Shen, D Wu, <strong>Y Zhou*</strong>, C Ma. "Track the Answer: Extending TextVQA from Image to Video with Spatio-Temporal Clues." <strong>AAAI</strong>, 2025. (<strong>CCF-A</strong>)</span></span>
+			</li>
+   			<li>
+				<span style="background-color: rgb(242, 220, 219);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, M Shang, Y Zhou. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">DCA: Dividing and Conquering Amnesia in Incremental Object Detection."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>)
+				</span>
+			</li>   
+   			<li>
+				<span style="background-color: rgb(242, 220, 219);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, Y Zhou. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">Specifying What You Know or Not for Multi-Label Class-Incremental Learning."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>)
+				</span>
+			</li>
+   
+		<p style="text-wrap: wrap;">
+			<span style="font-family: arial, helvetica, sans-serif;">
 				<strong><span style="font-size:15px">2024</span></strong>
 			</span>
 		</p>
