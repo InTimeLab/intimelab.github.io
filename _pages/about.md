@@ -45,7 +45,7 @@ redirect_from:
     <strong>最新消息：</strong><br><br>    
     <em><span style="background-color: rgb(225, 225, 255);">【中央民族大学联合培养申请考核制博士招生】 拟与中央民族大学联合招生博士生1名（应用语言学专业、多模态及NLP方向）；</span><em><br><br>
     <em><span style="background-color: rgb(225, 225, 255);">【南开大学本科实习招生】欢迎南开大学津南校区本科生进组实习！</span><em><br><br>
-    <em>2024年12月10日，祝贺化文、嘉昊、张言的多语言VIE、任意阅读顺序文字Spotting、视频TextVQA，傲婷的增量检测、多标签类增量5项工作被AAAI接收！</em><br><br>
+    <em>2024年12月10日，祝贺申化文、吕嘉昊、张言的多语言VIE、任意阅读顺序文字Spotting、视频TextVQA，张傲婷的增量检测、多标签类增量5项工作被AAAI接收！</em><br><br>
     <em>2024年09月26日，祝贺曾维超可视文字编辑工作被NeurIPS 2024接收！Spotlight类型报告。</em><br><br>
     <em>2024年07月15日，祝贺曾港艳CLIP4SceneTextRetrieval、吴岱卿2项多模态情感分析工作共3篇论文被ACM MM 2024接收！</em><br><br>
     <em>2024年07月04日，祝贺李祯航可视文字生成工作被ECAI 2024录用！</em><br><br>
