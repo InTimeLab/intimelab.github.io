@@ -42,7 +42,7 @@ Y Zhang, G Zeng, H Shen, D Wu, <strong>Y Zhou*</strong>, C Ma. "Track the Answer
 				</span>
 			</li>   
    			<li>
-				<span style="background-color: rgb(242, 220, 219);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">Specifying What You Know or Not for Multi-Label Class-Incremental Learning."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>)
+				<span style="background-color: rgb(242, 220, 219);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">Specifying What You Know or Not for Multi-label Class-incremental Learning."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>)
 				</span>
 			</li>
    
