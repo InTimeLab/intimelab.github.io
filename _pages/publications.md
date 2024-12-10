@@ -18,12 +18,13 @@ author_profile: true
 			</strong>
 		</p>
 		
+		</ol>
 		<p style="text-wrap: wrap;">
 			<span style="font-family: arial, helvetica, sans-serif;">
 				<strong><span style="font-size:15px">2025</span></strong>
 			</span>
 		</p>
-		<ol>
+		<ol style="text-wrap: wrap;">
 
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
@@ -46,12 +47,13 @@ Y Zhang, G Zeng, H Shen, D Wu, <strong>Y Zhou*</strong>, C Ma. "Track the Answer
 				</span>
 			</li>
    
+		</ol>
 		<p style="text-wrap: wrap;">
 			<span style="font-family: arial, helvetica, sans-serif;">
 				<strong><span style="font-size:15px">2024</span></strong>
 			</span>
 		</p>
-		<ol>
+		<ol style="text-wrap: wrap;">
 
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">W Zeng, Y Shu, Z Li, D Yang, <strong>Y Zhou*</strong>. "TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control." <strong>NeurIPS</strong>, 2024. (<strong>CCF-A, Spotlight</strong>, <a href="https://arxiv.org/abs/2410.10133" target="_blank" _href="https://arxiv.org/abs/2410.10133">PDF</a>)</span></span>
