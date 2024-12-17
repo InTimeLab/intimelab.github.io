@@ -43,7 +43,7 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br><br>
-    <em><span style="background-color: rgb(225, 225, 255);">【南开大学本校申请考核制博士招生】 招生25级申请考核制博士生1名；</span><em><br><br>
+    <em><span style="background-color: rgb(225, 225, 255);">【南开大学本校硕博连读或申请考核制博士招生】 招生25级硕博连读或申请考核制博士生1名；</span><em><br><br>
     <em><span style="background-color: rgb(225, 225, 255);">【中央民族大学联合培养申请考核制博士招生】 拟与中央民族大学联合招生博士生1名（应用语言学专业、多模态及NLP方向）；</span><em><br><br>
     <em><span style="background-color: rgb(225, 225, 255);">【南开大学本科实习招生】欢迎南开大学津南校区本科生进组实习！</span><em><br><br>
     <em>2024年12月10日，祝贺申化文、吕嘉昊、张言的多语言VIE、任意阅读顺序文字Spotting、视频TextVQA，张傲婷的增量检测、多标签类增量5项工作被AAAI 2025接收！</em><br><br>
