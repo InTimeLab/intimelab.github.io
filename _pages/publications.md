@@ -31,7 +31,7 @@ J Lyu, W Wang, D Yang, J Zhong, <strong>Y Zhou*</strong>. "Arbitrary Reading Ord
 			</li> 
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-H Shen, G Li, J Zhong, <strong>Y Zhou*</strong>. "LDP: Generalizing to Multilingual Visual Information Extraction by Language Decoupled Pretraining." <strong>AAAI</strong>, 2025. (<strong>CCF-A</strong>)</span></span>
+H Shen, G Li, J Zhong, <strong>Y Zhou*</strong>. "LDP: Generalizing to Multilingual Visual Information Extraction by Language Decoupled Pretraining." <strong>AAAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2412.14596" target="_blank" _href="https://arxiv.org/abs/2412.14596">PDF</a>)</span></span>
 			</li>
       			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
