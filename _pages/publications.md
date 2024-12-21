@@ -45,6 +45,10 @@ Y Zhang, G Zeng, H Shen, D Wu, <strong>Y Zhou*</strong>, C Ma. "Track the Answer
 				<span style="background-color: rgb(242, 220, 219);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">Specifying What You Know or Not for Multi-label Class-incremental Learning."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>)
 				</span>
 			</li>
+   			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+E Xie, J Lyu, D Wu, H Shen, <strong>Y Zhou*</strong>. "Char-SAM: Turning Segment Anything Model into Scene Text Segmentation Annotator with Character-level Visual Prompts." <strong>ICASSP</strong>, 2025. (<strong>CCF-B</strong>)</span></span>  
+			</li>
    
 		</ol>
 		<p style="text-wrap: wrap;">
