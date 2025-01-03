@@ -28,7 +28,7 @@ author_profile: true
 	    <li><span style="text-wrap: nowrap;">一种成本高效的场景文字检测方法及系统, 2021, 受理号: 202111295077.2</span></li>
 	    <li><span style="text-wrap: nowrap;">单阶段3D点云目标检测方法及装置、计算机设备、介质, 2021, 受理号：202111271651.0</span></li>
 	    <li><span style="text-wrap: nowrap;">基于并行迭代模仿解码的场景文字识别系统及方法, 2021, 专利号：ZL 2021 1 1026162.9</span></li>
-	    <li><span style="text-wrap: nowrap;">文本视觉问答方法和装置, 2021, 受理号：202111186856.9</span></li>
+	    <li><span style="text-wrap: nowrap;">文本视觉问答方法和装置, 2021, 专利号：ZL 2021 1 1186856.9</span></li>
 	    <li><span style="text-wrap: nowrap;">基于多层感知机掩膜解码器的文字检测系统及方法, 2021, 专利号：ZL 2021 1 1034219.X</span></li>
 	    <li><span style="text-wrap: nowrap;">一种面向场景图像中任意形状邻近文本的检测系统及方法, 2021, 专利号：ZL 2021 1 1004566.8</span></li>
 	    <li><span style="text-wrap: nowrap;">一种基于密集语义对比的自监督视觉模型预训练方法, 2021, 专利号：ZL 2021 1 0988818.9</span></li>
