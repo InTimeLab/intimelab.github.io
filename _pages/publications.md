@@ -49,6 +49,10 @@ Y Zhang, G Zeng, H Shen, D Wu, <strong>Y Zhou*</strong>, C Ma. "Track the Answer
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 E Xie, J Lyu, D Wu, H Shen, <strong>Y Zhou*</strong>. "Char-SAM: Turning Segment Anything Model into Scene Text Segmentation Annotator with Character-level Visual Prompts." <strong>ICASSP</strong>, 2025. (<strong>CCF-B</strong>)</span></span>  
 			</li>
+   			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou*</strong>, J Yang. "Beyond Flat Text: Dual Self-inherited Guidance for Visual Text Generation." arXiv, 2025. </span></span>  
+			</li>
    
 		</ol>
 		<p style="text-wrap: wrap;">
