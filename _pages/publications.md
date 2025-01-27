@@ -38,20 +38,18 @@ H Shen, G Li, J Zhong, <strong>Y Zhou*</strong>. "LDP: Generalizing to Multiling
 Y Zhang, G Zeng, H Shen, D Wu, <strong>Y Zhou*</strong>, C Ma. "Track the Answer: Extending TextVQA from Image to Video with Spatio-Temporal Clues." <strong>AAAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2412.12502" target="_blank" _href="https://arxiv.org/abs/2412.12502">PDF</a>)</span></span> 
 			</li>
    			<li>
-				<span style="background-color: rgb(242, 220, 219);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, M Shang, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">DCA: Dividing and Conquering Amnesia in Incremental Object Detection."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>)
-				</span>
+				<span style="background-color: rgb(242, 220, 219);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, M Shang, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">DCA: Dividing and Conquering Amnesia in Incremental Object Detection."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>)</span></span>
 			</li>   
    			<li>
-				<span style="background-color: rgb(242, 220, 219);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">Specifying What You Know or Not for Multi-label Class-incremental Learning."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>)
-				</span>
+				<span style="background-color: rgb(242, 220, 219);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">Specifying What You Know or Not for Multi-label Class-incremental Learning."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>)</span></span>
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-E Xie, J Lyu, D Wu, H Shen, <strong>Y Zhou*</strong>. "Char-SAM: Turning Segment Anything Model into Scene Text Segmentation Annotator with Character-level Visual Prompts." <strong>ICASSP</strong>, 2025. (<strong>CCF-B</strong>, <a href="https://arxiv.org/abs/2412.19917" target="_blank" _href="https://arxiv.org/abs/2412.19917">PDF</a>)</span>  
+E Xie, J Lyu, D Wu, H Shen, <strong>Y Zhou*</strong>. "Char-SAM: Turning Segment Anything Model into Scene Text Segmentation Annotator with Character-level Visual Prompts." <strong>ICASSP</strong>, 2025. (<strong>CCF-B</strong>, <a href="https://arxiv.org/abs/2412.19917" target="_blank" _href="https://arxiv.org/abs/2412.19917">PDF</a>)</span></span>  
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</strong>, J Yang. "Beyond Flat Text: Dual Self-inherited Guidance for Visual Text Generation." arXiv, 2025. (<a href="https://arxiv.org/abs/2501.05892" target="_blank" _href="https://arxiv.org/abs/2501.05892">PDF</a>)</span>  
+M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</strong>, J Yang. "Beyond Flat Text: Dual Self-inherited Guidance for Visual Text Generation." arXiv, 2025. (<a href="https://arxiv.org/abs/2501.05892" target="_blank" _href="https://arxiv.org/abs/2501.05892">PDF</a>)</span></span>  
 			</li>
    
 		</ol>
