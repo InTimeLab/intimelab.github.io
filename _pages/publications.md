@@ -51,7 +51,7 @@ E Xie, J Lyu, D Wu, H Shen, <strong>Y Zhou*</strong>. "Char-SAM: Turning Segment
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou*</strong>, J Yang. "Beyond Flat Text: Dual Self-inherited Guidance for Visual Text Generation." arXiv, 2025. </span></span>  
+M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</strong>, J Yang. "Beyond Flat Text: Dual Self-inherited Guidance for Visual Text Generation." arXiv, 2025. </span></span>  
 			</li>
    
 		</ol>
