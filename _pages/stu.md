@@ -8,6 +8,8 @@ author_profile: true
 
 + <h16 style="color:red"><em>【学硕招生】 25年推免拟招生26级学术型硕士生2名（已发表CCF列表论文、大四可提前进组者优先）；</em></h16>
 
++ <h16 style="color:red"><em>【东北师大硕士招生】 25年拟招生东北师范大学硕士生（需有明确科研目标）；</em></h16>
+
 + <h16 style="color:red"><em>【本科实习】欢迎南开大学津南校区本科生进组实习！</em></h16>
 
 + 具备**推免资格**；满足**南开大学及**<a href="https://cc.nankai.edu.cn/2024/0613/c13297a545420/page.htm" target="_blank" style="background-color: rgb(255, 255, 255);" _href="https://cc.nankai.edu.cn/2024/0613/c13297a545420/page.htm">**计算机/网安学院推免要求**；
