@@ -22,11 +22,11 @@ repository               : "intimeLab/intimelab.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "周宇(Yu ZHOU)"
+  name             : "周宇 (Yu ZHOU)"
   pronouns         : # example: "she/her"  
   bio              : "教授 博导 InTimeLab负责人"
 #  location         : ""
-  employer         : "南开大学(Nankai University)"
+  employer         : "南开大学 (Nankai University)"
   uri              : # URL
   email            : "yzhou@nankai.edu.cn" 
   
