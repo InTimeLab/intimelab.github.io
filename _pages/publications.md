@@ -25,6 +25,10 @@ author_profile: true
 		</p>
 		<ol style="text-wrap: wrap;">
 
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+Y Zhang, C Liu, J Wei, X Yang, <strong>Y Zhou*</strong>, C Ma, X Ji. "Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition." <strong>CVPR</strong>, 2025. (<strong>CCF-A</strong>)</span></span>  
+			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 J Lyu, W Wang, D Yang, J Zhong, <strong>Y Zhou*</strong>. "Arbitrary Reading Order Scene Text Spotter with Local Semantics Guidance." <strong>AAAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2412.10159" target="_blank" _href="https://arxiv.org/abs/2412.10159">PDF</a>)</span></span>  
