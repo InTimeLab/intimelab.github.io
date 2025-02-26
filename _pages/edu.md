@@ -27,7 +27,7 @@ author_profile: true
      <strong>李鸿宇</strong>，2018级博士生，一作CCF-C *2，入职中关村科学城创新发展有限公司
     </li>
     <li>
-     <strong><em>张宜飞</em></strong>，2018级硕博生，一作<span style="background-color: rgb(235, 241, 221);">中科院SCI一区 *1</span><span style="background-color: rgb(255, 255, 255);"></span>、CCF-C *1，在读
+     <strong><em>张宜飞</em></strong>，2018级硕博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、<span style="background-color: rgb(235, 241, 221);">中科院SCI一区 *1</span><span style="background-color: rgb(255, 255, 255);"></span>、CCF-C *1，在读
     </li>
     <li>
      <strong style="background-color: rgb(255, 255, 255);">乔</strong><span style="background-color: rgb(255, 255, 255);color:#ffffff">一</span><strong style="background-color: rgb(255, 255, 255);">峙</strong><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">CCF-A Best Paper Candidate</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(198, 217, 240);">CCF-A *1</span><span style="background-color: rgb(255, 255, 255);">、CCF-C *1</span></span><span style="background-color: rgb(255, 255, 255);">，院长奖提名、国奖、优秀毕业生，入职好未来（SSP Offer）</span>
