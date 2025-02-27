@@ -10,7 +10,7 @@ author_profile: true
 		<p style="text-wrap: wrap;">
 			<strong style="font-family: arial, helvetica, sans-serif;">
 				<span style="font-size:16px">
-					可视文字<span style="background-color: rgb(198, 217, 240);">&nbsp; &nbsp; &nbsp;</span>
+					可视文本<span style="background-color: rgb(198, 217, 240);">&nbsp; &nbsp; &nbsp;</span>
 					自监督学习<span style="background-color: rgb(235, 241, 221);">&nbsp; &nbsp; &nbsp;</span>
 					增量检测<span style="background-color: rgb(242, 220, 219);">&nbsp; &nbsp; &nbsp;</span>
 					其他工作<span style="background-color: rgb(242, 242, 242);">&nbsp; &nbsp; &nbsp;</span>
