@@ -48,7 +48,7 @@ redirect_from:
     <em><span style="background-color: rgb(225, 225, 255);">【东北师大硕士招生】 拟招生东北师范大学25级硕士生；</span><em><br>
     <em><span style="background-color: rgb(225, 225, 255);">【本科实习】欢迎南开大学津南校区本科生进组实习！</span><em><br><br>
     <em>2025年02月27日，祝贺张宜飞自监督文字识别工作被<strong style="">CVPR 2025</strong>接收！</em><br><br>
-    <em>2024年12月10日，祝贺申化文、吕嘉昊、张言的多语言VIE、任意阅读顺序文字Spotting、视频TextVQA，张傲婷的增量检测、多标签类增量5项工作被<strong style="">AAAI 2025</strong>接收！</em><br><br>
+    <em>2024年12月10日，祝贺申化文/吕嘉昊/张言的多语言VIE/任意阅读顺序文字Spotting/视频TextVQA、张傲婷的增量检测/多标签类增量共5项工作被<strong style="">AAAI 2025</strong>接收！</em><br><br>
     <em>2024年09月26日，祝贺曾维超可视文字编辑工作被<strong style="">NeurIPS 2024</strong>接收！Spotlight类型报告。</em><br><br>
-    <em>2024年07月15日，祝贺曾港艳CLIP4SceneTextRetrieval、吴岱卿2项多模态情感分析工作共3篇论文被<strong style="">ACM MM 2024</strong>接收！</em><br><br>
-    <em>2024年07月04日，祝贺李祯航可视文字生成工作被<strong style="">ECAI 2024</strong>录用！</em><br><br> 
+    <em>2024年07月15日，祝贺曾港艳CLIP4SceneTextRetrieval、吴岱卿2项多模态情感分析共3项工作被<strong style="">ACM MM 2024</strong>接收！</em><br><br>
+    <em>2024年07月04日，祝贺李祯航可视文字生成工作被<strong style="">ECAI 2024</strong>接收！</em><br><br> 
