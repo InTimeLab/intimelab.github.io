@@ -77,10 +77,7 @@ author_profile: true
     </li>
     <li>
      <strong><em>曾维超</em></strong>，2022级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Spotlight *1</span>，国奖，在读
-    </li>
-    <li>
-     <strong><em>李祯航</em></strong>，2022级硕士生，一作<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>，在读
-    </li>
+    </li>    
    </ol>
  </div>
 </div>
