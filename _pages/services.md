@@ -38,6 +38,7 @@ author_profile: true
    <strong>会议</strong><br>
   </p>
   <ul style="text-wrap: wrap;">
+   <li>Workshop Chair: ICDAR 2025 Workshop on Visual Text Generation and Text Image Processing</li>
    <li>Sponsorship Chair: ICDAR-25</li>
    <li>Webpage Chair: PRCV-25</li>
    <li>Area Chair: ACM MM-25, ICDAR-25, ICME-25, ICME-24, ICME-23,&nbsp;ICME-22, ICME-21, PRCV-24</li>
