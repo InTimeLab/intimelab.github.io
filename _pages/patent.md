@@ -14,6 +14,7 @@ author_profile: true
       <span style="text-wrap: nowrap;"><strong></strong></span>
     </p>
     <ol style="text-wrap: wrap;">
+	    <li><span style="text-wrap: nowrap;">一种基于语言感知的场景文字识别预训练方法及系统，2025，受理号：202510335613.9</span></li>
 	    <li><span style="text-wrap: nowrap;">基于明确已知和未知知识的多标签类增量学习方法和系统，2025，受理号：202510190260.8</span></li>
 	    <li><span style="text-wrap: nowrap;">基于分治健忘症的增量目标检测方法和系统，2025，受理号：202510190263.1</span></li>
 	    <li><span style="text-wrap: nowrap;">具有场景文字的图像生成方法，2024，受理号：202411423694.X</span></li>
