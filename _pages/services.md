@@ -38,6 +38,7 @@ author_profile: true
    <strong>会议</strong><br>
   </p>
   <ul style="text-wrap: wrap;">
+   <li>论坛主席: 2025年 CSIG文档图像分析与识别专委会 多模态大模型与可视文本智能（OCR）学术论坛，南开大学</li>
    <li>Workshop Chair: ICDAR 2025 Workshop on Visual Text Generation and Text Image Processing</li>
    <li>Sponsorship Chair: ICDAR-25</li>
    <li>Webpage Chair: PRCV-25</li>
