@@ -25,7 +25,10 @@ author_profile: true
 		</p>
 		<ol style="text-wrap: wrap;">
 
-			<li>
+			<li><span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">X Yang, Z Qiao, </span><strong style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">Y Zhou*</strong><span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">. "IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition." <strong>IJCV</strong>, 2025. (</span><a href="https://arxiv.org/abs/2312.11923" target="_blank" style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);" _href="https://arxiv.org/abs/2312.11923"><span style="font-size:15px">PDF</span></a><span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">)
+			</span>
+			</li>
+   			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 Y Zhang, C Liu, J Wei, X Yang, <strong>Y Zhou*</strong>, C Ma, X Ji. "Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition." <strong>CVPR</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2503.18746" target="_blank" _href="[https://arxiv.org/abs/2412.14596](https://arxiv.org/abs/2503.18746)">PDF</a>)</span></span>  
 			</li>
@@ -160,9 +163,6 @@ M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</str
 			<li>
 				<span style="background-color: rgb(198, 217, 240);"><span style="font-family: arial, helvetica, sans-serif;font-size:15px">X Sun, J Lyu, Y Zhang, G Zeng, B Fang, <strong>Y Zhou*</strong>, E Xie, C Ma. "Feature Enhancement with Text-specific Region Contrast for Scene Text Detection."<strong> PRCV</strong>, 2023. (<strong>CCF-C</strong>, <strong>Oral Presentation, Acceptance Rate 2.3%</strong>, <a href="https://link.springer.com/chapter/10.1007/978-981-99-8540-1_1" target="_blank" _href="https://link.springer.com/chapter/10.1007/978-981-99-8540-1_1">PDF</a>)</span>
 				</span>
-			</li>
-			<li><span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">X Yang, Z Qiao, </span><strong style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">Y Zhou*</strong><span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">, W Wang. "IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition." arXiv, 2023. (</span><a href="https://arxiv.org/abs/2312.11923" target="_blank" style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);" _href="https://arxiv.org/abs/2312.11923"><span style="font-size:15px">PDF</span></a><span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">)
-			</span>
 			</li>
 		</ol>
 		<p style="text-wrap: wrap;">
