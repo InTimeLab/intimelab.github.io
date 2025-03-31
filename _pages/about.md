@@ -47,7 +47,7 @@ redirect_from:
     <em><span style="background-color: rgb(225, 225, 255);">【学硕招生】 25年推免拟招生26级学术型硕士生2名；</span><em><br>
     <em><span style="background-color: rgb(225, 225, 255);">【东北师大硕士招生】 拟招生东北师范大学25级硕士生；</span><em><br>
     <em><span style="background-color: rgb(225, 225, 255);">【本科实习】欢迎南开大学津南校区本科生进组实习！</span><em><br><br>
-    <em>2025年03月30日，InTimeLab承办的2025年CSIG文档图像分析与识别专委会多模态大模型与可视文本智能（OCR）学术论坛顺利召开！论坛邀请**刘成林、金连文、谢洪涛、刘禹良、杨春、方山城**等专家到南开大学分享研究成果，共有**150余位**老师、同学及企业同行参会！</em><br><br>
+    <em>2025年03月30日，InTimeLab承办的2025年CSIG文档图像分析与识别专委会多模态大模型与可视文本智能（OCR）学术论坛顺利召开！论坛邀请<strong>刘成林、金连文、谢洪涛、刘禹良、杨春、方山城</strong>等专家到南开大学分享研究成果，共有<strong>150余位</strong>老师、同学及企业同行参会！</em><br><br>
     <em>2025年03月29日，祝贺杨晓萌和乔峙的场景文本识别工作IPAD暨PIMNet++被<strong style="">IJCV</strong>接收！</em><br><br>
     <em>2025年03月15日，ICDAR 2025 Workshop on Visual Text Generation and Text Image Processing Call for Papers: <a href="https://icdar-vtg-tip.github.io" target="_blank" _href="https://icdar-vtg-tip.github.io">https://icdar-vtg-tip.github.io</a>。</em><br><br>
     <em>2025年03月14日，周宇老师担任ACM MM 2025 Area Chair。</em><br><br>
