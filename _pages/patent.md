@@ -28,7 +28,7 @@ author_profile: true
 	    <li><span style="text-wrap: nowrap;">无需细粒度检测的场景文本提取方法、系统，2022，受理号：202211233226.7</span></li>
 	    <li><span style="text-wrap: nowrap;">基于宏观到微观语义关联对比的视频自监督表征学习方法, 2022, 受理号：202211237958.3</span></li>
 	    <li><span style="text-wrap: nowrap;">面向场景文本检测的文本检测器训练方法及文本检测方法, 2022, 受理号：202210492865.9</span></li>
-	    <li><span style="text-wrap: nowrap;">一种成本高效的场景文字检测方法及系统, 2021, 受理号: 202111295077.2</span></li>
+	    <li><span style="text-wrap: nowrap;">一种成本高效的场景文字检测方法及系统, 2021, 专利号: ZL 2021 1 1295077.2</span></li>
 	    <li><span style="text-wrap: nowrap;">单阶段3D点云目标检测方法及装置、计算机设备、介质, 2021, 受理号：202111271651.0</span></li>
 	    <li><span style="text-wrap: nowrap;">基于并行迭代模仿解码的场景文字识别系统及方法, 2021, 专利号：ZL 2021 1 1026162.9</span></li>
 	    <li><span style="text-wrap: nowrap;">文本视觉问答方法和装置, 2021, 专利号：ZL 2021 1 1186856.9</span></li>
