@@ -13,7 +13,7 @@ author_profile: true
         <span style="text-wrap: nowrap;"><font size="4">ACM MM 2021, Best Paper Candidate, 5篇/1942篇, 2021</font></span>
       </li>
       <li>
-        <span style="text-wrap: nowrap;"><font size="4">ICDAR 2025 Competition on End-to-End Document Image Machine Translation Towards Complex Layouts (DIMT 2025 Challenge)，OCR-free DIMT (Track 1), Translation-Small, 冠军，2025</font></span>
+        <span style="text-wrap: nowrap;"><font size="4">ICDAR 2025复杂版面文本图像端到端机器翻译竞赛(DIMT 2025 Challenge) OCR-free - Translation-Small冠军，2025</font></span>
       </li>
       <li>
         <span style="text-wrap: nowrap;"><font size="4">ICDAR ReST 2023，印章主体文字检测，第三名，2023</font></span>
