@@ -18,8 +18,7 @@ author_profile: true
 			</strong>
 		</p>
 
-    		</ol>
-		<p style="text-wrap: wrap;">
+    		<p style="text-wrap: wrap;">
 			<span style="font-family: arial, helvetica, sans-serif;">
 				<strong><span style="font-size:15px">2025</span></strong>
 			</span>
