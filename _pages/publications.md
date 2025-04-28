@@ -30,7 +30,11 @@ author_profile: true
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-Y Zhang, C Liu, J Wei, X Yang, <strong>Y Zhou*</strong>, C Ma, X Ji. "Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition." <strong>CVPR</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2503.18746" target="_blank" _href="[https://arxiv.org/abs/2412.14596](https://arxiv.org/abs/2503.18746)">PDF</a>)</span></span>  
+X Yang, Z Qiao, <strong>Y Zhou*</strong>. "IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition." <strong>IJCV</strong>, 2025. (<strong>CCF-A, SCI一区</strong>, <a href="https://arxiv.org/abs/2312.11923" target="_blank" _href="[https://arxiv.org/abs/2312.11923](https://arxiv.org/abs/2312.11923)">PDF</a>)</span></span>  
+			</li>
+   			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+Y Zhang, C Liu, J Wei, X Yang, <strong>Y Zhou*</strong>, C Ma, X Ji. "Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition." <strong>CVPR</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2503.18746" target="_blank" _href="https://arxiv.org/abs/2412.14596">PDF</a>)</span></span>  
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
