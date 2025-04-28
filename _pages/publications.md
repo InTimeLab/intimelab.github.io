@@ -27,7 +27,7 @@ author_profile: true
 
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-X Yang, Z Qiao, <strong>Y Zhou*</strong>. "IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition." <strong>IJCV</strong>, 2025. (<strong>CCF-A, SCI一区</strong>, <a href="https://arxiv.org/abs/2312.11923" target="_blank" _href="[https://arxiv.org/abs/2312.11923](https://arxiv.org/abs/2312.11923)">PDF</a>)</span></span>  
+X Yang, Z Qiao, <strong>Y Zhou*</strong>. "IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition." <strong>IJCV</strong>, 2025. (<strong>CCF-A, SCI一区</strong>, <a href="https://arxiv.org/abs/2312.11923" target="_blank" _href="https://arxiv.org/abs/2312.11923">PDF</a>)</span></span>  
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
