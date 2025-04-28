@@ -25,9 +25,6 @@ author_profile: true
 		</p>
 		<ol style="text-wrap: wrap;">
 
-			<li><span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">X Yang, Z Qiao, </span><strong style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">Y Zhou*</strong><span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">. "IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition." <strong>IJCV</strong>, 2025. (<strong>CCF-A, SCI一区</strong>, </span><a href="https://arxiv.org/abs/2312.11923" target="_blank" style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);" _href="https://arxiv.org/abs/2312.11923"><span style="font-size:15px">PDF</span></a><span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">)
-			</span>
-			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 X Yang, Z Qiao, <strong>Y Zhou*</strong>. "IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition." <strong>IJCV</strong>, 2025. (<strong>CCF-A, SCI一区</strong>, <a href="https://arxiv.org/abs/2312.11923" target="_blank" _href="[https://arxiv.org/abs/2312.11923](https://arxiv.org/abs/2312.11923)">PDF</a>)</span></span>  
