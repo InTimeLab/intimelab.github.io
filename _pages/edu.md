@@ -15,7 +15,7 @@ author_profile: true
   <p>
    <a href="https://shownx.github.io/" target="_blank" _href="https://shownx.github.io/"></a></p><ol><a href="https://shownx.github.io/" target="_blank" _href="https://shownx.github.io/"></a>
     <li>
-     <span style="background-color: rgb(255, 255, 255);"><strong style="">杨东宝</strong>，2020级博士生，一作/通作发表<span style="background-color: rgb(198, 217, 240);">CCF-A/SCI一区论文10篇</span>（累计发表期刊会议论文30余篇），中科院信工所助理研究员</span>
+     <span style="background-color: rgb(255, 255, 255);"><strong style="">杨东宝</strong>，2020级博士生，一作/通作发表<span style="background-color: rgb(198, 217, 240);">CCF-A/SCI一区论文10篇</span>（累计发表期刊会议论文30余篇），主持国家自然科学基金青年基金项目、国家重点研发计划子课题各一项，中科院信工所助理研究员</span>
     </li>
     <li>
      <span style="background-color: rgb(255, 255, 255);"><strong>秦绪功</strong>，2017级博士生，一作</span><span style="background-color: rgb(198, 217, 240);">CCF-A *2</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(242, 220, 219);">CCF-B *1</span><span style="background-color: rgb(255, 255, 255);">、CCF-C *1，优秀毕业生，入职南理工（教职）</span>
