@@ -37,7 +37,7 @@ T Cao, J Lyu, W Zeng, W Mu, <strong>Y Zhou*</strong>. "The Devil is in Fine-tuni
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
-W Li, D Luo, D Yang, Z Li, W Wang, <strong>Y Zhou</strong>. "The Role of Video Generation in Enhancing Data-Limited Action Understanding." <strong>IJCAI</strong>, 2025. (<strong>CCF-A</strong>)</span></span> 
+W Li, D Luo, D Yang, Z Li, W Wang, <strong>Y Zhou*</strong>. "The Role of Video Generation in Enhancing Data-Limited Action Understanding." <strong>IJCAI</strong>, 2025. (<strong>CCF-A</strong>)</span></span> 
 			</li>
       			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
