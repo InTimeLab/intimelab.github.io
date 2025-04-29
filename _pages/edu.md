@@ -36,6 +36,9 @@ author_profile: true
      <a href="https://luodezhao.github.io/" target="_blank" style="background-color: rgb(255, 255, 255);" _href="https://luodezhao.github.io/"><strong>罗德昭</strong></a><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(235, 241, 221);">JCR SCI一区 *1</span><span style="background-color: rgb(255, 255, 255);"></span></span><span style="background-color: rgb(255, 255, 255);">，国奖、所长特别奖、优秀毕业生，英国QMUL龚少刚教授博士生</span>
     </li>
     <li>
+     <strong style="background-color: rgb(255, 255, 255);"><em>李</em></strong><span style="background-color: rgb(255, 255, 255);color:#ffffff">一</span><strong style="background-color: rgb(255, 255, 255);"><em>未</em></strong>，2019级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、CCF-C *2在读
+    </li>
+    <li>
      <strong>李晓倪</strong>，2019级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span>、<span style="background-color: rgb(235, 241, 221);">中科院SCI一区 *1</span>、CCF-C *1，三好学生标兵，入职北京银行
     </li>
     <li>
@@ -77,7 +80,10 @@ author_profile: true
     </li>
     <li>
      <strong><em>曾维超</em></strong>，2022级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Spotlight *1</span>，国奖，在读
-    </li>    
+    </li>
+    <li>
+     <strong><em>曹天骄</em></strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，在读
+    </li>
    </ol>
  </div>
 </div>
