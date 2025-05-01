@@ -36,7 +36,7 @@ Y Zhang, C Liu, J Wei, X Yang, <strong>Y Zhou*</strong>, C Ma, X Ji. "Linguistic
 G Li, H Shen, <strong>Y Zhou*</strong>. "Beyond Cropped Regions: New Benchmark and Corresponding Baseline for Chinese Scene Text Retrieval in Diverse Layouts." <strong>ICML</strong>, 2025. (<strong>CCF-A</strong>)</span></span>  
 			</li>
    			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
 D Wu, D Yang, S Zhao, <strong>Y Zhou*</strong>, C Ma. "An Empirical Study on Configuring In-Context Learning Demonstrations for Unleashing MLLMs' Sentimental Perception Capability." <strong>ICML</strong>, 2025. (<strong>CCF-A</strong>)</span></span>  
 			</li>
    			<li>
