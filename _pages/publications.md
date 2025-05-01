@@ -60,6 +60,9 @@ Y Zhang, G Zeng, H Shen, D Wu, <strong>Y Zhou*</strong>, C Ma. "Track the Answer
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 E Xie, J Lyu, D Wu, H Shen, <strong>Y Zhou*</strong>. "Char-SAM: Turning Segment Anything Model into Scene Text Segmentation Annotator with Character-level Visual Prompts." <strong>ICASSP</strong>, 2025. (<strong>CCF-B</strong>, <a href="https://arxiv.org/abs/2412.19917" target="_blank" _href="https://arxiv.org/abs/2412.19917">PDF</a>)</span></span>  
+			</li>   
+			<li>
+				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">Y Shu, W Zeng, F Zhao, Z Chen, Z Li, X Yang,  <b>Y Zhou*</b>, P Rota, X Bai, L Jin, X-C Yin, N Sebe. "Visual Text Processing: A Comprehensive Review and Unified Evaluation." arXiv, 2025. (<a href="https://arxiv.org/abs/2504.21682" target="_blank" _href="https://arxiv.org/abs/2504.21682">PDF</a>)</span>		
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
@@ -101,9 +104,6 @@ M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</str
 			</li>
 			<li>
 				<span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">Y Zhang, G Zeng, H Shen, C Ma, <b>Y Zhou*</b>. "Show Exemplars and Tell Me What You See: In-context Learning with Frozen Large Language Models for TextVQA."&nbsp;<strong>PRCV</strong>, 2024. (<strong>CCF-C</strong>, <a href="https://link.springer.com/chapter/10.1007/978-981-97-8511-7_17" target="_blank" _href="https://link.springer.com/chapter/10.1007/978-981-97-8511-7_17">PDF</a>)</span>				
-			</li>
-			<li>
-				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">Y Shu, W Zeng, Z Li, F Zhao, <b>Y Zhou*</b>. "Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing." arXiv, 2024. (<a href="https://arxiv.org/abs/2402.03082" target="_blank" _href="https://arxiv.org/abs/2402.03082">PDF</a>)</span>				
 			</li>
 			<li>
 				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">J Lyu, J Wei, G Zeng, Z Li, E Xie, W Wang, <b>Y Zhou*</b>. "TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model." arXiv, 2024. (<a href="https://arxiv.org/abs/2403.10047" target="_blank" title="" _href="https://arxiv.org/abs/2403.10047">PDF</a>)</span>				
