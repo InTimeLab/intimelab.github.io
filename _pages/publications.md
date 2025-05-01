@@ -33,6 +33,14 @@ Y Zhang, C Liu, J Wei, X Yang, <strong>Y Zhou*</strong>, C Ma, X Ji. "Linguistic
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+G Li, H Shen, <strong>Y Zhou*</strong>. "Beyond Cropped Regions: New Benchmark and Corresponding Baseline for Chinese Scene Text Retrieval in Diverse Layouts." <strong>ICML</strong>, 2025. (<strong>CCF-A</strong>)</span></span>  
+			</li>
+   			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+D Wu, D Yang, S Zhao, <strong>Y Zhou*</strong>, C Ma. "An Empirical Study on Configuring In-Context Learning Demonstrations for Unleashing MLLMs' Sentimental Perception Capability." <strong>ICML</strong>, 2025. (<strong>CCF-A</strong>)</span></span>  
+			</li>
+   			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 T Cao, J Lyu, W Zeng, W Mu, <strong>Y Zhou*</strong>. "The Devil is in Fine-tuning and Long-tailed Problems: A New Benchmark for Scene Text Detection." <strong>IJCAI</strong>, 2025. (<strong>CCF-A</strong>)</span></span>  
 			</li>
    			<li>
