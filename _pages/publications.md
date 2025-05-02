@@ -64,6 +64,9 @@ Y Zhang, G Zeng, H Shen, D Wu, <strong>Y Zhou*</strong>, C Ma. "Track the Answer
 			</li>   
    			<li>
 				<span style="background-color: rgb(242, 220, 219);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">Specifying What You Know or Not for Multi-label Class-incremental Learning."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>, <a href="https://arxiv.org/abs/2503.17017" target="_blank" _href="https://arxiv.org/abs/2503.17017">PDF</a>)</span>
+			</li>   
+			<li>
+				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">J Lyu, J Wei, G Zeng, Z Li, E Xie, W Wang, C Ma, <b>Y Zhou*</b>. "TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model." <strong>TOMM</strong>, 2025. (<a href="https://arxiv.org/abs/2403.10047" target="_blank" title="" _href="https://arxiv.org/abs/2403.10047">PDF</a>)</span>			
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
@@ -112,9 +115,6 @@ M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</str
 			</li>
 			<li>
 				<span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">Y Zhang, G Zeng, H Shen, C Ma, <b>Y Zhou*</b>. "Show Exemplars and Tell Me What You See: In-context Learning with Frozen Large Language Models for TextVQA."&nbsp;<strong>PRCV</strong>, 2024. (<strong>CCF-C</strong>, <a href="https://link.springer.com/chapter/10.1007/978-981-97-8511-7_17" target="_blank" _href="https://link.springer.com/chapter/10.1007/978-981-97-8511-7_17">PDF</a>)</span>				
-			</li>
-			<li>
-				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">J Lyu, J Wei, G Zeng, Z Li, E Xie, W Wang, <b>Y Zhou*</b>. "TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model." arXiv, 2024. (<a href="https://arxiv.org/abs/2403.10047" target="_blank" title="" _href="https://arxiv.org/abs/2403.10047">PDF</a>)</span>				
 			</li>
 			<li>
 				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">D Wu, D Yang, H Shen, C Ma, <b>Y Zhou</b>. "Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition." arXiv, 2024. (<a href="https://arxiv.org/abs/2407.07026" target="_blank" title="" _href="https://arxiv.org/abs/2407.07026">PDF</a>)</span>						</li>
