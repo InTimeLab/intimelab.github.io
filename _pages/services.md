@@ -11,6 +11,7 @@ author_profile: true
    <strong>学术报告</strong>
   </p>
   <ul style="text-wrap: wrap;">
+   <li><p>2025年05月09日，“可视文本智能技术”，2025中国图象图形大会（CCIG）文字识别与文档智能论坛，湖南大学</p></li>
    <li><p>2024年07月15日，“可视文字提取、理解与安全技术”，“先进密码技术与智能数据安全”暑期学校课程，南京理工大学</p></li>
    <li><p>2024年06月16日，“视觉与语义融合的场景文字检测、识别与理解技术”，全国少数民族古籍文献智能分析研讨会，中央民族大学</p></li>
    <li><p>2024年04月24日，“半自回归式大型表格结构识别与填空式提示场景文本问答”，CSIG“2024图图名师讲堂”系列学术讲座（<a href="https://www.bilibili.com/video/BV18C411H7UL" target="_blank" _href="https://www.bilibili.com/video/BV18C411H7UL">报告视频</a>），在线观众峰值4000余人</p></li>
