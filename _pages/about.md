@@ -47,6 +47,7 @@ redirect_from:
     <em><span style="background-color: rgb(225, 225, 255);">【学硕招生】 25年推免拟招生26级学术型硕士生2名；</span><em><br>
     <em><span style="background-color: rgb(225, 225, 255);">【东北师大硕士招生】 拟招生东北师范大学25级硕士生；</span><em><br>
     <em><span style="background-color: rgb(225, 225, 255);">【本科实习】欢迎南开大学津南校区本科生进组实习！</span><em><br><br>
+    <em>2025年05月09日，周宇老师参加2025中国图象图形大会（CCIG）文字识别与文档智能论坛，并做“可视文本智能技术”报告。</em><br><br>
     <em>2025年05月01日，祝贺吕嘉昊的基于文本块的场景文本检测识别工作被<strong style="">TOMM</strong>接收！</em><br><br>
     <em>2025年05月01日，祝贺吴岱卿的多模态大模型情感感知能力评估、李庚洛的中文场景文本检索新基准工作被<strong style="">ICML 2025</strong>接收！</em><br><br>
     <em>2025年04月29日，祝贺李未的基于视频生成的数据受限行为理解、曹天骄的统一与长尾场景文本检测数据集工作被<strong style="">IJCAI 2025</strong>接收！</em><br><br>
