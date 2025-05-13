@@ -33,6 +33,7 @@ author_profile: true
   <ul style="text-wrap: wrap;">
    <li>国家自然科学基金委，项目评审专家</li>
    <li>国家广播电视总局，项目评审专家</li>
+   <li>北京市自然科学基金，项目评审专家</li>
    <li>国家工业信息安全发展研究中心，科技成果评审专家</li>
   </ul>
   <p style="text-wrap: wrap;">
