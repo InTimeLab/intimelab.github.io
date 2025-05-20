@@ -43,7 +43,6 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br><br>
-    <em><span style="background-color: rgb(225, 225, 255);">【博士招生】 招生25级硕博连读或申请考核制博士生1名；</span><em><br>
     <em><span style="background-color: rgb(225, 225, 255);">【学硕招生】 25年推免拟招生26级学术型硕士生2名；</span><em><br>
     <em><span style="background-color: rgb(225, 225, 255);">【东北师大硕士招生】 拟招生东北师范大学25级硕士生；</span><em><br>
     <em><span style="background-color: rgb(225, 225, 255);">【本科实习】欢迎南开大学津南校区本科生进组实习！</span><em><br><br>
