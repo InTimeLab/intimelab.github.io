@@ -4,8 +4,6 @@ title: "招生信息"
 permalink: /stu/
 author_profile: true
 ---
-+ <h16 style="color:red"><em>【博士招生】 招生25级硕博连读或申请考核制博士生1名（已发表CCF-A/中科院SCI一区或同等级论文、经导师同意可现在进组者优先）；</em></h16>
-
 + <h16 style="color:red"><em>【学硕招生】 25年推免拟招生26级学术型硕士生2名（已发表CCF列表论文、大四可提前进组者优先）；</em></h16>
 
 + <h16 style="color:red"><em>【东北师大硕士招生】 25年拟招生东北师范大学硕士生（需有明确科研目标）；</em></h16>
