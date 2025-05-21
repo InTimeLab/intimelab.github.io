@@ -24,9 +24,6 @@ author_profile: true
      <span style="background-color: rgb(255, 255, 255);"><strong>陈语地</strong>，2017级硕士生<span style="white-space: normal;">，一作CCF-C *2，3项国内外竞赛前三名</span>，入职字节跳动</span>
     </li>
     <li>
-     <strong><em>张宜飞</em></strong>，2018级硕博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、<span style="background-color: rgb(235, 241, 221);">中科院SCI一区 *1</span><span style="background-color: rgb(255, 255, 255);"></span>、CCF-C *1，在读
-    </li>
-    <li>
      <strong>李鸿宇</strong>，2018级博士生，一作CCF-C *2，入职中关村科学城创新发展有限公司
     </li>
     <li>
@@ -34,6 +31,9 @@ author_profile: true
     </li>
     <li>
      <a href="https://luodezhao.github.io/" target="_blank" style="background-color: rgb(255, 255, 255);" _href="https://luodezhao.github.io/"><strong>罗德昭</strong></a><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(235, 241, 221);">JCR SCI一区 *1</span><span style="background-color: rgb(255, 255, 255);"></span></span><span style="background-color: rgb(255, 255, 255);">，国奖、所长特别奖、优秀毕业生，英国QMUL龚少刚教授博士生</span>
+    </li>
+    <li>
+     <strong>张宜飞</strong>，2018级硕士生，一作CCF-C *1，信工所博士生
     </li>
     <li>
      <strong style="background-color: rgb(255, 255, 255);"><em>李</em></strong><span style="background-color: rgb(255, 255, 255);color:#ffffff">一</span><strong style="background-color: rgb(255, 255, 255);"><em>未</em></strong>，2019级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、CCF-C *2，在读
@@ -57,6 +57,9 @@ author_profile: true
     </li>
     <li>
      <span style="white-space: normal;"><span style="white-space: normal;"><strong style="">李<span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></strong><strong style="">强</strong>，2020级硕士生，一作CCF-C *1，入职重庆赛力斯技术有限公司</span></span></li>
+    <li>
+     <strong><em>张宜飞</em></strong>，2021级博士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、<span style="background-color: rgb(235, 241, 221);">中科院SCI一区 *1</span><span style="background-color: rgb(255, 255, 255);"></span>、CCF-C *1，在读
+    </li>
     <li>
      <strong style=""><em>申化文</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>，<span style="white-space: normal;">CSIG 2022票据识别与分析挑战赛冠军、ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，在读</span>
     </li>    
