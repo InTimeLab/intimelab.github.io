@@ -79,7 +79,10 @@ author_profile: true
      <span style="white-space: normal;"><strong><em>张</em><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span><em>言</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、CCF-C *1，在读</span>
     </li>
     <li>
-     <strong><em>曾维超</em></strong>，2022级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Spotlight *1</span>，国奖，在读
+     <strong>曾维超</strong>，2022级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Spotlight *1</span>，国奖，日本东京大学郑银强教授博士生在读
+    </li>
+    <li>
+     <strong>谢恩泽</strong>，2022级硕士生，一作<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>，入职快手
     </li>
     <li>
      <strong><em>李庚洛</em></strong>，2023级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，在读
