@@ -41,7 +41,7 @@ D Wu, D Yang, S Zhao, <strong>Y Zhou*</strong>, C Ma. "An Empirical Study on Con
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-T Cao, J Lyu, W Zeng, W Mu, <strong>Y Zhou*</strong>. "The Devil is in Fine-tuning and Long-tailed Problems: A New Benchmark for Scene Text Detection." <strong>IJCAI</strong>, 2025. (<strong>CCF-A</strong>)</span></span>  
+T Cao, J Lyu, W Zeng, W Mu, <strong>Y Zhou*</strong>. "The Devil is in Fine-tuning and Long-tailed Problems: A New Benchmark for Scene Text Detection." <strong>IJCAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2505.15649" target="_blank" _href="https://arxiv.org/abs/2505.15649">PDF</a>)</span></span>  
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
