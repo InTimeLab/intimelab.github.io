@@ -44,6 +44,7 @@ redirect_from:
 <div class="news">
     <strong>最新消息：</strong><br><br>
     <em><span style="background-color: rgb(225, 225, 255);">【学硕招生】 25年推免拟招生26级学术型硕士生2名；</span><em><br>
+    <em><span style="background-color: rgb(225, 225, 255);">【直博招生】 25年推免拟招生26级直博生，依托北京中关村学院，学籍南开大学；</span><em><br>
     <em><span style="background-color: rgb(225, 225, 255);">【东北师大硕士招生】 拟招生东北师范大学25级硕士生；</span><em><br>
     <em><span style="background-color: rgb(225, 225, 255);">【本科实习】欢迎南开大学津南校区本科生进组实习！</span><em><br><br>
     <em>2025年05月17日，周宇老师参加<strong>2025多语言多民族文档智能技术及应用系列论坛</strong>，并做“可视文本智能技术”报告。</em><br><br>
