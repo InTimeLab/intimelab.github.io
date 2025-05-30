@@ -6,7 +6,7 @@ author_profile: true
 ---
 + <h16 style="color:red"><em>【学硕招生】 25年推免拟招生26级学术型硕士生2名（已发表CCF列表论文、大四可提前进组者优先）；</em></h16>
 
-+ <h16 style="color:red"><em>【直博招生】 25年推免拟招生26级直博生（已发表CCF列表论文、大四可提前进组者优先），依托北京中关村学院，学籍南开大学，具体信息见：http://bjzgca.edu.cn/NewsDetail.aspx?ID=363；</em></h16>
++ <h16 style="color:red"><em>【直博招生】 25年推免拟招生26级直博生（已发表CCF列表论文、大四可提前进组者优先），依托北京中关村学院，学籍南开大学，具体信息见：http://bjzgca.edu.cn/NewsDetail.aspx?ID=363 ；</em></h16>
 
 + <h16 style="color:red"><em>【东北师大硕士招生】 25年拟招生东北师范大学硕士生（需有明确科研目标）；</em></h16>
 
