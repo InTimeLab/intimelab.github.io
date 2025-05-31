@@ -56,7 +56,7 @@ author_profile: true
    <strong>期刊</strong><br>
   </p>
   <ul style="text-wrap: wrap;">
-   <li>Reviewer: IEEE TPAMI/TIP/TMM/TCSVT/TITS/MM, ACM TOMM, PR, CVIU, IJPRAI ...</li>
+   <li>Reviewer: IEEE TPAMI/TIP/TMM/TCSVT/TITS/MM, AIJ, ACM TOMM, PR, CVIU, IJPRAI ...</li>
    <li>审稿人：JCST、计算机学报、中国图象图形学报</li>
   </ul>
   <p style="text-wrap: wrap;">
