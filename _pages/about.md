@@ -19,7 +19,7 @@ redirect_from:
 <style>
   .news{
     position: absolute;
-    top: 7%;
+    top: 57%;
     right: 1%;
     width: 28%;
   }
