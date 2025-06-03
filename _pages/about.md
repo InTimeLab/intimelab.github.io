@@ -17,7 +17,7 @@ redirect_from:
   &行为、情感&情绪等）
 + 多模态大模型与内容生成等 
 + 增量、自监督与对抗学习等
-+ GUI Agent与多模具身智能<br>
++ GUI  Agent与多模具身智能<br>
 
 <style>
   .news{
