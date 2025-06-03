@@ -18,11 +18,19 @@ redirect_from:
 
 <style>
   .news{
-    position: absolute;
-    top: 7%;
-    right: 1%;
-    width: 28%;
+   position: absolute; /* 保持绝对定位 */
+   top: 7%;
+   right: 1%;
+   width: 28%; /* 固定宽度 */
+   height: 60vh; /* 固定高度，示例为视口高度的60%，可调整为具体像素值（如400px） */
+   overflow-y: auto; /* 内容超出高度时显示垂直滚动条 */
+   overflow-x: hidden; /* 隐藏水平滚动条（可选） */
+   padding: 10px; /* 可选：添加内边距避免内容贴边 */
+   background: #fff; /* 可选：添加背景色区分边界 */
+   border: 1px solid #e5e5e5; /* 可选：添加边框 */
+   border-radius: 4px; /* 可选：圆角 */
   }
+  
   .map{
     width: 75%;
   }
