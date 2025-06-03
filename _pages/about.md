@@ -36,7 +36,7 @@ redirect_from:
   }
   
   .map{
-    width: 70%;
+    width: 50%;
   }
   @media screen and (max-width: 800px) {
     .news {
