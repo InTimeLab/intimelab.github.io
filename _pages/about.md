@@ -20,7 +20,7 @@ redirect_from:
   .news{
    position: absolute; /* 保持绝对定位 */
    top: 7%;
-   right: 1%;
+   right: 10%;
    width: 32%; /* 固定宽度 */
    height: 85vh; /* 固定高度，示例为视口高度的60%，可调整为具体像素值（如400px） */
    overflow-y: auto; /* 内容超出高度时显示垂直滚动条 */
