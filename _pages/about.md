@@ -17,7 +17,7 @@ redirect_from:
   &行为、情感&情绪等）
 + 多模态大模型与内容生成等 
 + 增量、自监督与对抗学习等
-+ GUI智能体与多模态具身智能<br>
++ GUI Agent与多模具身智能<br>
 
 <style>
   .news{
@@ -25,7 +25,7 @@ redirect_from:
    top: 7%;
    right: 7%;
    width: 31%; /* 固定宽度 */
-   height: 85vh; /* 固定高度，示例为视口高度的60%，可调整为具体像素值（如400px） */
+   height: 90vh; /* 固定高度，示例为视口高度的60%，可调整为具体像素值（如400px） */
    overflow-y: auto; /* 内容超出高度时显示垂直滚动条 */
    overflow-x: hidden; /* 隐藏水平滚动条（可选） */
    padding: 10px; /* 可选：添加内边距避免内容贴边 */
