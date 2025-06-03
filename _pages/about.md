@@ -59,18 +59,18 @@ redirect_from:
     <em><span style="background-color: rgb(225, 225, 255);">【直博招生】 25年推免拟招生26级直博生，依托北京中关村学院，学籍南开大学；</span><em><br>
     <em><span style="background-color: rgb(225, 225, 255);">【东北师大硕士招生】 拟招生东北师范大学25及26级硕士生；</span><em><br>
     <em><span style="background-color: rgb(225, 225, 255);">【本科实习】欢迎南开大学津南校区本科生进组实习！</span><em><br><br>
-    <em>2025年05月17日，周宇老师参加<strong>2025多语言多民族文档智能技术及应用系列论坛</strong>，并做“可视文本智能技术”报告。</em><br>
-    <em>2025年05月15日，祝贺<strong>曾维超、谢恩泽</strong>顺利通过硕士学位论文答辩！</em><br>
-    <em>2025年05月09日，周宇老师参加<strong>2025中国图象图形大会（CCIG）文字识别与文档智能论坛</strong>，并做“可视文本智能技术”报告。</em><br>
-    <em>2025年05月01日，祝贺吕嘉昊的基于文本块的场景文本检测识别工作被<strong style="">TOMM</strong>接收！</em><br><br>
-    <em>2025年05月01日，祝贺吴岱卿的多模态大模型情感感知能力评估、李庚洛的中文场景文本检索新基准工作被<strong style="">ICML 2025</strong>接收！</em><br><br>
-    <em>2025年04月29日，祝贺李未的基于视频生成的数据受限行为理解、曹天骄的统一与长尾场景文本检测数据集工作被<strong style="">IJCAI 2025</strong>接收！</em><br><br>
-    <em>2025年04月22日，李庚洛、申化文参加的InTimeLab与腾讯HYOCR联队获ICDAR 2025 Competition on End-to-End Document Image Machine Translation Towards Complex Layouts (DIMT 2025 Challenge) OCR-free DIMT (Track 1) Translation-Small <strong>冠军</strong>！</em><br><br>      
-    <em>2025年03月30日，InTimeLab承办的“2025年CSIG文档图像分析与识别专委会多模态大模型与可视文本智能（OCR）学术论坛”顺利召开！论坛邀请<strong>刘成林、金连文、谢洪涛、刘禹良、杨春、方山城</strong>等专家到南开大学分享研究成果，共有<strong>150余位</strong>老师、同学及企业同行参会！</em><br><br>
-    <em>2025年03月29日，祝贺杨晓萌和乔峙的场景文本识别工作IPAD暨PIMNet++被<strong style="">IJCV</strong>接收！</em><br><br>
-    <em>2025年03月15日，ICDAR 2025 Workshop on Visual Text Generation and Text Image Processing Call for Papers: <a href="https://icdar-vtg-tip.github.io" target="_blank" _href="https://icdar-vtg-tip.github.io">https://icdar-vtg-tip.github.io</a>。</em><br><br>
-    <em>2025年03月14日，周宇老师担任ACM MM 2025 <strong>Area Chair</strong>。</em><br><br>
-    <em>2025年02月27日，祝贺张宜飞自监督文本识别工作被<strong style="">CVPR 2025</strong>接收！</em><br><br>
-    <em>2024年12月10日，祝贺申化文/吕嘉昊/张言的多语言VIE/任意阅读顺序文字Spotting/视频TextVQA、张傲婷的增量检测/多标签类增量共5项工作被<strong style="">AAAI 2025</strong>接收！</em><br><br>
-    <em>2024年09月26日，祝贺曾维超可视文字编辑工作被<strong style="">NeurIPS 2024</strong>接收！Spotlight类型报告。</em><br><br>
-    <em>2024年07月15日，祝贺曾港艳CLIP场景文本检索、吴岱卿2项多模态情感分析共3项工作被<strong style="">ACM MM 2024</strong>接收！</em><br><br>
+    <em><strong>25年05月17日</strong>，周宇老师参加<strong>2025多语言多民族文档智能技术及应用系列论坛</strong>，并做“可视文本智能技术”报告。</em><br>
+    <em><strong>25年05月15日</strong>，祝贺<strong>曾维超、谢恩泽</strong>顺利通过硕士学位论文答辩！</em><br>
+    <em><strong>25年05月09日</strong>，周宇老师参加<strong>2025中国图象图形大会（CCIG）文字识别与文档智能论坛</strong>，并做“可视文本智能技术”报告。</em><br>
+    <em><strong>25年05月01日</strong>，祝贺吕嘉昊的基于文本块的场景文本检测识别工作被<strong style="">TOMM</strong>接收！</em><br>
+    <em><strong>25年05月01日</strong>，祝贺吴岱卿的多模态大模型情感感知能力评估、李庚洛的中文场景文本检索新基准工作被<strong style="">ICML 2025</strong>接收！</em><br>
+    <em><strong>25年04月29日</strong>，祝贺李未的基于视频生成的数据受限行为理解、曹天骄的统一与长尾场景文本检测数据集工作被<strong style="">IJCAI 2025</strong>接收！</em><br>
+    <em><strong>25年04月22日</strong>，李庚洛、申化文参加的InTimeLab与腾讯HYOCR联队获ICDAR 2025 Competition on End-to-End Document Image Machine Translation Towards Complex Layouts (DIMT 2025 Challenge) OCR-free DIMT (Track 1) Translation-Small <strong>冠军</strong>！</em><br>    
+    <em><strong>25年03月30日</strong>，InTimeLab承办的“2025年CSIG文档图像分析与识别专委会多模态大模型与可视文本智能（OCR）学术论坛”顺利召开！论坛邀请<strong>刘成林、金连文、谢洪涛、刘禹良、杨春、方山城</strong>等专家到南开大学分享研究成果，共有<strong>150余位</strong>老师、同学及企业同行参会！</em><br>
+    <em><strong>25年03月29日</strong>，祝贺杨晓萌和乔峙的场景文本识别工作IPAD暨PIMNet++被<strong style="">IJCV</strong>接收！</em><br>
+    <em><strong>25年03月15日</strong>，ICDAR 2025 Workshop on Visual Text Generation and Text Image Processing Call for Papers: <a href="https://icdar-vtg-tip.github.io" target="_blank" _href="https://icdar-vtg-tip.github.io">https://icdar-vtg-tip.github.io</a>。</em><br>
+    <em><strong>25年03月14日</strong>，周宇老师担任ACM MM 2025 <strong>Area Chair</strong>。</em><br>
+    <em><strong>25年02月27日</strong>，祝贺张宜飞自监督文本识别工作被<strong style="">CVPR 2025</strong>接收！</em><br>
+    <em><strong>24年12月10日</strong>，祝贺申化文/吕嘉昊/张言的多语言VIE/任意阅读顺序文字Spotting/视频TextVQA、张傲婷的增量检测/多标签类增量共5项工作被<strong style="">AAAI 2025</strong>接收！</em><br>
+    <em><strong>24年09月26日</strong>，祝贺曾维超可视文字编辑工作被<strong style="">NeurIPS 2024</strong>接收！Spotlight类型报告。</em><br>
+    <em><strong>24年07月15日</strong>，祝贺曾港艳CLIP场景文本检索、吴岱卿2项多模态情感分析共3项工作被<strong style="">ACM MM 2024</strong>接收！</em><br>
