@@ -33,7 +33,7 @@ author_profile: true
      <a href="https://luodezhao.github.io/" target="_blank" style="background-color: rgb(255, 255, 255);" _href="https://luodezhao.github.io/"><strong>罗德昭</strong></a><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(235, 241, 221);">JCR SCI一区 *1</span><span style="background-color: rgb(255, 255, 255);"></span></span><span style="background-color: rgb(255, 255, 255);">，国奖、所长特别奖、优秀毕业生，英国QMUL龚少刚教授博士生</span>
     </li>
     <li>
-     <strong>张宜飞</strong>，2018级硕士生，一作CCF-C *1，信工所博士生
+     <strong>张宜飞</strong>，2018级硕士生，一作CCF-C *1，中科院信工所博士生
     </li>
     <li>
      <strong style="background-color: rgb(255, 255, 255);"><em>李</em></strong><span style="background-color: rgb(255, 255, 255);color:#ffffff">一</span><strong style="background-color: rgb(255, 255, 255);"><em>未</em></strong>，2019级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、CCF-C *2，在读
