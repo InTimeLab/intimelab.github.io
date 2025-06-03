@@ -30,6 +30,10 @@ redirect_from:
    border: 1px solid #e5e5e5; /* 可选：添加边框 */
    border-radius: 4px; /* 可选：圆角 */
   }
+
+  .news em {
+  font-size: 14px;  
+  }
   
   .map{
     width: 75%;
