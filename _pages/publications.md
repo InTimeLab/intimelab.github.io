@@ -33,7 +33,7 @@ Y Zhang, C Liu, J Wei, X Yang, <strong>Y Zhou*</strong>, C Ma, X Ji. "Linguistic
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-G Li, H Shen, <strong>Y Zhou*</strong>. "Beyond Cropped Regions: New Benchmark and Corresponding Baseline for Chinese Scene Text Retrieval in Diverse Layouts." <strong>ICML</strong>, 2025. (<strong>CCF-A</strong>)</span></span>  
+G Li, H Shen, <strong>Y Zhou*</strong>. "Beyond Cropped Regions: New Benchmark and Corresponding Baseline for Chinese Scene Text Retrieval in Diverse Layouts." <strong>ICML</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2506.04999" target="_blank" _href="https://arxiv.org/abs/2506.04999">PDF</a>)</span></span>   
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
