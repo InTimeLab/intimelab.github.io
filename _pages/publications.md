@@ -95,6 +95,10 @@ M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</str
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 Z Yang, Y Shu, Z Yang, Y Zhang, Y Li, K Lu, G Zeng, S Liu, <strong>Y Zhou</strong>, N Sebe. "VidText: Towards Comprehensive Evaluation for Video Text Understanding." arXiv, 2025. (<a href="https://arxiv.org/abs/2505.22810" target="_blank" _href="https://arxiv.org/abs/2505.22810">PDF</a>)</span></span>  
 			</li>
+   			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+Y Shu, H Lin, Y Liu, Y Zhang, G Zeng, Y Li, <strong>Y Zhou</strong>, SN Lim, H Yang, N Sebe. "When Semantics Mislead Vision: Mitigating Large Multimodal Models Hallucinations in Scene Text Spotting and Understanding." arXiv, 2025. (<a href="https://arxiv.org/abs/2506.05551" target="_blank" _href="https://arxiv.org/abs/2506.05551">PDF</a>)</span></span>  
+			</li>
    
 		</ol>
 		<p style="text-wrap: wrap;">
