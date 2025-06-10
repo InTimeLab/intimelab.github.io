@@ -88,7 +88,7 @@ author_profile: true
      <strong>谢恩泽</strong>，2022级硕士生，一作<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>，入职快手
     </li>
     <li>
-     <strong><em>李庚洛</em></strong>，2023级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，在读
+     <strong><em>李庚洛</em></strong>，2023级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，2025年度腾讯犀牛鸟精英人才计划，在读
     </li>
     <li>
      <strong><em>曹天骄</em></strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，在读
