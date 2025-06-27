@@ -70,7 +70,7 @@ Y Zhang, G Zeng, H Shen, D Wu, <strong>Y Zhou*</strong>, C Ma. "Track the Answer
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-D Zhang, J Lyu, Z Shen, <strong>Y Zhou*</strong>. "Class-Agnostic Region-of-Interest Matching in Document Images." <strong>ICDAR</strong>, 2025. (<strong>CCF-C</strong>)</span></span>
+D Zhang, J Lyu, Z Shen, <strong>Y Zhou*</strong>. "Class-Agnostic Region-of-Interest Matching in Document Images." <strong>ICDAR</strong>, 2025. (<strong>CCF-C</strong>, <a href="https://arxiv.org/abs/2506.21055" target="_blank" title="" _href="https://arxiv.org/abs/2506.21055">PDF</a>)</span></span>
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
