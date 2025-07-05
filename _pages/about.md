@@ -76,4 +76,4 @@ redirect_from:
     <em><strong>25年02月27日</strong>，祝贺张宜飞自监督文本识别工作被<strong style="">CVPR 2025</strong>接收！</em><br>
     <em><strong>24年12月10日</strong>，祝贺申化文/吕嘉昊/张言的多语言VIE/任意阅读顺序文字Spotting/视频TextVQA、张傲婷的增量检测/多标签类增量共5项工作被<strong style="">AAAI 2025</strong>接收！</em><br>
     <em><strong>24年09月26日</strong>，祝贺曾维超可视文字编辑工作被<strong style="">NeurIPS 2024</strong>接收！Spotlight类型报告。</em><br>
-    <em><strong>24年07月15日</strong>，祝贺曾港艳CLIP场景文本检索、吴岱卿2项多模态情感分析共3项工作被<strong style="">ACM MM 2024</strong>接收！</em><br><br>
+    <em><strong>24年07月15日</strong>，祝贺曾港艳CLIP场景文本检索、吴岱卿2项多模态情感分析共3项工作被<strong style="">ACM MM 2024</strong>接收！</em><br><br><br>
