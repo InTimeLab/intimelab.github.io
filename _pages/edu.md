@@ -79,7 +79,7 @@ author_profile: true
      <strong><em>吕嘉昊</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、<span style="background-color: rgb(235, 241, 221);">JCR SCI一区 *1</span>，在读
     </li>
     <li>
-     <span style="white-space: normal;"><strong><em>张</em><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span><em>言</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、CCF-C *1，在读</span>
+     <span style="white-space: normal;"><strong><em>张</em><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span><em>言</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>、CCF-C *1，在读</span>
     </li>
     <li>
      <strong>曾维超</strong>，2022级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Spotlight *1</span>，国奖，日本东京大学郑银强教授博士生
@@ -92,6 +92,9 @@ author_profile: true
     </li>
     <li>
      <strong><em>曹天骄</em></strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，在读
+    </li>
+    <li>
+     <strong><em>赵方敏</em></strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，在读
     </li>
    </ol>
  </div>
