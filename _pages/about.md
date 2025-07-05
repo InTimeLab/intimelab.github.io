@@ -61,7 +61,7 @@ redirect_from:
     <em><strong>25年07月05日</strong>，祝贺张言视频TextVQA、赵方敏文档图像恢复2项工作被<strong>ACM MM 2025</strong>接收！</em><br>
     <em><strong>25年06月22日</strong>，周宇老师参加<strong>2025第二届全国民族古籍文献智能分析学术会议</strong>，并做“可视文本智能技术”报告。</em><br>
     <em><strong>25年06月07日</strong>，周宇老师参加<strong>视觉与学习青年学者研讨会（VALSE）2025-深度连续学习研讨会</strong>，并做“增量目标检测：关键挑战与技术进展”报告。</em><br>
-    <em><strong>25年06月07日</strong>，祝贺张德民（<strong>本科二年级</strong>）的指定区域检测、李增的手写公式识别和场景文本识别2项工作共3篇论文被<strong>ICDAR 2025</strong>接收！。</em><br>
+    <em><strong>25年06月07日</strong>，祝贺张德民（<strong>本科二年级</strong>）的指定区域检测、李增的手写公式识别和场景文本识别2项工作共3篇论文被<strong>ICDAR 2025</strong>接收！</em><br>
     <em><strong>25年05月17日</strong>，周宇老师参加<strong>2025多语言多民族文档智能技术及应用系列论坛</strong>，并做“可视文本智能技术”报告。</em><br>
     <em><strong>25年05月15日</strong>，祝贺<strong>曾维超、谢恩泽</strong>顺利通过硕士学位论文答辩！</em><br>
     <em><strong>25年05月09日</strong>，周宇老师参加<strong>2025中国图象图形大会（CCIG）文字识别与文档智能论坛</strong>，并做“可视文本智能技术”报告。</em><br>
