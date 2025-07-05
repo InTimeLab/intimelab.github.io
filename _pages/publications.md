@@ -64,7 +64,15 @@ Y Zhang, G Zeng, H Shen, D Wu, <strong>Y Zhou*</strong>, C Ma. "Track the Answer
 			</li>   
    			<li>
 				<span style="background-color: rgb(242, 220, 219);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">Specifying What You Know or Not for Multi-label Class-incremental Learning."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>, <a href="https://arxiv.org/abs/2503.17017" target="_blank" _href="https://arxiv.org/abs/2503.17017">PDF</a>)</span>
-			</li>   
+			</li>
+   			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+F Zhao, W Zeng, Z Li, D Yang, B Li, X Bi, <strong>Y Zhou*</strong>. "Uni-DocDiff: A Unified Document Restoration Model Based on Diffusion." <strong>ACM MM</strong>, 2025. (<strong>CCF-A</strong>)</span></span> 
+			</li>
+   			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+Y Zhang, G Zeng, D Wu, H Shen, B Li, <strong>Y Zhou*</strong>, C Ma, X Bi. "Gather and Trace: Rethinking Video TextVQA from an Instance-oriented Perspective." <strong>ACM MM</strong>, 2025. (<strong>CCF-A</strong>)</span></span> 
+			</li>
 			<li>
 				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">J Lyu, J Wei, G Zeng, Z Li, E Xie, W Wang, C Ma, <b>Y Zhou*</b>. "TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model." <strong>TOMM</strong>, 2025. (<strong>SCI一区, CCF-B</strong>, <a href="https://arxiv.org/abs/2403.10047" target="_blank" title="" _href="https://arxiv.org/abs/2403.10047">PDF</a>)</span>			
 			</li>
