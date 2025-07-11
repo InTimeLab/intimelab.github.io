@@ -94,7 +94,7 @@ author_profile: true
      <strong><em>曹天骄</em></strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，在读
     </li>
     <li>
-     <strong><em>赵方敏</em></strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，在读
+     <strong><em>赵方敏</em></strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>，在读
     </li>
    </ol>
  </div>
