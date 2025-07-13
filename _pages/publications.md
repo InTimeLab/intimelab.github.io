@@ -95,13 +95,13 @@ Z Li, J Wei, Z Shen, Y Wu, G Zeng, D Yang, Z Qiao,  <strong>Y Zhou*</strong>. "P
       			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 E Xie, J Lyu, D Wu, H Shen, <strong>Y Zhou*</strong>. "Char-SAM: Turning Segment Anything Model into Scene Text Segmentation Annotator with Character-level Visual Prompts." <strong>ICASSP</strong>, 2025. (<strong>CCF-B</strong>, <a href="https://arxiv.org/abs/2412.19917" target="_blank" _href="https://arxiv.org/abs/2412.19917">PDF</a>)</span></span>  
-			</li>   
-			<li>
-				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">Y Shu, W Zeng, F Zhao, Z Chen, Z Li, X Yang,  <b>Y Zhou*</b>, P Rota, X Bai, L Jin, X-C Yin, N Sebe. "Visual Text Processing: A Comprehensive Review and Unified Evaluation." arXiv, 2025. (<a href="https://arxiv.org/abs/2504.21682" target="_blank" _href="https://arxiv.org/abs/2504.21682">PDF</a>)</span>		
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</strong>, J Yang. "Beyond Flat Text: Dual Self-inherited Guidance for Visual Text Generation." arXiv, 2025. (<a href="https://arxiv.org/abs/2501.05892" target="_blank" _href="https://arxiv.org/abs/2501.05892">PDF</a>)</span></span>  
+M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</strong>, J Yang. "Beyond Flat Text: Dual Self-inherited Guidance for Visual Text Generation." ICCVW, 2025. (<a href="https://arxiv.org/abs/2501.05892" target="_blank" _href="https://arxiv.org/abs/2501.05892">PDF</a>)</span></span>  
+			</li>
+			<li>
+				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">Y Shu, W Zeng, F Zhao, Z Chen, Z Li, X Yang,  <b>Y Zhou*</b>, P Rota, X Bai, L Jin, X-C Yin, N Sebe. "Visual Text Processing: A Comprehensive Review and Unified Evaluation." arXiv, 2025. (<a href="https://arxiv.org/abs/2504.21682" target="_blank" _href="https://arxiv.org/abs/2504.21682">PDF</a>)</span>		
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
