@@ -26,10 +26,11 @@ author_profile: true
    <li><p>2022年04月24日，“低质量场景文字识别技术研究”，中国图象图形学学会“OCR学术前沿及产业应用”高峰论坛（<a href="https://www.bilibili.com/video/BV1LZ4y1a7zr" target="_blank" _href="https://www.bilibili.com/video/BV1LZ4y1a7zr">报告视频</a>），在线观众峰值8000余人</p></li>
   </ul>
   <p style="text-wrap: wrap;">
-   <strong>专委会</strong><br>
+   <strong>学术兼职</strong><br>
   </p>
   <ul style="text-wrap: wrap;">
    <li>中国图象图形学学会文档图像分析与识别专委会，副秘书长、常务委员</li>
+   <li>北京中关村学院，共建导师</li>
   </ul>
   <div style="text-wrap: wrap;">
    <strong>评审咨询</strong>
