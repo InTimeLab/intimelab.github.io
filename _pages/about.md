@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "InTime：INterpret Tongue In Med<br>ia and Embodiment"
+title: <h1 style="font-size: 32px; line-height: 1.2">"InTime：INterpret Tongue In Media and Embodiment"</h1>
 author_profile: true
 redirect_from: 
   - /about/
