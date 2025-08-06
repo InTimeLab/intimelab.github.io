@@ -1,20 +1,11 @@
 ---
 permalink: /
-title: "InTime：INterpret Tongue In Media and Embodiment"
+title: "InTime：INterpret Tongue In Media<br> and Embodiment"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---  
-
-<style>
-  .page__title {
-    font-size: 2.8rem;
-    color: #2a7ae2;
-    font-weight: 700;
-  }
-</style>
-
 <br>
 
 **研究方向**为计算机视觉、多模态人工智能、具身智能、自<br>
