@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "InTime：INterpret Tongue In MEdia"
+title: "InTime：INterpret Tongue In Media and Embodiment"
 author_profile: true
 redirect_from: 
   - /about/
