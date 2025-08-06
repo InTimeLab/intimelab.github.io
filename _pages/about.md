@@ -1,12 +1,13 @@
----
-permalink: /
-title: "InTime：INterpret Tongue In Media<br> and Embodiment"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----  
-<br>
+# ---
+# permalink: /
+# title: "InTime：INterpret Tongue In Media<br> and Embodiment"
+# author_profile: true
+# redirect_from: 
+#   - /about/
+#   - /about.html
+# ---  
+# <br>
+**InTime：INterpret Tongue In Media and Embodiment**
 
 **研究方向**为计算机视觉、多模态人工智能、具身智能、自<br>
 然语言处理、大模型与深度学习等，具体主题包括：
