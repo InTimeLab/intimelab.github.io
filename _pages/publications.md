@@ -67,11 +67,11 @@ Y Zhang, G Zeng, H Shen, D Wu, <strong>Y Zhou*</strong>, C Ma. "Track the Answer
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-F Zhao, W Zeng, Z Li, D Yang, B Li, X Bi, <strong>Y Zhou*</strong>. "Uni-DocDiff: A Unified Document Restoration Model Based on Diffusion." <strong>ACM MM</strong>, 2025. (<strong>CCF-A</strong>)</span></span> 
+F Zhao, W Zeng, Z Li, D Yang, B Li, X Bi, <strong>Y Zhou*</strong>. "Uni-DocDiff: A Unified Document Restoration Model Based on Diffusion." <strong>ACM MM</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2508.04055" target="_blank" title="" _href="https://arxiv.org/abs/2508.04055">PDF</a>)</span></span> 
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-Y Zhang, G Zeng, D Wu, H Shen, B Li, <strong>Y Zhou</strong>, C Ma, X Bi. "Gather and Trace: Rethinking Video TextVQA from an Instance-oriented Perspective." <strong>ACM MM</strong>, 2025. (<strong>CCF-A</strong>)</span></span> 
+Y Zhang, G Zeng, D Wu, H Shen, B Li, <strong>Y Zhou</strong>, C Ma, X Bi. "Gather and Trace: Rethinking Video TextVQA from an Instance-oriented Perspective." <strong>ACM MM</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2508.04197" target="_blank" title="" _href="https://arxiv.org/abs/2508.04197">PDF</a>)</span></span> 
 			</li>
 			<li>
 				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">J Lyu, J Wei, G Zeng, Z Li, E Xie, W Wang, C Ma, <b>Y Zhou*</b>. "TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model." <strong>TOMM</strong>, 2025. (<strong>SCI一区, CCF-B</strong>, <a href="https://arxiv.org/abs/2403.10047" target="_blank" title="" _href="https://arxiv.org/abs/2403.10047">PDF</a>)</span>			
