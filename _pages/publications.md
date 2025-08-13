@@ -78,7 +78,7 @@ Y Zhang, G Zeng, D Wu, H Shen, B Li, <strong>Y Zhou</strong>, C Ma, X Bi. "Gathe
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-F Zhao, W Zeng, Z Li, D Yang, <strong>Y Zhou*</strong>. "TADoc: Robust Time-Aware Document Image Dewarping." <strong>ECAI</strong>, 2025. (<strong>CCF-B</strong>)</span></span> 
+F Zhao, W Zeng, Z Li, D Yang, <strong>Y Zhou*</strong>. "TADoc: Robust Time-Aware Document Image Dewarping." <strong>ECAI</strong>, 2025. (<strong>CCF-B</strong>, <a href="https://arxiv.org/abs/2508.06988" target="_blank" title="" _href="https://arxiv.org/abs/2508.06988">PDF</a>)</span></span> 
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
