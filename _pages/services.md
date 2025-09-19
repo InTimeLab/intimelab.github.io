@@ -47,14 +47,13 @@ author_profile: true
   </p>
   <ul style="text-wrap: wrap;">
    <li>论坛主席: 2025年 CSIG文档图像分析与识别专委会 多模态大模型与可视文本智能（OCR）学术论坛，南开大学</li>
-   <li>Workshop Chair: ICDAR 2025 Workshop on Visual Text Generation and Text Image Processing</li>
+   <li>Workshop Organization: ICDAR 2025 Workshop on Visual Text Generation and Text Image Processing</li>
    <li>Sponsorship Chair: ICDAR 25</li>
    <li>Webpage Chair: PRCV 25</li>
    <li>Area Chair: ACM MM 25, ICDAR 25, ICME 25, ICME 24, ICME 23,&nbsp;ICME 22, ICME 21, PRCV 25, PRCV 24</li>
    <li>SPC Member: IJCAI 21, ICDAR 24</li>
    <li>Outstanding Reviewer: CVPR 25 (711/12593=5.65%)</li>
    <li>PC Member: CVPR 21~, ICCV 21~, ECCV 22~, NeurIPS 23~, ICLR 24~, ICML 24~, AAAI 21~, IJCAI 22~, ACM MM 21~, ICDAR 21~, ECAI 24, ICPR 24/20, ...</li>
-   <li>Tutorial Chair: ICDAR 25</li>
    <li>Session Chair: ICDAR 25, ICME 21, TrustCom 14</li>
   </ul>
   <p style="text-wrap: wrap;"><strong><strong></strong></strong></p>
