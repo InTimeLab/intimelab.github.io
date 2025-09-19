@@ -11,6 +11,7 @@ author_profile: true
    <strong>学术报告</strong>
   </p>
   <ul style="text-wrap: wrap;">
+   <li><p>2025年09月16日，“How to Train a Multi-modal Large Document Understanding Model?”，ICDAR 2025 Tutorial (With 沈为@SJTU)，华中科技大学</p></li>
    <li><p>2025年06月22日，“可视文本智能技术”，2025第二届全国民族古籍文献智能分析学术会议，中央民族大学</p></li>
    <li><p>2025年06月07日，“增量目标检测：关键挑战与技术进展”，视觉与学习青年学者研讨会（VALSE）2025-深度连续学习研讨会，中山大学（珠海）</p></li>
    <li><p>2025年05月29日，“可视文本智能技术”，企业交流报告</p></li>
