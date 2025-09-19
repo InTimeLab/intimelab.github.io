@@ -41,7 +41,7 @@ D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou*</strong>. "An Empirical Study on Con
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-Y Shu, H Lin, Y Liu, Y Zhang, G Zeng, Y Li, <strong>Y Zhou</strong>, SN Lim, H Yang, N Sebe. "When Semantics Mislead Vision: Mitigating Large Multimodal Models Hallucinations in Scene Text Spotting and Understanding." NeurIPS, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2506.05551" target="_blank" _href="https://arxiv.org/abs/2506.05551">PDF</a>)</span></span>  
+Y Shu, H Lin, Y Liu, Y Zhang, G Zeng, Y Li, <strong>Y Zhou</strong>, SN Lim, H Yang, N Sebe. "When Semantics Mislead Vision: Mitigating Large Multimodal Models Hallucinations in Scene Text Spotting and Understanding." <strong>NeurIPS</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2506.05551" target="_blank" _href="https://arxiv.org/abs/2506.05551">PDF</a>)</span></span>  
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
