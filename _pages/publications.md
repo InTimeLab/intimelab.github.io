@@ -41,6 +41,10 @@ D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou*</strong>. "An Empirical Study on Con
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+Y Shu, H Lin, Y Liu, Y Zhang, G Zeng, Y Li, <strong>Y Zhou</strong>, SN Lim, H Yang, N Sebe. "When Semantics Mislead Vision: Mitigating Large Multimodal Models Hallucinations in Scene Text Spotting and Understanding." NeurIPS, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2506.05551" target="_blank" _href="https://arxiv.org/abs/2506.05551">PDF</a>)</span></span>  
+			</li>
+   			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 T Cao, J Lyu, W Zeng, W Mu, <strong>Y Zhou*</strong>. "The Devil is in Fine-tuning and Long-tailed Problems: A New Benchmark for Scene Text Detection." <strong>IJCAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2505.15649" target="_blank" _href="https://arxiv.org/abs/2505.15649">PDF</a>)</span></span>  
 			</li>
    			<li>
@@ -106,10 +110,6 @@ M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</str
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 Z Yang, Y Shu, Z Yang, Y Zhang, Y Li, K Lu, G Zeng, S Liu, <strong>Y Zhou</strong>, N Sebe. "VidText: Towards Comprehensive Evaluation for Video Text Understanding." arXiv, 2025. (<a href="https://arxiv.org/abs/2505.22810" target="_blank" _href="https://arxiv.org/abs/2505.22810">PDF</a>)</span></span>  
-			</li>
-   			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-Y Shu, H Lin, Y Liu, Y Zhang, G Zeng, Y Li, <strong>Y Zhou</strong>, SN Lim, H Yang, N Sebe. "When Semantics Mislead Vision: Mitigating Large Multimodal Models Hallucinations in Scene Text Spotting and Understanding." arXiv, 2025. (<a href="https://arxiv.org/abs/2506.05551" target="_blank" _href="https://arxiv.org/abs/2506.05551">PDF</a>)</span></span>  
 			</li>
    
 		</ol>
