@@ -57,7 +57,7 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
-    <em><strong>25年09月19日</strong>，祝贺舒言多模态文档大模型幻觉环节工作被<strong>NeurIPS 2025</strong>接收！</em><br>
+    <em><strong>25年09月19日</strong>，祝贺舒言多模态文档大模型幻觉缓解工作被<strong>NeurIPS 2025</strong>接收！</em><br>
     <em><strong>25年09月16日</strong>，周宇老师参加ICDAR 2025国际会议，并与上海交大沈为教授共同在Tutorial环节做<strong>"How to Train a Multi-modal Large Document Understanding Model?"</strong>报告。</em><br>
     <em><strong>25年07月11日</strong>，祝贺赵方敏文档图像畸变校正工作被<strong>ECAI 2025</strong>接收！</em><br>
     <em><strong>25年07月05日</strong>，祝贺张言视频TextVQA、赵方敏文档图像恢复2项工作被<strong>ACM MM 2025</strong>接收！</em><br>
