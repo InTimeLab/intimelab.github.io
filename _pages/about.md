@@ -57,6 +57,7 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
+    <em><strong>25年09月19日</strong>，祝贺舒言多模态文档大模型幻觉环节工作被<strong>NeurIPS 2025</strong>接收！</em><br>
     <em><strong>25年07月11日</strong>，祝贺赵方敏文档图像畸变校正工作被<strong>ECAI 2025</strong>接收！</em><br>
     <em><strong>25年07月05日</strong>，祝贺张言视频TextVQA、赵方敏文档图像恢复2项工作被<strong>ACM MM 2025</strong>接收！</em><br>
     <em><strong>25年06月22日</strong>，周宇老师参加<strong>2025第二届全国民族古籍文献智能分析学术会议</strong>，并做“可视文本智能技术”报告。</em><br>
