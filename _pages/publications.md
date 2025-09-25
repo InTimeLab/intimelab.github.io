@@ -90,11 +90,11 @@ D Zhang, J Lyu, Z Shen, <strong>Y Zhou*</strong>. "Class-Agnostic Region-of-Inte
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-Z Li, J Wei, Z Shen, C Ma, Y Wu, <strong>Y Zhou*</strong>. "PACM: Position-Aware Cross-Modality Decoder for Handwritten Mathematical Expression Recognition." <strong>ICDAR</strong>, 2025. (<strong>CCF-C</strong>)</span></span>
+Z Li, J Wei, Z Shen, C Ma, Y Wu, <strong>Y Zhou*</strong>. "PACM: Position-Aware Cross-Modality Decoder for Handwritten Mathematical Expression Recognition." <strong>ICDAR</strong>, 2025. (<strong>CCF-C</strong>, <a href="https://link.springer.com/chapter/10.1007/978-3-032-04614-7_6" target="_blank" title="" _href="https://link.springer.com/chapter/10.1007/978-3-032-04614-7_6">PDF</a>)</span></span>
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-Z Li, J Wei, Z Shen, Y Wu, G Zeng, D Yang, Z Qiao,  <strong>Y Zhou*</strong>. "PerturbCTC: Improving Alignment in Scene Text Recognition with Feature Perturbation Based CTC." <strong>ICDAR</strong>, 2025. (<strong>CCF-C</strong>)</span></span>
+Z Li, J Wei, Z Shen, Y Wu, G Zeng, D Yang, Z Qiao,  <strong>Y Zhou*</strong>. "PerturbCTC: Improving Alignment in Scene Text Recognition with Feature Perturbation Based CTC." <strong>ICDAR</strong>, 2025. (<strong>CCF-C</strong>, <a href="https://link.springer.com/chapter/10.1007/978-3-032-04627-7_10" target="_blank" title="" _href="https://link.springer.com/chapter/10.1007/978-3-032-04627-7_10">PDF</a>)</span></span>
 			</li>
       			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
