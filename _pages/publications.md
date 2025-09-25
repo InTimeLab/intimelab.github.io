@@ -86,7 +86,7 @@ F Zhao, W Zeng, Z Li, D Yang, <strong>Y Zhou*</strong>. "TADoc: Robust Time-Awar
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-D Zhang, J Lyu, Z Shen, <strong>Y Zhou*</strong>. "Class-Agnostic Region-of-Interest Matching in Document Images." <strong>ICDAR</strong>, 2025. (<strong>CCF-C</strong>, <a href="https://arxiv.org/abs/2506.21055" target="_blank" title="" _href="https://arxiv.org/abs/2506.21055">PDF</a>)</span></span>
+D Zhang, J Lyu, Z Shen, <strong>Y Zhou*</strong>. "Class-Agnostic Region-of-Interest Matching in Document Images." <strong>ICDAR</strong>, 2025. (<strong>CCF-C</strong>, <a href="https://link.springer.com/chapter/10.1007/978-3-032-04627-7_26" target="_blank" title="" _href="https://link.springer.com/chapter/10.1007/978-3-032-04627-7_26">PDF</a>)</span></span>
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
