@@ -5,7 +5,7 @@ permalink: /stu/
 author_profile: true
 ---
 
-+ <h16 style="color:blue">【博士招生】1) 25年推免拟招生26级直博或普博（已发表CCF-A列表论文者优先）1名；2) 拟招生26级统招及硕转博博士生（已发表CCF-A列表论文者优先），依托北京中关村学院，学籍南开大学，须通过中关村学院秋季考核，中关村学院秋季考核已开始报名（https://www.bjzgca.edu.cn/detail/slfyipu0nro57856gvqel2y5fzf62rgw）；</h16>
++ <h16 style="color:blue">【博士招生】1) 拟招生26级普博（已发表CCF-A列表或同等级论文者优先）2名；2) 拟招生26级统招及硕转博博士生（已发表CCF-A列表论文者优先），依托北京中关村学院，学籍南开大学，须通过中关村学院秋季考核，中关村学院秋季考核已开始报名（https://www.bjzgca.edu.cn/detail/slfyipu0nro57856gvqel2y5fzf62rgw）；</h16>
   
 + <h16 style="color:blue">【硕士招生】 1) 东北师大及南信工：25年拟招生26级东北师范大学、南京信息工程大学统招硕士生，需有明确学术或技术追求，培养方式完全相同，请关注推免报名截止日期；</h16>
 
