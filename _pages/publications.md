@@ -78,6 +78,9 @@ F Zhao, W Zeng, Z Li, D Yang, B Li, X Bi, <strong>Y Zhou*</strong>. "Uni-DocDiff
 Y Zhang, G Zeng, D Wu, H Shen, B Li, <strong>Y Zhou</strong>, C Ma, X Bi. "Gather and Trace: Rethinking Video TextVQA from an Instance-oriented Perspective." <strong>ACM MM</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2508.04197" target="_blank" title="" _href="https://arxiv.org/abs/2508.04197">PDF</a>)</span></span> 
 			</li>
 			<li>
+				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">D Wu, D Yang, H Shen, C Ma, <b>Y Zhou</b>. "Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition." PR, 2025. (<strong>中科院SCI一区, CCF-B</strong>, <a href="https://arxiv.org/abs/2407.07026" target="_blank" title="" _href="https://arxiv.org/abs/2407.07026">PDF</a>)</span>			
+			</li>
+			<li>
 				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">J Lyu, J Wei, G Zeng, Z Li, E Xie, W Wang, C Ma, <b>Y Zhou*</b>. "TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model." <strong>TOMM</strong>, 2025. (<strong>SCI一区, CCF-B</strong>, <a href="https://arxiv.org/abs/2403.10047" target="_blank" title="" _href="https://arxiv.org/abs/2403.10047">PDF</a>)</span>			
 			</li>
    			<li>
@@ -152,9 +155,7 @@ D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou*</strong>. "Customizing Visual Emotio
 			<li>
 				<span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(198, 217, 240);">Y Zhang, G Zeng, H Shen, C Ma, <b>Y Zhou*</b>. "Show Exemplars and Tell Me What You See: In-context Learning with Frozen Large Language Models for TextVQA."&nbsp;<strong>PRCV</strong>, 2024. (<strong>CCF-C</strong>, <a href="https://link.springer.com/chapter/10.1007/978-981-97-8511-7_17" target="_blank" _href="https://link.springer.com/chapter/10.1007/978-981-97-8511-7_17">PDF</a>)</span>				
 			</li>
-			<li>
-				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">D Wu, D Yang, H Shen, C Ma, <b>Y Zhou</b>. "Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition." arXiv, 2024. (<a href="https://arxiv.org/abs/2407.07026" target="_blank" title="" _href="https://arxiv.org/abs/2407.07026">PDF</a>)</span>						</li>
-    			<li>
+    		<li>
 				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">H Shen, C Liu, G Li, X Wang, <strong>Y Zhou</strong>, C Ma, X Ji. "Falcon-UI: Understanding GUI Before Following User Instructions." arXiv, 2024. (<a href="https://arxiv.org/abs/2412.09362" target="_blank" title="" _href="https://arxiv.org/abs/2412.09362">PDF</a>)</span>							</li>
 		</ol>
 		<p style="text-wrap: wrap;">
