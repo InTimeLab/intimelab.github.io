@@ -67,7 +67,7 @@ author_profile: true
      <strong style=""><em>张傲婷</em></strong>，2021级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>，在读
     </li>
     <li>
-     <strong style=""><em>吴岱卿</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *3</span>，在读
+     <strong style=""><em>吴岱卿</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *3</span>、<span style="background-color: rgb(235, 241, 221);">中科院SCI一区 *1</span>，在读
     </li>
     <li>
      <span style="white-space: normal;"><strong>舒<span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span>言</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span>、<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>，意大利Trento大学Nicu Sebe教授博士生</span>
