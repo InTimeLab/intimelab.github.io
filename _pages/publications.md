@@ -18,18 +18,9 @@ author_profile: true
 			</strong>
 		</p>
 
-		</ol>
 		<p style="text-wrap: wrap;">
 			<span style="font-family: arial, helvetica, sans-serif;">
 				<strong><span style="font-size:15px">2026</span></strong>
-			</span>
-		</p>
-		<ol style="text-wrap: wrap;">
-
-		</ol>
-    	<p style="text-wrap: wrap;">
-			<span style="font-family: arial, helvetica, sans-serif;">
-				<strong><span style="font-size:15px">2025</span></strong>
 			</span>
 		</p>
 		<ol style="text-wrap: wrap;">
@@ -49,7 +40,13 @@ Q Ye, <strong>Y Zhou*</strong>, L He, J Zhang, X Guo, J Zhang, M Tan, W Xie, Y S
 L He, M Liu, Q Ye, <strong>Y Zhou</strong>, X Deng, G Ding. "Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
 			</li>
 
-			
+		</ol>
+    	<p style="text-wrap: wrap;">
+			<span style="font-family: arial, helvetica, sans-serif;">
+				<strong><span style="font-size:15px">2025</span></strong>
+			</span>
+		</p>
+		<ol style="text-wrap: wrap;">
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 X Yang, Z Qiao, <strong>Y Zhou*</strong>. "IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition." <strong>IJCV</strong>, 2025. (<strong>CCF-A, SCI一区</strong>, <a href="https://link.springer.com/article/10.1007/s11263-025-02443-1" target="_blank" _href="https://link.springer.com/article/10.1007/s11263-025-02443-1">PDF</a>)</span></span>  			
