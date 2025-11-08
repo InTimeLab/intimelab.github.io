@@ -57,6 +57,7 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
+    <em><strong>25年11月08日</strong>，祝贺魏谨场景文本分割、叶启朗音视频大模型幻觉&行为识别、何莲具身可供性共4项工作被<strong>AAAI 2026</strong>接收！</em><br>
     <em><strong>25年11月05日</strong>，祝贺吴岱卿情感分析工作被<strong>PR</strong>接收！</em><br>
     <em><strong>25年10月16日</strong>，周宇老师参加PRCV 2025会议，并做“多模态文档大模型幻觉问题及缓解方法研究”报告。</em><br>
     <em><strong>25年09月19日</strong>，祝贺舒言多模态文档大模型幻觉缓解工作被<strong>NeurIPS 2025</strong>接收！</em><br>
