@@ -17,14 +17,13 @@ author_profile: true
 				</span>
 			</strong>
 		</p>
-
-		</ol>
-		<p style="text-wrap: wrap;">
-			<span style="font-family: arial, helvetica, sans-serif;">
-				<strong><span style="font-size:15px">2026</span></strong>
-			</span>
-		</p>
-		<ol style="text-wrap: wrap;">
+		
+	<p style="text-wrap: wrap;">
+		<span style="font-family: arial, helvetica, sans-serif;">
+			<strong><span style="font-size:15px">2026</span></strong>
+		</span>
+	</p>
+	<ol style="text-wrap: wrap;">
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">J Wei, Y Wu, J Yan, Z Li, Z Zu, <strong>Y Zhou</strong>, L Zhang, QY Wang. "ST-SAM: Multimodal Scene Text Segmentation with Dense Visual and Sparse Textual Prompts via SAM." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
 			</li>
