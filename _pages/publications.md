@@ -40,6 +40,7 @@ Q Ye, <strong>Y Zhou*</strong>, L He, J Zhang, X Guo, J Zhang, M Tan, W Xie, Y S
 L He, M Liu, Q Ye, <strong>Y Zhou</strong>, X Deng, G Ding. "Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
 			</li>
 
+		<ol style="text-wrap: wrap;">
     	<p style="text-wrap: wrap;">
 			<span style="font-family: arial, helvetica, sans-serif;">
 				<strong><span style="font-size:15px">2025</span></strong>
