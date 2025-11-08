@@ -26,6 +26,10 @@ author_profile: true
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">J Wei, Y Wu, J Yan, Z Li, Z Zu, <strong>Y Zhou</strong>, L Zhang, QY Wang. "ST-SAM: Multimodal Scene Text Segmentation with Dense Visual and Sparse Textual Prompts via SAM." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
 			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
+Q Ye, W Zeng, M Liu, J Zhang, Y Hu, Z Yu, <strong>Y Zhou*</strong>. "When Eyes and Ears Disagree: Can MLLMs Discern Audio-Visual Confusion?." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
+			</li>
 
     	<p style="text-wrap: wrap;">
 			<span style="font-family: arial, helvetica, sans-serif;">
