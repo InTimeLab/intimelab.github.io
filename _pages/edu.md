@@ -50,7 +50,7 @@ author_profile: true
     </li>
     <li>
      <strong style="">方</strong><span style="white-space: normal;"><span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></span><strong style="">波</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>、国奖，香港城市大学陈万师教授博士生</span></li>
-    <li><span style="white-space: normal;"><strong style="">魏</strong><span style="white-space: normal;"><span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></span><strong style="">谨</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，入职联想研究院</span></span>
+    <li><span style="white-space: normal;"><strong style="">魏</strong><span style="white-space: normal;"><span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></span><strong style="">谨</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>，入职联想研究院</span></span>
     </li>
     <li>
      <span style="white-space: normal;"><span style="white-space: normal;"><strong>杨欣烨</strong>，2020级硕士生，一作<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>，入职中科院软件所</span></span>
@@ -95,6 +95,9 @@ author_profile: true
     </li>
     <li>
      <strong><em>赵方敏</em></strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>，在读
+    </li>
+    <li>
+     <strong><em>叶启朗</em></strong>，2025级博士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>，在读
     </li>
    </ol>
  </div>
