@@ -392,6 +392,4 @@ D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou*</strong>. "Customizing Visual Emotio
 					<span style="font-size:15px">2019<strong style="">&amp;Pre，参见<a href="https://dblp.uni-trier.de/pid/36/2728-15.html" target="_blank" style="" _href="https://dblp.uni-trier.de/pid/36/2728-15.html">DBLP</a>&nbsp;&amp;&nbsp;<a href="https://scholar.google.com/citations?user=FNfBHg8AAAAJ&hl=en" target="_blank" style="" _href="https://scholar.google.com/citations?user=FNfBHg8AAAAJ&hl=en">Google Scholar</a></strong></span>
 				</strong>
 			</span>
-		</div>
-	</div>
-</div>
+	
