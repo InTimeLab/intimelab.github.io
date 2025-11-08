@@ -18,7 +18,16 @@ author_profile: true
 			</strong>
 		</p>
 
-    		<p style="text-wrap: wrap;">
+		<p style="text-wrap: wrap;">
+			<span style="font-family: arial, helvetica, sans-serif;">
+				<strong><span style="font-size:15px">2026</span></strong>
+			</span>
+		</p>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">J Wei, Y Wu, J Yan, Z Li, Z Zu, <strong>Y Zhou</strong>, L Zhang, QY Wang. "ST-SAM: Multimodal Scene Text Segmentation with Dense Visual and Sparse Textual Prompts via SAM." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+			</li>
+
+    	<p style="text-wrap: wrap;">
 			<span style="font-family: arial, helvetica, sans-serif;">
 				<strong><span style="font-size:15px">2025</span></strong>
 			</span>
@@ -26,7 +35,8 @@ author_profile: true
 		<ol style="text-wrap: wrap;">
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-X Yang, Z Qiao, <strong>Y Zhou*</strong>. "IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition." <strong>IJCV</strong>, 2025. (<strong>CCF-A, SCI一区</strong>, <a href="https://link.springer.com/article/10.1007/s11263-025-02443-1" target="_blank" _href="https://link.springer.com/article/10.1007/s11263-025-02443-1">PDF</a>)</span></span>  			</li>
+X Yang, Z Qiao, <strong>Y Zhou*</strong>. "IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition." <strong>IJCV</strong>, 2025. (<strong>CCF-A, SCI一区</strong>, <a href="https://link.springer.com/article/10.1007/s11263-025-02443-1" target="_blank" _href="https://link.springer.com/article/10.1007/s11263-025-02443-1">PDF</a>)</span></span>  			
+			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 Y Zhang, C Liu, J Wei, X Yang, <strong>Y Zhou*</strong>, C Ma, X Ji. "Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition." <strong>CVPR</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2503.18746" target="_blank" _href="https://arxiv.org/abs/2412.14596">PDF</a>)</span></span>  
