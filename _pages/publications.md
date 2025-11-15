@@ -29,11 +29,11 @@ author_profile: true
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
-Q Ye, W Zeng, M Liu, J Zhang, Y Hu, Z Yu, <strong>Y Zhou</strong>. "When Eyes and Ears Disagree: Can MLLMs Discern Audio-Visual Confusion?" <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
+Q Ye, W Zeng, M Liu, J Zhang, Y Hu, Z Yu, <strong>Y Zhou</strong>. "When Eyes and Ears Disagree: Can MLLMs Discern Audio-Visual Confusion?" <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2511.10059" target="_blank" _href="https://arxiv.org/abs/2511.10059">PDF</a>)</span></span>  
 			</li>			
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
-Q Ye, <strong>Y Zhou*</strong>, L He, J Zhang, X Guo, J Zhang, M Tan, W Xie, Y Sun, T Tan, X Yuan, G Khoriba, Z Yu. "SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition." <strong>AAAI</strong>, 2026. (<strong>CCF-A, Oral Presentation</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
+Q Ye, <strong>Y Zhou*</strong>, L He, J Zhang, X Guo, J Zhang, M Tan, W Xie, Y Sun, T Tan, X Yuan, G Khoriba, Z Yu. "SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition." <strong>AAAI</strong>, 2026. (<strong>CCF-A, Oral Presentation</strong>, <a href="https://arxiv.org/abs/2511.10091" target="_blank" _href="https://arxiv.org/abs/2511.10091">PDF</a>)</span></span>  
 			</li>			
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
