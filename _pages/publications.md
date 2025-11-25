@@ -142,6 +142,10 @@ Z Yang, Y Shu, Z Yang, Y Zhang, Y Li, K Lu, G Zeng, S Liu, <strong>Y Zhou</stron
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
 D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou*</strong>. "Customizing Visual Emotion Evaluation for MLLMs: An Open-vocabulary, Multifaceted, and Scalable Approach." arXiv, 2025. (<a href="https://arxiv.org/abs/2509.21950" target="_blank" _href="https://arxiv.org/abs/2509.21950">PDF</a>)</span></span>  
 			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+..., G li, ..., H Shen, ..., <strong>Y ZHOU</strong>, .... "HunyuanOCR Technical Report." 2025. (<a href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf" target="_blank" _href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf">PDF</a>)</span></span>  
+			</li>
    
 		</ol>
 		<p style="text-wrap: wrap;">
