@@ -38,6 +38,9 @@ Q Ye, <strong>Y Zhou*</strong>, L He, J Zhang, X Guo, J Zhang, M Tan, W Xie, Y S
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
 L He, M Liu, Q Ye, <strong>Y Zhou</strong>, X Deng, G Ding. "Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2511.11702" target="_blank" _href="https://arxiv.org/abs/2511.11702">PDF</a>)</span></span>  
+			</li>			
+			<li>
+				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">D Wu, D Yang, H Shen, C Ma, <b>Y Zhou</b>. "Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition." <strong>PR</strong>, 2025. (<strong>中科院SCI一区, CCF-B</strong>, <a href="https://arxiv.org/abs/2407.07026" target="_blank" title="" _href="https://arxiv.org/abs/2407.07026">PDF</a>)</span>			
 			</li>
 
 		</ol>
@@ -100,9 +103,6 @@ F Zhao, W Zeng, Z Li, D Yang, B Li, X Bi, <strong>Y Zhou*</strong>. "Uni-DocDiff
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 Y Zhang, G Zeng, D Wu, H Shen, B Li, <strong>Y Zhou</strong>, C Ma, X Bi. "Gather and Trace: Rethinking Video TextVQA from an Instance-oriented Perspective." <strong>ACM MM</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2508.04197" target="_blank" title="" _href="https://arxiv.org/abs/2508.04197">PDF</a>)</span></span> 
-			</li>
-			<li>
-				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">D Wu, D Yang, H Shen, C Ma, <b>Y Zhou</b>. "Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition." <strong>PR</strong>, 2025. (<strong>中科院SCI一区, CCF-B</strong>, <a href="https://arxiv.org/abs/2407.07026" target="_blank" title="" _href="https://arxiv.org/abs/2407.07026">PDF</a>)</span>			
 			</li>
 			<li>
 				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">J Lyu, J Wei, G Zeng, Z Li, E Xie, W Wang, C Ma, <b>Y Zhou*</b>. "TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model." <strong>TOMM</strong>, 2025. (<strong>SCI一区, CCF-B</strong>, <a href="https://arxiv.org/abs/2403.10047" target="_blank" title="" _href="https://arxiv.org/abs/2403.10047">PDF</a>)</span>			
