@@ -10,9 +10,11 @@ author_profile: true
 		<p style="text-wrap: wrap;">
 			<strong style="font-family: arial, helvetica, sans-serif;">
 				<span style="font-size:16px">
-					可视文本<span style="background-color: rgb(198, 217, 240);">&nbsp; &nbsp; &nbsp;</span>
-					自监督学习<span style="background-color: rgb(235, 241, 221);">&nbsp; &nbsp; &nbsp;</span>
+					文档智能<span style="background-color: rgb(198, 217, 240);">&nbsp; &nbsp; &nbsp;</span>
+					具身智能<span style="background-color: rgb(220, 180, 180);">&nbsp; &nbsp; &nbsp;</span>
+					多模态智能<span style="background-color: rgb(220, 180, 220);">&nbsp; &nbsp; &nbsp;</span>
 					增量检测<span style="background-color: rgb(242, 220, 219);">&nbsp; &nbsp; &nbsp;</span>
+					自监督学习<span style="background-color: rgb(235, 241, 221);">&nbsp; &nbsp; &nbsp;</span>
 					其他工作<span style="background-color: rgb(242, 242, 242);">&nbsp; &nbsp; &nbsp;</span>
 				</span>
 			</strong>
@@ -28,15 +30,15 @@ author_profile: true
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">J Wei, Y Wu, J Yan, Z Li, Z Zu, <strong>Y Zhou</strong>, L Zhang, QY Wang. "ST-SAM: Multimodal Scene Text Segmentation with Dense Visual and Sparse Textual Prompts via SAM." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
 			</li>
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
 Q Ye, W Zeng, M Liu, J Zhang, Y Hu, Z Yu, <strong>Y Zhou</strong>. "When Eyes and Ears Disagree: Can MLLMs Discern Audio-Visual Confusion?" <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2511.10059" target="_blank" _href="https://arxiv.org/abs/2511.10059">PDF</a>)</span></span>  
 			</li>			
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
 Q Ye, <strong>Y Zhou*</strong>, L He, J Zhang, X Guo, J Zhang, M Tan, W Xie, Y Sun, T Tan, X Yuan, G Khoriba, Z Yu. "SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition." <strong>AAAI</strong>, 2026. (<strong>CCF-A, Oral Presentation</strong>, <a href="https://arxiv.org/abs/2511.10091" target="_blank" _href="https://arxiv.org/abs/2511.10091">PDF</a>)</span></span>  
 			</li>			
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 180);font-size:15px">
 L He, M Liu, Q Ye, <strong>Y Zhou</strong>, X Deng, G Ding. "Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2511.11702" target="_blank" _href="https://arxiv.org/abs/2511.11702">PDF</a>)</span></span>  
 			</li>			
 			<li>
