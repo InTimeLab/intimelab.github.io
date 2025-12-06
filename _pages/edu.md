@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="mi-box">
  <div class="mib-c ">
-  <p>*含与中科院信工所王伟平&马灿<span style="white-space: normal;">研究员</span>、中国传媒大学张远教授、哈尔滨工业大学刘绍辉教授联合指导学生</p>
+  <p>*含与中科院信工所王伟平&马灿<span style="white-space: normal;">研究员</span>、中国传媒大学张远教授、哈尔滨工业大学刘绍辉教授、北京中关村学院聂礼强教授&刘萌教授联合指导学生</p>
   <p>
    <span style="background-color: rgb(255, 255, 255);">*CCF-A&nbsp;</span><span style="background-color: rgb(198, 217, 240);">&nbsp; &nbsp;&nbsp;</span>
    <span style="background-color: rgb(255, 255, 255);"><span style="text-wrap: wrap;">、SCI一区&nbsp;</span><span style="text-wrap: wrap; background-color: rgb(235, 241, 221);">&nbsp; &nbsp;&nbsp;</span>、CCF-B&nbsp;</span><span style="background-color: rgb(242, 220, 219);">&nbsp; &nbsp;&nbsp;</span></p><p>    
@@ -95,6 +95,9 @@ author_profile: true
     </li>
     <li>
      <strong><em>赵方敏</em></strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>，在读
+    </li>
+    <li>
+     <strong><em>何<span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span>莲</em></strong>，2024级博士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，在读
     </li>
     <li>
      <strong><em>叶启朗</em></strong>，2025级博士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>，在读
