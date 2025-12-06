@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="mi-box">
 	<div class="mib-c ">
-<!--		<p style="text-wrap: wrap;">
+		<p style="text-wrap: wrap;">
 			<strong style="font-family: arial, helvetica, sans-serif;">
 				<span style="font-size:16px">
 					文档智能<span style="background-color: rgb(198, 217, 240);">&nbsp; &nbsp; &nbsp;</span>
@@ -18,7 +18,7 @@ author_profile: true
 					其他工作<span style="background-color: rgb(242, 242, 242);">&nbsp; &nbsp; &nbsp;</span>
 				</span>
 			</strong>
-		</p> -->
+		</p> 
 
 		<p style="text-wrap: wrap;">
 			<span style="font-family: arial, helvetica, sans-serif;">
@@ -65,7 +65,7 @@ Y Zhang, C Liu, J Wei, X Yang, <strong>Y Zhou*</strong>, C Ma, X Ji. "Linguistic
 G Li, H Shen, <strong>Y Zhou*</strong>. "Beyond Cropped Regions: New Benchmark and Corresponding Baseline for Chinese Scene Text Retrieval in Diverse Layouts." <strong>ICML</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2506.04999" target="_blank" _href="https://arxiv.org/abs/2506.04999">PDF</a>)</span></span>   
 			</li>
    			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
 D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou*</strong>. "An Empirical Study on Configuring In-Context Learning Demonstrations for Unleashing MLLMs' Sentimental Perception Capability." <strong>ICML</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2505.16193" target="_blank" _href="https://arxiv.org/abs/2505.16193">PDF</a>)</span></span>  
 			</li>
    			<li>
@@ -77,7 +77,7 @@ Y Shu, H Lin, Y Liu, Y Zhang, G Zeng, Y Li, <strong>Y Zhou</strong>, SN Lim, H Y
 T Cao, J Lyu, W Zeng, W Mu, <strong>Y Zhou*</strong>. "The Devil is in Fine-tuning and Long-tailed Problems: A New Benchmark for Scene Text Detection." <strong>IJCAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2505.15649" target="_blank" _href="https://arxiv.org/abs/2505.15649">PDF</a>)</span></span>  
 			</li>
    			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
 W Li, D Luo, D Yang, Z Li, W Wang, <strong>Y Zhou*</strong>. "The Role of Video Generation in Enhancing Data-Limited Action Understanding." <strong>IJCAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2505.19495" target="_blank" _href="https://arxiv.org/abs/2505.19495">PDF</a>)</span></span> 
 			</li>
       			<li>
@@ -141,7 +141,7 @@ M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</str
 Z Yang, Y Shu, Z Yang, Y Zhang, Y Li, K Lu, G Zeng, S Liu, <strong>Y Zhou</strong>, N Sebe. "VidText: Towards Comprehensive Evaluation for Video Text Understanding." arXiv, 2025. (<a href="https://arxiv.org/abs/2505.22810" target="_blank" _href="https://arxiv.org/abs/2505.22810">PDF</a>)</span></span>  
 			</li>
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
 D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou*</strong>. "Customizing Visual Emotion Evaluation for MLLMs: An Open-vocabulary, Multifaceted, and Scalable Approach." arXiv, 2025. (<a href="https://arxiv.org/abs/2509.21950" target="_blank" _href="https://arxiv.org/abs/2509.21950">PDF</a>)</span></span>  
 			</li>
 			<li>
@@ -168,10 +168,10 @@ D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou*</strong>. "Customizing Visual Emotio
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">G Zeng, Y Zhang, J Wei, D Yang, P Zhang, Y Gao, X Qin, <strong>Y Zhou</strong>. "Focus, Distinguish, and Prompt: Unleashing CLIP for Efficient and Flexible Scene Text Retrieval." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2408.00441" target="_blank" _href="https://arxiv.org/abs/2408.00441">PDF</a>)</span></span>
 			</li>
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">D Wu, D Yang, <strong>Y Zhou</strong>, C Ma. "Bridging Visual Affective Gap: Borrowing Textual Knowledge by Learning from Noisy Image-Text Pairs." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>, <a href="https://dl.acm.org/doi/10.1145/3664647.3680875" target="_blank" _href="https://dl.acm.org/doi/10.1145/3664647.3680875">PDF</a>)</span></span> 
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">D Wu, D Yang, <strong>Y Zhou</strong>, C Ma. "Bridging Visual Affective Gap: Borrowing Textual Knowledge by Learning from Noisy Image-Text Pairs." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>, <a href="https://dl.acm.org/doi/10.1145/3664647.3680875" target="_blank" _href="https://dl.acm.org/doi/10.1145/3664647.3680875">PDF</a>)</span></span> 
 			</li>
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">D Wu, D Yang, <strong>Y Zhou</strong>, C Ma. "Robust Multimodal Sentiment Analysis of Image-Text Pairs by Distribution-Based Feature Recovery and Fusion." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>, <a href="https://dl.acm.org/doi/10.1145/3664647.3680653" target="_blank" _href="https://dl.acm.org/doi/10.1145/3664647.3680653">PDF</a>)</span></span>  
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">D Wu, D Yang, <strong>Y Zhou</strong>, C Ma. "Robust Multimodal Sentiment Analysis of Image-Text Pairs by Distribution-Based Feature Recovery and Fusion." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>, <a href="https://dl.acm.org/doi/10.1145/3664647.3680653" target="_blank" _href="https://dl.acm.org/doi/10.1145/3664647.3680653">PDF</a>)</span></span>  
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">Z Li, Y Shu, W Zeng, D Yang, <strong>Y Zhou*</strong>. "First Creating Backgrounds Then Rendering Texts: A New Paradigm for Visual Text Blending." <strong>ECAI</strong>, 2024. (<strong>CCF-B</strong>, Acceptance Rate 23.0%, <a href="https://arxiv.org/abs/2410.10168" target="_blank" _href="https://arxiv.org/abs/2410.10168">PDF</a>)</span></span>			
