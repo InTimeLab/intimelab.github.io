@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="mi-box">
 	<div class="mib-c ">
-		<p style="text-wrap: wrap;">
+<!--		<p style="text-wrap: wrap;">
 			<strong style="font-family: arial, helvetica, sans-serif;">
 				<span style="font-size:16px">
 					文档智能<span style="background-color: rgb(198, 217, 240);">&nbsp; &nbsp; &nbsp;</span>
@@ -18,7 +18,7 @@ author_profile: true
 					其他工作<span style="background-color: rgb(242, 242, 242);">&nbsp; &nbsp; &nbsp;</span>
 				</span>
 			</strong>
-		</p>
+		</p> -->
 
 		<p style="text-wrap: wrap;">
 			<span style="font-family: arial, helvetica, sans-serif;">
