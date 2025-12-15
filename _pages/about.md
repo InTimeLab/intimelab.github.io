@@ -57,6 +57,7 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
+    <em><strong>25年12月15日</strong>，祝贺<strong>叶启朗</strong>入选2025年中国科协青年科技人才培育工程博士生专项计划！</em><br>
     <em><strong>25年11月11日</strong>，祝贺<strong>张宜飞、李未</strong>顺利通过博士学位论文答辩！</em><br>
     <em><strong>25年11月08日</strong>，祝贺魏谨场景文本分割、叶启朗音视频大模型幻觉&行为识别、何莲具身可供性共4项工作被<strong>AAAI 2026</strong>接收！</em><br>
     <em><strong>25年11月05日</strong>，祝贺吴岱卿情感分析工作被<strong>PR</strong>接收！</em><br>
