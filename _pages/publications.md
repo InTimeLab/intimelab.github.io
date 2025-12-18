@@ -148,6 +148,14 @@ D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou*</strong>. "Customizing Visual Emotio
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 ..., G li, ..., H Shen, ..., <strong>Y Zhou</strong>, .... "HunyuanOCR Technical Report." 2025. (<a href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf" target="_blank" _href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf">PDF</a>)</span></span>  
 			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
+D Wu, D Yang, C Ma, <strong>Y Zhou*</strong>. "EmoCaliber: Advancing Reliable Visual Emotion Comprehension via Confidence Verbalization and Calibration." arXiv, 2025. (<a href="https://arxiv.org/abs/2512.15528" target="_blank" _href="https://arxiv.org/abs/2512.15528">PDF</a>)</span></span>  
+			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
+Y Yang, X Chen, Z Zhao, <strong>Y Zhou</strong>, Xiaoyan Gu, Juan Cao. "ComMark: Covert and Robust Black-Box Model Watermarking with Compressed Samples." arXiv, 2025. (<a href="https://arxiv.org/abs/2512.15641" target="_blank" _href="https://arxiv.org/abs/2512.15641">PDF</a>)</span></span>  
+			</li>
    
 		</ol>
 		<p style="text-wrap: wrap;">
