@@ -100,7 +100,7 @@ author_profile: true
      <strong><em>何<span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span>莲</em></strong>，2024级博士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，在读
     </li>
     <li>
-     <strong><em>叶启朗</em></strong>，2025级博士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>，入选2025年中国科协青年科技人才培育工程博士生专项计划，在读
+     <strong><em>叶启朗</em></strong>，2025级博士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>，入选2025年中国科协青年科技人才培育工程博士生专项计划（一作发表顶会顶刊论文4篇，含硕士阶段2篇），在读
     </li>
    </ol>
  </div>
