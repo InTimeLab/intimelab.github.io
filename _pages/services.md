@@ -54,6 +54,7 @@ author_profile: true
    <li>Sponsorship Chair: ICDAR 25</li>
    <li>Webpage Chair: PRCV 25</li>
    <li>Best Area Chair Award: PRCV 2025</li>
+   <li>Senior Area Chair: ICME 26</li>
    <li>Area Chair: ACM MM 25, ICDAR 25, ICME 25, ICME 24, ICME 23,&nbsp;ICME 22, ICME 21, PRCV 25, PRCV 24</li>
    <li>SPC Member: IJCAI 21, ICDAR 24</li>
    <li>Outstanding Reviewer: CVPR 25 (711/12593=5.65%)</li>
