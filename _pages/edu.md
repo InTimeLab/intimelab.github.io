@@ -58,7 +58,7 @@ author_profile: true
     <li>
      <span style="white-space: normal;"><span style="white-space: normal;"><strong style="">李<span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></strong><strong style="">强</strong>，2020级硕士生，一作CCF-C *1，入职重庆赛力斯技术有限公司</span></span></li>
     <li>
-     <strong>张宜飞</strong>，2021级博士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、<span style="background-color: rgb(235, 241, 221);">中科院SCI一区 *1</span><span style="background-color: rgb(255, 255, 255);"></span>、CCF-C *1
+     <strong>张宜飞</strong>，2021级博士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、<span style="background-color: rgb(235, 241, 221);">中科院SCI一区 *1</span><span style="background-color: rgb(255, 255, 255);"></span>、CCF-C *1，入职腾讯（青云计划）
     </li>
     <li>
      <strong style=""><em>申化文</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>，<span style="white-space: normal;">CSIG 2022票据识别与分析挑战赛冠军、ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，在读</span>
