@@ -27,6 +27,14 @@ author_profile: true
 		</p>
 		<ol style="text-wrap: wrap;">
 			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
+D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou*</strong>. "Customizing Visual Emotion Evaluation for MLLMs: An Open-vocabulary, Multifaceted, and Scalable Approach." ICLR, 2026. (<strong>THU-A</strong>, <a href="https://arxiv.org/abs/2509.21950" target="_blank" _href="https://arxiv.org/abs/2509.21950">PDF</a>)</span></span>  
+			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
+D Wu, X Zhang, D Yang, J Yao, L Chen, Q Liu, S Zhao, C Ma, Y Kang, <strong>Y Zhou*</strong>. "Echo: Towards Advanced Audio Comprehension via Audio-Interleaved Reasoning." ICLR, 2026. (<strong>THU-A</strong>)</span></span>  
+			</li>
+			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">J Wei, Y Wu, J Yan, Z Li, Z Zu, <strong>Y Zhou</strong>, L Zhang, QY Wang. "ST-SAM: Multimodal Scene Text Segmentation with Dense Visual and Sparse Textual Prompts via SAM." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
 			</li>
 			<li>
@@ -139,10 +147,6 @@ M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</str
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 Z Yang, Y Shu, Z Yang, Y Zhang, Y Li, K Lu, G Zeng, S Liu, <strong>Y Zhou</strong>, N Sebe. "VidText: Towards Comprehensive Evaluation for Video Text Understanding." arXiv, 2025. (<a href="https://arxiv.org/abs/2505.22810" target="_blank" _href="https://arxiv.org/abs/2505.22810">PDF</a>)</span></span>  
-			</li>
-			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
-D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou*</strong>. "Customizing Visual Emotion Evaluation for MLLMs: An Open-vocabulary, Multifaceted, and Scalable Approach." arXiv, 2025. (<a href="https://arxiv.org/abs/2509.21950" target="_blank" _href="https://arxiv.org/abs/2509.21950">PDF</a>)</span></span>  
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
