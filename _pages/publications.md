@@ -28,7 +28,7 @@ author_profile: true
 		<ol style="text-wrap: wrap;">
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
-D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou*</strong>. "Customizing Visual Emotion Evaluation for MLLMs: An Open-vocabulary, Multifaceted, and Scalable Approach." <strong>ICLR</strong>, 2026. (<strong>THU-A</strong>, <a href="https://arxiv.org/abs/2509.21950" target="_blank" _href="https://arxiv.org/abs/2509.21950">PDF</a>)</span></span>  
+D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou</strong>. "Customizing Visual Emotion Evaluation for MLLMs: An Open-vocabulary, Multifaceted, and Scalable Approach." <strong>ICLR</strong>, 2026. (<strong>THU-A</strong>, <a href="https://arxiv.org/abs/2509.21950" target="_blank" _href="https://arxiv.org/abs/2509.21950">PDF</a>)</span></span>  
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
