@@ -57,6 +57,7 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
+    <em><strong>26年01月31日</strong>，实验室2026“见贤思齐”交流活动顺利开展！毕业生曾港艳、乔峙、罗德昭、舒言与部分高年级同学分享科研、工作、生活经验，实验室研究生及本科生线下线上近30人参加活动。</em><br>
     <em><strong>26年01月26日</strong>，祝贺吴岱卿多模态视觉情感分析评估、音频理解2项工作被<strong>ICLR 2026</strong>接收！</em><br>
     <em><strong>25年12月15日</strong>，祝贺<strong>叶启朗</strong>入选2025年中国科协青年科技人才培育工程博士生专项计划！</em><br>
     <em><strong>25年11月11日</strong>，祝贺<strong>张宜飞、李未</strong>顺利通过博士学位论文答辩！</em><br>
