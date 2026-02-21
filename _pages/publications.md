@@ -25,7 +25,23 @@ author_profile: true
 				<strong><span style="font-size:15px">2026</span></strong>
 			</span>
 		</p>
-		<ol style="text-wrap: wrap;">
+		<ol style="text-wrap: wrap;">		
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">G Li, P Lyu, C Zhang, H Shen, L Wu, X Wan, G Zeng, H Hu, C Ma, <strong>Y Zhou</strong>. "Towards Real-World Document Parsing via Realistic Scene Synthesis and Document-Aware Training." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">G Li, C Zhang, Y Liang, H Shen, Y Zhang, P Lyu, W Wang, X Wan, G Zeng, H Hu, C Ma, <strong>Y Zhou*</strong>. "MMTIT-Bench: A Multilingual and Multi-Scenario Benchmark with Cognition–Perception–Reasoning Guided Text-Image Machine Translation." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+			</li>			
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">Y Liu, H Shen, Y Liu, S Liu, Z Chen, <strong>Y Zhou*</strong>. "DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+			</li>			
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">Z Chen, F Zhao, Y Shu, Y Liu, Y Liu, <strong>Y Zhou*</strong>. "StyleTextGen: Style-Conditioned Multilingual Scene Text Generation." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+			</li>			
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 180);font-size:15px">
+Y Zeng, H Wang, M Liu, <strong>Y Zhou*</strong>, C Gao, K Chen, G Huang. "Semantic Audio-Visual Navigation in Continuous Environments." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
+			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
 D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou</strong>. "Customizing Visual Emotion Evaluation for MLLMs: An Open-vocabulary, Multifaceted, and Scalable Approach." <strong>ICLR</strong>, 2026. (<strong>THU-A</strong>, <a href="https://arxiv.org/abs/2509.21950" target="_blank" _href="https://arxiv.org/abs/2509.21950">PDF</a>)</span></span>  
