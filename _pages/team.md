@@ -88,7 +88,7 @@ author_profile: true
      <strong>谢恩泽</strong>，2022级硕士生，一作<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>，入职快手
     </li>
     <li>
-     <strong><em>李庚洛</em></strong>，2023级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，HunyuanOCR核心贡献者之一，ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，2025年度腾讯犀牛鸟精英人才计划，在读
+     <strong><em>李庚洛</em></strong>，2023级直博生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *2、ICML *1</span>，HunyuanOCR核心贡献者之一，ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，2025年度腾讯犀牛鸟精英人才计划，在读
     </li>
     <li>
      <strong><em>曹天骄</em></strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，在读
@@ -98,13 +98,22 @@ author_profile: true
     </li>    
     <li>
      <strong><em>张德民</em></strong>，2023级本科生，一作CCF-C *1，在读
+    </li>    
+    <li>
+     <strong><em>曾翊晨</em></strong>，2024级博士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1</span>，在读
     </li>
     <li>
      <strong><em>何<span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span>莲</em></strong>，2024级博士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，在读
     </li>
     <li>
      <strong><em>叶启朗</em></strong>，2025级博士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>，入选2025年中国科协青年科技人才培育工程博士生专项计划（一作发表顶会顶刊论文4篇，含硕士阶段2篇），在读
+    </li>    
+    <li>
+     <strong><em>刘亿超</em></strong>，2025级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1</span>，在读
     </li>
+    <li>
+     <strong><em>陈泽宇</em></strong>，2025级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1</span>，在读
+    </li>    
    </ol>
  </div>
 </div>
