@@ -57,6 +57,7 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
+    <em><strong>26年02月21日</strong>，祝贺李庚洛文档解析&端到端翻译、曾翊晨音视频导航、刘亿超GUI定位、陈泽宇多语言场景文本生成共5项工作被<strong>CVPR 2026</strong>接收！</em><br>
     <em><strong>26年01月31日</strong>，实验室2026“见贤思齐”交流活动顺利开展！毕业生曾港艳、乔峙、罗德昭、舒言与部分高年级同学分享科研、工作、生活经验。</em><br>
     <em><strong>26年01月26日</strong>，祝贺吴岱卿多模态视觉情感分析评估、音频理解2项工作被<strong>ICLR 2026</strong>接收！</em><br>
     <em><strong>25年12月15日</strong>，祝贺<strong>叶启朗</strong>入选2025年中国科协青年科技人才培育工程博士生专项计划！</em><br>
