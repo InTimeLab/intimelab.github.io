@@ -40,7 +40,7 @@ author_profile: true
 			</li>			
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 180);font-size:15px">
-Y Zeng, H Wang, M Liu, <strong>Y Zhou*</strong>, C Gao, K Chen, G Huang. "Semantic Audio-Visual Navigation in Continuous Environments." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
+Y Zeng, H Wang, M Liu, <strong>Y Zhou</strong>, C Gao, K Chen, G Huang. "Semantic Audio-Visual Navigation in Continuous Environments." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
