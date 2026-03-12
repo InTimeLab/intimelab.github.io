@@ -67,6 +67,10 @@ L He, M Liu, Q Ye, <strong>Y Zhou</strong>, X Deng, G Ding. "Task-Aware 3D Affor
 			</li>			
 			<li>
 				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">D Wu, D Yang, H Shen, C Ma, <b>Y Zhou*</b>. "Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition." <strong>PR</strong>, 2026. (<strong>中科院SCI一区, CCF-B</strong>, <a href="https://arxiv.org/abs/2407.07026" target="_blank" title="" _href="https://arxiv.org/abs/2407.07026">PDF</a>)</span>			
+			</li>			
+   			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+J Lyu, P Fu, Z Li, W Zeng, S Zhan, J Yang, C Ma, <strong>Y Zhou*</strong>, Z Luo, J Luan. "IMTBench: A Multi-Scenario Cross-Modal Collaborative Evaluation Benchmark for In-Image Machine Translation." arXiv, 2026. (<a href="https://arxiv.org/abs/2603.10495" target="_blank" _href="https://arxiv.org/abs/2603.10495">PDF</a>)</span></span>  
 			</li>
 
 		</ol>
