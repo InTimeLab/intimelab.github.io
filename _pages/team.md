@@ -98,7 +98,10 @@ author_profile: true
     </li>    
     <li>
      <strong><em>张德民</em></strong>，2023级本科生，一作CCF-C *1，在读
-    </li>    
+    </li>
+    <li>
+     <strong><em>陈卓浩</em></strong>，2023级本科生，一作CVPR Findings *1，在读
+    </li>
     <li>
      <strong><em>曾翊晨</em></strong>，2024级博士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1</span>，在读
     </li>
