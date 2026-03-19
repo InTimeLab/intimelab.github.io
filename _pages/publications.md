@@ -25,7 +25,11 @@ author_profile: true
 				<strong><span style="font-size:15px">2026</span></strong>
 			</span>
 		</p>
-		<ol style="text-wrap: wrap;">		
+		<ol style="text-wrap: wrap;">			
+			<li>
+				<span style="background-color: rgb(198, 217, 240);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">舒言, 赵方敏, 陈泽宇, 赵天齐, 王逸竹, 李焜炽, <strong>周宇*</strong>, 王大寒, 彭良瑞, 高良才, 殷绪成. "可视文本生成技术综述."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">中国图象图形学报</strong><span style="font-family: arial, helvetica, sans-serif;">, 2026. (</span><span style="font-family:arial, helvetica, sans-serif"><a href="http://www.cjig.cn/zh/article/doi/10.11834/jig.260047" target="_blank" _href="http://www.cjig.cn/zh/article/doi/10.11834/jig.260047/">PDF</a></span><span style="font-family: arial, helvetica, sans-serif;">)</span>
+				</span>
+			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">G Li, P Lyu, C Zhang, H Shen, L Wu, X Wan, G Zeng, H Hu, C Ma, <strong>Y Zhou*</strong>. "Towards Real-World Document Parsing via Realistic Scene Synthesis and Document-Aware Training." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
 			</li>
