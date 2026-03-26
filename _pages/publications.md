@@ -31,10 +31,10 @@ author_profile: true
 				</span>
 			</li>
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">G Li, P Lyu, C Zhang, H Shen, L Wu, X Wan, G Zeng, H Hu, C Ma, <strong>Y Zhou*</strong>. "Towards Real-World Document Parsing via Realistic Scene Synthesis and Document-Aware Training." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">G Li, P Lyu, C Zhang, H Shen, L Wu, X Wan, G Zeng, H Hu, C Ma, <strong>Y Zhou*</strong>. "Towards Real-World Document Parsing via Realistic Scene Synthesis and Document-Aware Training." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2603.23885" target="_blank" _href="https://arxiv.org/abs/2603.23885">PDF</a>)</span></span>  			
 			</li>
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">G Li, C Zhang, Y Liang, H Shen, Y Zhang, P Lyu, W Wang, X Wan, G Zeng, H Hu, C Ma, <strong>Y Zhou*</strong>. "MMTIT-Bench: A Multilingual and Multi-Scenario Benchmark with Cognition–Perception–Reasoning Guided Text-Image Machine Translation." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">G Li, C Zhang, Y Liang, H Shen, Y Zhang, P Lyu, W Wang, X Wan, G Zeng, H Hu, C Ma, <strong>Y Zhou*</strong>. "MMTIT-Bench: A Multilingual and Multi-Scenario Benchmark with Cognition–Perception–Reasoning Guided Text-Image Machine Translation." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2603.23896" target="_blank" _href="https://arxiv.org/abs/2603.23896">PDF</a>)</span></span>  			
 			</li>			
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">Y Liu, H Shen, Y Liu, S Liu, Z Chen, <strong>Y Zhou*</strong>. "DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
