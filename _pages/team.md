@@ -27,7 +27,7 @@ author_profile: true
      <strong>李鸿宇</strong>，2018级博士生，一作CCF-C *2，入职中关村科学城创新发展有限公司
     </li>
     <li>
-     <strong style="background-color: rgb(255, 255, 255);">乔</strong><span style="background-color: rgb(255, 255, 255);color:#ffffff">一</span><strong style="background-color: rgb(255, 255, 255);">峙</strong><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">CCF-A Best Paper Candidate</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(198, 217, 240);">CCF-A *1</span><span style="background-color: rgb(255, 255, 255);">、CCF-C *1</span></span><span style="background-color: rgb(255, 255, 255);">，院长奖提名、国奖、优秀毕业生，入职好未来（SSP Offer）</span>
+     <strong style="background-color: rgb(255, 255, 255);">乔</strong><span style="background-color: rgb(255, 255, 255);color:#ffffff">一</span><strong style="background-color: rgb(255, 255, 255);">峙</strong><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">CCF-A Best Paper Candidate</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(198, 217, 240);">CVPR *1</span><span style="background-color: rgb(255, 255, 255);">、CCF-C *1</span></span><span style="background-color: rgb(255, 255, 255);">，院长奖提名、国奖、优秀毕业生，入职好未来（SSP Offer）</span>
     </li>
     <li>
      <a href="https://luodezhao.github.io/" target="_blank" style="background-color: rgb(255, 255, 255);" _href="https://luodezhao.github.io/"><strong>罗德昭</strong></a><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(235, 241, 221);">JCR SCI一区 *1</span><span style="background-color: rgb(255, 255, 255);"></span></span><span style="background-color: rgb(255, 255, 255);">，国奖、所长特别奖、优秀毕业生，英国QMUL龚少刚教授博士生</span>
@@ -49,7 +49,7 @@ author_profile: true
     <li><strong style="">王</strong><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span><strong style="">威</strong>，2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，CSIG 2022票据识别与分析挑战赛冠军，国奖，第二届中国图象图形学报研究生学术论坛优秀报告，入职上海人工智能实验室
     </li>
     <li>
-     <strong style="">方</strong><span style="white-space: normal;"><span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></span><strong style="">波</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>、国奖，香港城市大学陈万师教授博士生</span></li>
+     <strong style="">方</strong><span style="white-space: normal;"><span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></span><strong style="">波</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ICCV *1、ACM MM *1</span>、国奖，香港城市大学陈万师教授博士生</span></li>
     <li><span style="white-space: normal;"><strong style="">魏</strong><span style="white-space: normal;"><span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></span><strong style="">谨</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>，入职联想研究院</span></span>
     </li>
     <li>
@@ -58,7 +58,7 @@ author_profile: true
     <li>
      <span style="white-space: normal;"><span style="white-space: normal;"><strong style="">李<span style="white-space: normal;"><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span></span></strong><strong style="">强</strong>，2020级硕士生，一作CCF-C *1，入职重庆赛力斯技术有限公司</span></span></li>
     <li>
-     <strong>张宜飞</strong>，2021级博士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、<span style="background-color: rgb(235, 241, 221);">中科院SCI一区 *1</span><span style="background-color: rgb(255, 255, 255);"></span>、CCF-C *1，入职腾讯（青云计划）
+     <strong>张宜飞</strong>，2021级博士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1</span>、<span style="background-color: rgb(235, 241, 221);">TMM *1</span><span style="background-color: rgb(255, 255, 255);"></span>、CCF-C *1，入职腾讯（青云计划）
     </li>
     <li>
      <strong style=""><em>申化文</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>，<span style="white-space: normal;">CSIG 2022票据识别与分析挑战赛冠军、ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，在读</span>
@@ -73,7 +73,7 @@ author_profile: true
      <span style="white-space: normal;"><strong>舒<span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span>言</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span>、<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>，意大利Trento大学Nicu Sebe教授博士生</span>
     </li> 
     <li>
-     <strong>杨晓萌</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Journal *1</span>、<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>、CCF-C *1，美国东北大学王言治教授博士生
+     <strong>杨晓萌</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IJCV *1</span>、<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>、CCF-C *1，美国东北大学王言治教授博士生
     </li>
     <li>
      <strong><em>吕嘉昊</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、<span style="background-color: rgb(235, 241, 221);">JCR SCI一区 *1</span>，在读
@@ -82,7 +82,7 @@ author_profile: true
      <span style="white-space: normal;"><strong><em>张</em><span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span><em>言</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>、CCF-C *1，在读</span>
     </li>
     <li>
-     <strong>曾维超</strong>，2022级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Spotlight *1</span>，国奖、优秀毕业生，日本东京大学郑银强教授博士生
+     <strong>曾维超</strong>，2022级硕士生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS Spotlight *1</span>，国奖、优秀毕业生，日本东京大学郑银强教授博士生
     </li>
     <li>
      <strong>谢恩泽</strong>，2022级硕士生，一作<span style="background-color: rgb(242, 220, 219);">CCF-B *1</span>，入职快手
