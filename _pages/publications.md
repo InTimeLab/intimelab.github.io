@@ -27,7 +27,7 @@ author_profile: true
 		</p>
 		<ol style="text-wrap: wrap;">			
 			<li>
-				<span style="background-color: rgb(198, 217, 240);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">舒言, 赵方敏, 陈泽宇, 赵天齐, 王逸竹, 李焜炽, <strong>周宇*</strong>, 王大寒, 彭良瑞, 高良才, 殷绪成*. "可视文本生成技术综述."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">中国图象图形学报</strong><span style="font-family: arial, helvetica, sans-serif;">, 2026. (</span><span style="font-family:arial, helvetica, sans-serif"><a href="http://www.cjig.cn/zh/article/doi/10.11834/jig.260047" target="_blank" _href="http://www.cjig.cn/zh/article/doi/10.11834/jig.260047/">PDF</a></span><span style="font-family: arial, helvetica, sans-serif;">)</span>
+				<span style="background-color: rgb(198, 217, 240);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">舒言, 赵方敏, 陈泽宇, 赵天齐, 王逸竹, 李焜炽, <strong>周宇</strong>, 王大寒, 彭良瑞, 高良才, 殷绪成*. "可视文本生成技术综述."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">中国图象图形学报</strong><span style="font-family: arial, helvetica, sans-serif;">, 2026. (</span><span style="font-family:arial, helvetica, sans-serif"><a href="http://www.cjig.cn/zh/article/doi/10.11834/jig.260047" target="_blank" _href="http://www.cjig.cn/zh/article/doi/10.11834/jig.260047/">PDF</a></span><span style="font-family: arial, helvetica, sans-serif;">)</span>
 				</span>
 			</li>
 			<li>
