@@ -79,6 +79,10 @@ L He, M Liu, Q Ye, <strong>Y Zhou</strong>, X Deng, G Ding. "Task-Aware 3D Affor
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 J Lyu, P Fu, Z Li, W Zeng, S Zhan, J Yang, C Ma, <strong>Y Zhou*</strong>, Z Luo, J Luan. "IMTBench: A Multi-Scenario Cross-Modal Collaborative Evaluation Benchmark for In-Image Machine Translation." arXiv, 2026. (<a href="https://arxiv.org/abs/2603.10495" target="_blank" _href="https://arxiv.org/abs/2603.10495">PDF</a>)</span></span>  
 			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
+Y Zhang, P Fu, D Wu, H Shen, R Zhang, S Zhang, J Yang, X Xi, C Ma, <strong>Y Zhou*</strong>, Z Luo, J Luan. "All in One: Unified Pretraining of GUI Agents via Masked Trajectory Prediction." 2026. (<a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
+			</li>
 
 		</ol>
     	<p style="text-wrap: wrap;">
