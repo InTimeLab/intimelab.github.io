@@ -58,22 +58,22 @@ D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou</strong>. "Customizing Visual Emotion
 D Wu, X Zhang, D Yang, J Yao, L Chen, Q Liu, S Zhao, C Ma, Y Kang, <strong>Y Zhou*</strong>. "Echo: Towards Advanced Audio Comprehension via Audio-Interleaved Reasoning." <strong>ICLR</strong>, 2026. (<strong>THU-A</strong>, <a href="https://arxiv.org/abs/2602.11909" target="_blank" _href="https://arxiv.org/abs/2602.11909">PDF</a>)</span></span>  
 			</li>
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">J Wei, Y Wu, J Yan, Z Li, Z Zu, <strong>Y Zhou</strong>, L Zhang, QY Wang. "ST-SAM: Multimodal Scene Text Segmentation with Dense Visual and Sparse Textual Prompts via SAM." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">J Wei, Y Wu, J Yan, Z Li, Z Zu, <strong>Y Zhou</strong>, L Zhang, QY Wang. "ST-SAM: Multimodal Scene Text Segmentation with Dense Visual and Sparse Textual Prompts via SAM." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38025" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/38025">PDF</a>)</span></span>  			
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
-Q Ye, W Zeng, M Liu, J Zhang, Y Hu, Z Yu, <strong>Y Zhou</strong>. "When Eyes and Ears Disagree: Can MLLMs Discern Audio-Visual Confusion?" <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2511.10059" target="_blank" _href="https://arxiv.org/abs/2511.10059">PDF</a>)</span></span>  
+Q Ye, W Zeng, M Liu, J Zhang, Y Hu, Z Yu, <strong>Y Zhou</strong>. "When Eyes and Ears Disagree: Can MLLMs Discern Audio-Visual Confusion?" <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38183" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/38183">PDF</a>)</span></span>  
 			</li>			
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
-Q Ye, <strong>Y Zhou*</strong>, L He, J Zhang, X Guo, J Zhang, M Tan, W Xie, Y Sun, T Tan, X Yuan, G Khoriba, Z Yu. "SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition." <strong>AAAI</strong>, 2026. (<strong>CCF-A, Oral Presentation</strong>, <a href="https://arxiv.org/abs/2511.10091" target="_blank" _href="https://arxiv.org/abs/2511.10091">PDF</a>)</span></span>  
+Q Ye, <strong>Y Zhou*</strong>, L He, J Zhang, X Guo, J Zhang, M Tan, W Xie, Y Sun, T Tan, X Yuan, G Khoriba, Z Yu. "SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition." <strong>AAAI</strong>, 2026. (<strong>CCF-A, Oral Presentation</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38852" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/38852">PDF</a>)</span></span>  
 			</li>			
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 180);font-size:15px">
-L He, M Liu, Q Ye, <strong>Y Zhou</strong>, X Deng, G Ding. "Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2511.11702" target="_blank" _href="https://arxiv.org/abs/2511.11702">PDF</a>)</span></span>  
+L He, M Liu, Q Ye, <strong>Y Zhou</strong>, X Deng, G Ding. "Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/42466" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/42466">PDF</a>)</span></span>  
 			</li>			
 			<li>
-				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">D Wu, D Yang, H Shen, C Ma, <b>Y Zhou*</b>. "Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition." <strong>PR</strong>, 2026. (<strong>中科院SCI一区, CCF-B</strong>, <a href="https://arxiv.org/abs/2407.07026" target="_blank" title="" _href="https://arxiv.org/abs/2407.07026">PDF</a>)</span>			
+				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">D Wu, D Yang, H Shen, C Ma, <b>Y Zhou*</b>. "Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition." <strong>PR</strong>, 2026. (<strong>中科院SCI一区, CCF-B</strong>, <a href="https://doi.org/10.1016/j.patcog.2025.112719" target="_blank" title="" _href="https://doi.org/10.1016/j.patcog.2025.112719">PDF</a>)</span>			
 			</li>			
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
@@ -97,15 +97,15 @@ X Yang, Z Qiao, <strong>Y Zhou*</strong>. "IPAD: Iterative, Parallel, and Diffus
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-Y Zhang, C Liu, J Wei, X Yang, <strong>Y Zhou*</strong>, C Ma, X Ji. "Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition." <strong>CVPR</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2503.18746" target="_blank" _href="https://arxiv.org/abs/2412.14596">PDF</a>)</span></span>  
+Y Zhang, C Liu, J Wei, X Yang, <strong>Y Zhou*</strong>, C Ma, X Ji. "Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition." <strong>CVPR</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://ieeexplore.ieee.org/abstract/document/11093072/" target="_blank" _href="https://ieeexplore.ieee.org/abstract/document/11093072/">PDF</a>)</span></span>  
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-G Li, H Shen, <strong>Y Zhou*</strong>. "Beyond Cropped Regions: New Benchmark and Corresponding Baseline for Chinese Scene Text Retrieval in Diverse Layouts." <strong>ICML</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2506.04999" target="_blank" _href="https://arxiv.org/abs/2506.04999">PDF</a>)</span></span>   
+G Li, H Shen, <strong>Y Zhou*</strong>. "Beyond Cropped Regions: New Benchmark and Corresponding Baseline for Chinese Scene Text Retrieval in Diverse Layouts." <strong>ICML</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://proceedings.mlr.press/v267/li25bz.html" target="_blank" _href="https://proceedings.mlr.press/v267/li25bz.html">PDF</a>)</span></span>   
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
-D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou*</strong>. "An Empirical Study on Configuring In-Context Learning Demonstrations for Unleashing MLLMs' Sentimental Perception Capability." <strong>ICML</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2505.16193" target="_blank" _href="https://arxiv.org/abs/2505.16193">PDF</a>)</span></span>  
+D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou*</strong>. "An Empirical Study on Configuring In-Context Learning Demonstrations for Unleashing MLLMs' Sentimental Perception Capability." <strong>ICML</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://proceedings.mlr.press/v267/wu25ao.html" target="_blank" _href="https://proceedings.mlr.press/v267/wu25ao.html">PDF</a>)</span></span>  
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
@@ -117,36 +117,36 @@ T Cao, J Lyu, W Zeng, W Mu, <strong>Y Zhou*</strong>. "The Devil is in Fine-tuni
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
-W Li, D Luo, D Yang, Z Li, W Wang, <strong>Y Zhou*</strong>. "The Role of Video Generation in Enhancing Data-Limited Action Understanding." <strong>IJCAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2505.19495" target="_blank" _href="https://arxiv.org/abs/2505.19495">PDF</a>)</span></span> 
+W Li, D Luo, D Yang, Z Li, W Wang, <strong>Y Zhou*</strong>. "The Role of Video Generation in Enhancing Data-Limited Action Understanding." <strong>IJCAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://www.ijcai.org/proceedings/2025/0160.pdf" target="_blank" _href="https://www.ijcai.org/proceedings/2025/0160.pdf">PDF</a>)</span></span> 
 			</li>
       			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-J Lyu, W Wang, D Yang, J Zhong, <strong>Y Zhou*</strong>. "Arbitrary Reading Order Scene Text Spotter with Local Semantics Guidance." <strong>AAAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2412.10159" target="_blank" _href="https://arxiv.org/abs/2412.10159">PDF</a>)</span></span>  
+J Lyu, W Wang, D Yang, J Zhong, <strong>Y Zhou*</strong>. "Arbitrary Reading Order Scene Text Spotter with Local Semantics Guidance." <strong>AAAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32632" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/32632">PDF</a>)</span></span>  
 			</li> 
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-H Shen, G Li, J Zhong, <strong>Y Zhou*</strong>. "LDP: Generalizing to Multilingual Visual Information Extraction by Language Decoupled Pretraining." <strong>AAAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2412.14596" target="_blank" _href="https://arxiv.org/abs/2412.14596">PDF</a>)</span></span>
+H Shen, G Li, J Zhong, <strong>Y Zhou*</strong>. "LDP: Generalizing to Multilingual Visual Information Extraction by Language Decoupled Pretraining." <strong>AAAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32730" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/32730">PDF</a>)</span></span>
 			</li>
       			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-Y Zhang, G Zeng, H Shen, D Wu, <strong>Y Zhou*</strong>, C Ma. "Track the Answer: Extending TextVQA from Image to Video with Spatio-Temporal Clues." <strong>AAAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2412.12502" target="_blank" _href="https://arxiv.org/abs/2412.12502">PDF</a>)</span></span> 
+Y Zhang, G Zeng, H Shen, D Wu, <strong>Y Zhou*</strong>, C Ma. "Track the Answer: Extending TextVQA from Image to Video with Spatio-Temporal Clues." <strong>AAAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33115" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/33115">PDF</a>)</span></span> 
 			</li>
    			<li>
-				<span style="background-color: rgb(242, 220, 219);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, M Shang, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">DCA: Dividing and Conquering Amnesia in Incremental Object Detection."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>, <a href="https://arxiv.org/abs/2503.15295" target="_blank" _href="https://arxiv.org/abs/2503.15295">PDF</a>)</span>
+				<span style="background-color: rgb(242, 220, 219);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, M Shang, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">DCA: Dividing and Conquering Amnesia in Incremental Object Detection."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33068" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/33068">PDF</a>)</span>
 			</li>   
    			<li>
-				<span style="background-color: rgb(242, 220, 219);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">Specifying What You Know or Not for Multi-label Class-incremental Learning."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>, <a href="https://arxiv.org/abs/2503.17017" target="_blank" _href="https://arxiv.org/abs/2503.17017">PDF</a>)</span>
+				<span style="background-color: rgb(242, 220, 219);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">Specifying What You Know or Not for Multi-label Class-incremental Learning."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34390" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/34390">PDF</a>)</span>
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-F Zhao, W Zeng, Z Li, D Yang, B Li, X Bi, <strong>Y Zhou*</strong>. "Uni-DocDiff: A Unified Document Restoration Model Based on Diffusion." <strong>ACM MM</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2508.04055" target="_blank" title="" _href="https://arxiv.org/abs/2508.04055">PDF</a>)</span></span> 
+F Zhao, W Zeng, Z Li, D Yang, B Li, X Bi, <strong>Y Zhou*</strong>. "Uni-DocDiff: A Unified Document Restoration Model Based on Diffusion." <strong>ACM MM</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3755362" target="_blank" title="" _href="https://dl.acm.org/doi/abs/10.1145/3746027.3755362">PDF</a>)</span></span> 
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-Y Zhang, G Zeng, D Wu, H Shen, B Li, <strong>Y Zhou</strong>, C Ma, X Bi. "Gather and Trace: Rethinking Video TextVQA from an Instance-oriented Perspective." <strong>ACM MM</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2508.04197" target="_blank" title="" _href="https://arxiv.org/abs/2508.04197">PDF</a>)</span></span> 
+Y Zhang, G Zeng, D Wu, H Shen, B Li, <strong>Y Zhou</strong>, C Ma, X Bi. "Gather and Trace: Rethinking Video TextVQA from an Instance-oriented Perspective." <strong>ACM MM</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754718" target="_blank" title="" _href="https://dl.acm.org/doi/abs/10.1145/3746027.3754718">PDF</a>)</span></span> 
 			</li>
 			<li>
-				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">J Lyu, J Wei, G Zeng, Z Li, E Xie, W Wang, C Ma, <b>Y Zhou*</b>. "TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model." <strong>TOMM</strong>, 2025. (<strong>SCI一区, CCF-B</strong>, <a href="https://arxiv.org/abs/2403.10047" target="_blank" title="" _href="https://arxiv.org/abs/2403.10047">PDF</a>)</span>			
+				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">J Lyu, J Wei, G Zeng, Z Li, E Xie, W Wang, C Ma, <b>Y Zhou*</b>. "TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model." <strong>TOMM</strong>, 2025. (<strong>SCI一区, CCF-B</strong>, <a href="https://dl.acm.org/doi/abs/10.1145/3734872" target="_blank" title="" _href="https://dl.acm.org/doi/abs/10.1145/3734872">PDF</a>)</span>			
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
@@ -166,11 +166,11 @@ Z Li, J Wei, Z Shen, Y Wu, G Zeng, D Yang, Z Qiao,  <strong>Y Zhou*</strong>. "P
 			</li>
       			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-E Xie, J Lyu, D Wu, H Shen, <strong>Y Zhou*</strong>. "Char-SAM: Turning Segment Anything Model into Scene Text Segmentation Annotator with Character-level Visual Prompts." <strong>ICASSP</strong>, 2025. (<strong>CCF-B</strong>, <a href="https://arxiv.org/abs/2412.19917" target="_blank" _href="https://arxiv.org/abs/2412.19917">PDF</a>)</span></span>  
+E Xie, J Lyu, D Wu, H Shen, <strong>Y Zhou*</strong>. "Char-SAM: Turning Segment Anything Model into Scene Text Segmentation Annotator with Character-level Visual Prompts." <strong>ICASSP</strong>, 2025. (<strong>CCF-B</strong>, <a href="https://ieeexplore.ieee.org/abstract/document/10888943/" target="_blank" _href="https://ieeexplore.ieee.org/abstract/document/10888943/">PDF</a>)</span></span>  
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
-M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</strong>, J Yang. "Beyond Flat Text: Dual Self-inherited Guidance for Visual Text Generation." <strong>ICCVW</strong>, 2025. (<a href="https://arxiv.org/abs/2501.05892" target="_blank" _href="https://arxiv.org/abs/2501.05892">PDF</a>)</span></span>  
+M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</strong>, J Yang. "Beyond Flat Text: Dual Self-inherited Guidance for Visual Text Generation." <strong>ICCVW</strong>, 2025. (<a href="https://openaccess.thecvf.com/content/ICCV2025W/HiGen/html/Luo_Beyond_Flat_Text_Dual_Self-inherited_Guidance_for_Visual_Text_Generation_ICCVW_2025_paper.html" target="_blank" _href="https://openaccess.thecvf.com/content/ICCV2025W/HiGen/html/Luo_Beyond_Flat_Text_Dual_Self-inherited_Guidance_for_Visual_Text_Generation_ICCVW_2025_paper.html">PDF</a>)</span></span>  
 			</li>
 			<li>
 				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">Y Shu, W Zeng, F Zhao, Z Chen, Z Li, X Yang,  <b>Y Zhou*</b>, P Rota, X Bai, L Jin, X-C Yin, N Sebe. "Visual Text Processing: A Comprehensive Review and Unified Evaluation." arXiv, 2025. (<a href="https://arxiv.org/abs/2504.21682" target="_blank" _href="https://arxiv.org/abs/2504.21682">PDF</a>)</span>		
@@ -201,14 +201,14 @@ Y Yang, X Chen, Z Zhao, <strong>Y Zhou</strong>, X Gu, J Cao. "ComMark: Covert a
 		<ol style="text-wrap: wrap;">
 
    			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">W Zeng, Y Shu, Z Li, D Yang, <strong>Y Zhou*</strong>. "TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control." <strong>NeurIPS</strong>, 2024. (<strong>CCF-A, Spotlight</strong>, <a href="https://arxiv.org/abs/2410.10133" target="_blank" _href="https://arxiv.org/abs/2410.10133">PDF</a>)</span></span>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">W Zeng, Y Shu, Z Li, D Yang, <strong>Y Zhou*</strong>. "TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control." <strong>NeurIPS</strong>, 2024. (<strong>CCF-A, Spotlight</strong>, <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/fa31574791443e8e7f38045b98584aa9-Abstract-Conference.html" target="_blank" _href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/fa31574791443e8e7f38045b98584aa9-Abstract-Conference.html">PDF</a>)</span></span>
 			</li>			
 			<li>
 				<span style="background-color: rgb(235, 241, 221);"><span style="font-family: arial, helvetica, sans-serif; font-size: 15px;">​​Y Zhang, C Liu,&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif; font-size: 15px;">Y Zhou*</strong><span style="font-family: arial, helvetica, sans-serif; font-size: 15px;">, W Wang, Q Ye, X Ji. "Beyond Instance Discrimination: Relation-aware Contrastive Self-supervised Learning."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif; font-size: 15px;">TMM</strong><span style="font-family: arial, helvetica, sans-serif; font-size: 15px;">, 2024. (</span><strong style="font-family: arial, helvetica, sans-serif; font-size: 15px;">SCI一区</strong><span style="font-family: arial, helvetica, sans-serif; font-size: 15px;">,&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif; font-size: 15px;">CCF-B</strong><span style="font-family: arial, helvetica, sans-serif; font-size: 15px;">,&nbsp;</span><a href="https://ieeexplore.ieee.org/document/10285026" target="_blank" _href="https://ieeexplore.ieee.org/document/10285026" style="font-family: arial, helvetica, sans-serif; font-size: 15px;">PDF</a><span style="font-family: arial, helvetica, sans-serif; font-size: 15px;">)</span>
 				</span>
 			</li>
    			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">G Zeng, Y Zhang, J Wei, D Yang, P Zhang, Y Gao, X Qin, <strong>Y Zhou</strong>. "Focus, Distinguish, and Prompt: Unleashing CLIP for Efficient and Flexible Scene Text Retrieval." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2408.00441" target="_blank" _href="https://arxiv.org/abs/2408.00441">PDF</a>)</span></span>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">G Zeng, Y Zhang, J Wei, D Yang, P Zhang, Y Gao, X Qin, <strong>Y Zhou</strong>. "Focus, Distinguish, and Prompt: Unleashing CLIP for Efficient and Flexible Scene Text Retrieval." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>, <a href="https://dl.acm.org/doi/abs/10.1145/3664647.3680877" target="_blank" _href="https://dl.acm.org/doi/abs/10.1145/3664647.3680877">PDF</a>)</span></span>
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">D Wu, D Yang, <strong>Y Zhou</strong>, C Ma. "Bridging Visual Affective Gap: Borrowing Textual Knowledge by Learning from Noisy Image-Text Pairs." <strong>ACM MM</strong>, 2024. (<strong>CCF-A</strong>, <a href="https://dl.acm.org/doi/10.1145/3664647.3680875" target="_blank" _href="https://dl.acm.org/doi/10.1145/3664647.3680875">PDF</a>)</span></span> 
