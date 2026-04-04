@@ -189,7 +189,7 @@ D Wu, D Yang, C Ma, <strong>Y Zhou*</strong>. "EmoCaliber: Advancing Reliable Vi
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
-Y Yang, X Chen, Z Zhao, <strong>Y Zhou</strong>, Xiaoyan Gu, Juan Cao. "ComMark: Covert and Robust Black-Box Model Watermarking with Compressed Samples." arXiv, 2025. (<a href="https://arxiv.org/abs/2512.15641" target="_blank" _href="https://arxiv.org/abs/2512.15641">PDF</a>)</span></span>  
+Y Yang, X Chen, Z Zhao, <strong>Y Zhou</strong>, X Gu, J Cao. "ComMark: Covert and Robust Black-Box Model Watermarking with Compressed Samples." arXiv, 2025. (<a href="https://arxiv.org/abs/2512.15641" target="_blank" _href="https://arxiv.org/abs/2512.15641">PDF</a>)</span></span>  
 			</li>
    
 		</ol>
