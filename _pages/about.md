@@ -57,6 +57,7 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
+    <em><strong>26年04月11日</strong>，祝贺吴岱卿可信视觉情感理解工作被<strong>PR</strong>接收！</em><br>
     <em><strong>26年03月27日</strong>，实验室"面向真机交互的GUI Agent环境搭建与模型优化"项目入选<strong>CAAI-腾讯犀牛鸟研究计划</strong>！</em><br>    
     <em><strong>26年03月24日</strong>，祝贺<strong>杨东宝</strong>老师获聘南开大学软件学院副教授！</em><br>    
     <em><strong>26年02月27日</strong>，周宇老师担任ACM MM 2026 <strong>Area Chair</strong>。</em><br>
