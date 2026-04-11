@@ -75,6 +75,10 @@ L He, M Liu, Q Ye, <strong>Y Zhou</strong>, X Deng, G Ding. "Task-Aware 3D Affor
 			<li>
 				<span style="font-size: 15px; background-color: rgb(198, 217, 240); font-family: arial, helvetica, sans-serif;">D Wu, D Yang, H Shen, C Ma, <b>Y Zhou*</b>. "Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition." <strong>PR</strong>, 2026. (<strong>中科院SCI一区, CCF-B</strong>, <a href="https://doi.org/10.1016/j.patcog.2025.112719" target="_blank" title="" _href="https://doi.org/10.1016/j.patcog.2025.112719">PDF</a>)</span>			
 			</li>			
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
+D Wu, D Yang, C Ma, <strong>Y Zhou*</strong>. "EmoCaliber: Advancing Reliable Visual Emotion Comprehension via Confidence Verbalization and Calibration." <strong>PR</strong>, 2026. (<strong>中科院SCI一区, CCF-B</strong>, <a href="https://arxiv.org/abs/2512.15528" target="_blank" _href="https://arxiv.org/abs/2512.15528">PDF</a>)</span></span>  
+			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 J Lyu, P Fu, Z Li, W Zeng, S Zhan, J Yang, C Ma, <strong>Y Zhou*</strong>, Z Luo, J Luan. "IMTBench: A Multi-Scenario Cross-Modal Collaborative Evaluation Benchmark for In-Image Machine Translation." arXiv, 2026. (<a href="https://arxiv.org/abs/2603.10495" target="_blank" _href="https://arxiv.org/abs/2603.10495">PDF</a>)</span></span>  
@@ -182,10 +186,6 @@ Z Yang, Y Shu, Z Yang, Y Zhang, Y Li, K Lu, G Zeng, S Liu, <strong>Y Zhou</stron
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(198, 217, 240);font-size:15px">
 ..., G li, ..., H Shen, ..., <strong>Y Zhou</strong>, .... "HunyuanOCR Technical Report." 2025. (<a href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf" target="_blank" _href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf">PDF</a>)</span></span>  
-			</li>
-			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(220, 180, 220);font-size:15px">
-D Wu, D Yang, C Ma, <strong>Y Zhou*</strong>. "EmoCaliber: Advancing Reliable Visual Emotion Comprehension via Confidence Verbalization and Calibration." arXiv, 2025. (<a href="https://arxiv.org/abs/2512.15528" target="_blank" _href="https://arxiv.org/abs/2512.15528">PDF</a>)</span></span>  
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 242);font-size:15px">
