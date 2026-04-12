@@ -72,7 +72,7 @@ author_profile: true
      <span style="white-space: normal;"><strong>舒<span style="color: rgb(255, 255, 255); text-wrap: wrap;">一</span>言</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span>、CCF-B *1，意大利Trento大学Nicu Sebe教授博士生</span>
     </li> 
     <li>
-     <strong>杨晓萌</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IJCV *1</span>、CCF-B *1、CCF-C *1，美国东北大学王言治教授博士生
+     <strong>杨晓萌</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IJCV *1</span>、IEEE SPL *1、ICASSP *1，美国东北大学王言治教授博士生
     </li>
     <li>
      <strong><em>吕嘉昊</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、<span style="background-color: rgb(235, 241, 221);">JCR SCI一区 *1</span>，在读
