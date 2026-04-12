@@ -69,7 +69,7 @@ author_profile: true
      <strong style=""><em>吴同学</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">ICML *1、ICLR *2、ACM MM *2</span>、<span style="background-color: rgb(235, 241, 221);">PR *2</span>，国奖、所长特别奖，在读
     </li>
     <li>
-     <span style="white-space: normal;"><strong>舒同学，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span>、CCF-B *1，意大利Trento大学Nicu Sebe教授博士生</span>
+     <span style="white-space: normal;"><strong>舒同学</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span>、CCF-B *1，意大利Trento大学Nicu Sebe教授博士生</span>
     </li> 
     <li>
      <strong>杨同学</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IJCV *1</span>、IEEE SPL *1、ICASSP *1，美国东北大学王言治教授博士生
