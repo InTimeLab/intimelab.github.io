@@ -16,6 +16,12 @@ author_profile: true
 					增量检测<span style="background-color: rgb(242, 220, 219);">&nbsp; &nbsp; &nbsp;</span>
 					自监督学习<span style="background-color: rgb(235, 241, 221);">&nbsp; &nbsp; &nbsp;</span>
 					其他工作<span style="background-color: rgb(242, 242, 242);">&nbsp; &nbsp; &nbsp;</span>
+					文档智能<span style="background-color: rgb(204, 224, 245);">&nbsp;&nbsp;&nbsp;</span>
+					具身智能<span style="background-color: rgb(245, 204, 204);">&nbsp;&nbsp;&nbsp;</span>
+					多模态智能<span style="background-color: rgb(232, 204, 242);">&nbsp;&nbsp;&nbsp;</span>
+					增量检测<span style="background-color: rgb(247, 224, 217);">&nbsp;&nbsp;&nbsp;</span>
+					自监督学习<span style="background-color: rgb(217, 240, 209);">&nbsp;&nbsp;&nbsp;</span>
+					其他工作<span style="background-color: rgb(242, 242, 245);">&nbsp;&nbsp;&nbsp;</span>
 				</span>
 			</strong>
 		</p> 
