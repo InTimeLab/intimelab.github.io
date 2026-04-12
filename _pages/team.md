@@ -111,5 +111,3 @@ author_profile: true
      <strong><em>陈泽宇</em></strong>，2025级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1</span>，在读
     </li>    
    </ol>
- </div>
-</div>
