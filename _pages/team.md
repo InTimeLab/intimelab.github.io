@@ -10,11 +10,7 @@ author_profile: true
   <p>* 含<strong>全部毕业生</strong>，含与中科院信工所王伟平&马灿<span style="white-space: normal;">研究员</span>、中国传媒大学张远教授、哈尔滨工业大学刘绍辉教授、北京中关村学院聂礼强&刘萌教授联合指导学生</p>
   <p>
    <span style="background-color: rgb(255, 255, 255);">*CCF-A&nbsp;</span><span style="background-color: rgb(198, 217, 240);">&nbsp; &nbsp;&nbsp;</span>
-   <span style="background-color: rgb(255, 255, 255);"><span style="text-wrap: wrap;">、SCI一区&nbsp;</span><span style="text-wrap: wrap; background-color: rgb(235, 241, 221);">&nbsp; &nbsp;&nbsp;</span></p><p>    
-   </p>
-
-、CCF-B&nbsp;</span><span style="background-color: rgb(242, 220, 219);">&nbsp; &nbsp;&nbsp;</span>
-    
+   <span style="background-color: rgb(255, 255, 255);"><span style="text-wrap: wrap;">、SCI一区&nbsp;</span><span style="text-wrap: wrap; background-color: rgb(235, 241, 221);">&nbsp; &nbsp;&nbsp;</span></p><p>        
   <p>
    <a href="https://shownx.github.io/" target="_blank" _href="https://shownx.github.io/"></a></p><ol><a href="https://shownx.github.io/" target="_blank" _href="https://shownx.github.io/"></a>
     <li>
