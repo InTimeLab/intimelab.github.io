@@ -17,7 +17,7 @@ author_profile: true
      <span style="background-color: rgb(255, 255, 255);"><strong style="">杨东宝</strong>，2020级博士生，一作/通作发表<span style="background-color: rgb(198, 217, 240);">CCF-A/SCI一区论文10余篇</span>（累计发表期刊会议论文30余篇），主持国家自然科学基金青年基金项目、国家重点研发计划子课题各一项，南开大学软件学院副教授</span>
     </li>
     <li>
-     <span style="background-color: rgb(255, 255, 255);"><strong>秦绪功</strong>，2017级博士生，一作</span><span style="background-color: rgb(198, 217, 240);">CCF-A *2</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(242, 220, 219);">CCF-B *1</span><span style="background-color: rgb(255, 255, 255);">、CCF-C *1，优秀毕业生，入职南理工（教职）</span>
+     <span style="background-color: rgb(255, 255, 255);"><strong>秦绪功</strong>，2017级博士生，一作</span><span style="background-color: rgb(198, 217, 240);">CCF-A *2</span><span style="background-color: rgb(255, 255, 255);">、</span>CCF-B *1、CCF-C *1，优秀毕业生，入职南理工（教职）
     </li>
     <li>
      <span style="background-color: rgb(255, 255, 255);"><strong>陈语地</strong>，2017级硕士生<span style="white-space: normal;">，一作CCF-C *2，3项国内外竞赛前三名</span>，入职字节跳动</span>
@@ -29,7 +29,7 @@ author_profile: true
      <strong style="background-color: rgb(255, 255, 255);">乔</strong><span style="background-color: rgb(255, 255, 255);color:#ffffff">一</span><strong style="background-color: rgb(255, 255, 255);">峙</strong><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">CCF-A Best Paper Candidate</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(198, 217, 240);">CVPR *1</span><span style="background-color: rgb(255, 255, 255);">、CCF-C *1</span></span><span style="background-color: rgb(255, 255, 255);">，院长奖提名、国奖、优秀毕业生，入职好未来（SSP Offer）</span>
     </li>
     <li>
-     <a href="https://luodezhao.github.io/" target="_blank" style="background-color: rgb(255, 255, 255);" _href="https://luodezhao.github.io/"><strong>罗德昭</strong></a><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(235, 241, 221);">JCR SCI一区 *1</span><span style="background-color: rgb(255, 255, 255);"></span></span><span style="background-color: rgb(255, 255, 255);">，国奖、所长特别奖、优秀毕业生，英国QMUL龚少刚教授博士生</span>
+    <strong>罗德昭</strong>，2018级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(235, 241, 221);">JCR SCI一区 *1</span><span style="background-color: rgb(255, 255, 255);"></span></span><span style="background-color: rgb(255, 255, 255);">，国奖、所长特别奖、优秀毕业生，英国QMUL龚少刚教授博士生</span>
     </li>
     <li>
      <strong>张宜飞</strong>，2018级硕士生，一作CCF-C *1，中科院信工所博士生
