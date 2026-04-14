@@ -11,9 +11,9 @@ author_profile: true
 			<strong style="font-family: arial, helvetica, sans-serif;">
 				<span style="font-size:16px">
 					文档智能<span style="background-color: rgb(204, 224, 245);">&nbsp;&nbsp;&nbsp;</span>
-					具身智能<span style="background-color: rgb(245, 204, 204);">&nbsp;&nbsp;&nbsp;</span>
+					具身智能<span style="background-color: rgb(238, 190, 190);">&nbsp;&nbsp;&nbsp;</span>
 					多模态智能<span style="background-color: rgb(232, 204, 242);">&nbsp;&nbsp;&nbsp;</span>
-					增量检测<span style="background-color: rgb(247, 224, 217);">&nbsp;&nbsp;&nbsp;</span>
+					增量检测<span style="background-color: rgb(250, 235, 200);">&nbsp;&nbsp;&nbsp;</span>
 					自监督学习<span style="background-color: rgb(217, 240, 209);">&nbsp;&nbsp;&nbsp;</span>
 					其他工作<span style="background-color: rgb(242, 242, 245);">&nbsp;&nbsp;&nbsp;</span>
 				</span>
@@ -43,7 +43,7 @@ author_profile: true
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">Z Chen, F Zhao, Y Shu, Y Liu, Y Liu, <strong>Y Zhou*</strong>. "StyleTextGen: Style-Conditioned Multilingual Scene Text Generation." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
 			</li>			
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(245, 204, 204);font-size:15px">
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(238, 190, 190);font-size:15px">
 Y Zeng, H Wang, M Liu, <strong>Y Zhou</strong>, C Gao, K Chen, G Huang. "Semantic Audio-Visual Navigation in Continuous Environments." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2603.19660" target="_blank" _href="https://arxiv.org/abs/2603.19660">PDF</a>)</span></span>  
 			</li>
 			<li>
@@ -69,7 +69,7 @@ Q Ye, W Zeng, M Liu, J Zhang, Y Hu, Z Yu, <strong>Y Zhou</strong>. "When Eyes an
 Q Ye, <strong>Y Zhou*</strong>, L He, J Zhang, X Guo, J Zhang, M Tan, W Xie, Y Sun, T Tan, X Yuan, G Khoriba, Z Yu. "SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition." <strong>AAAI</strong>, 2026. (<strong>CCF-A, Oral Presentation</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38852" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/38852">PDF</a>)</span></span>  
 			</li>			
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(245, 204, 204);font-size:15px">
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(238, 190, 190);font-size:15px">
 L He, M Liu, Q Ye, <strong>Y Zhou</strong>, X Deng, G Ding. "Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/42466" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/42466">PDF</a>)</span></span>  
 			</li>			
 			<li>
@@ -136,10 +136,10 @@ H Shen, G Li, J Zhong, <strong>Y Zhou*</strong>. "LDP: Generalizing to Multiling
 Y Zhang, G Zeng, H Shen, D Wu, <strong>Y Zhou*</strong>, C Ma. "Track the Answer: Extending TextVQA from Image to Video with Spatio-Temporal Clues." <strong>AAAI</strong>, 2025. (<strong>CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33115" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/33115">PDF</a>)</span></span> 
 			</li>
    			<li>
-				<span style="background-color: rgb(247, 224, 217);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, M Shang, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">DCA: Dividing and Conquering Amnesia in Incremental Object Detection."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33068" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/33068">PDF</a>)</span>
+				<span style="background-color: rgb(250, 235, 200);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, M Shang, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">DCA: Dividing and Conquering Amnesia in Incremental Object Detection."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33068" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/33068">PDF</a>)</span>
 			</li>   
    			<li>
-				<span style="background-color: rgb(247, 224, 217);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">Specifying What You Know or Not for Multi-label Class-incremental Learning."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34390" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/34390">PDF</a>)</span>
+				<span style="background-color: rgb(250, 235, 200);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, <strong>Y Zhou</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">Specifying What You Know or Not for Multi-label Class-incremental Learning."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2025. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34390" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/34390">PDF</a>)</span>
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
@@ -250,7 +250,7 @@ Y Yang, X Chen, Z Zhao, <strong>Y Zhou</strong>, X Gu, J Cao. "ComMark: Covert a
 				</span>
 			</li>
 			<li>
-				<span style="background-color: rgb(247, 224, 217);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">D Yang,&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">Y Zhou*</strong><span style="font-family: arial, helvetica, sans-serif;">, X Hong, A Zhang, W Wang.&nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">One-shot Replay: Boosting Incremental Object Detection via Retrospecting One Object."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2023. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong><span style="font-family: arial, helvetica, sans-serif;">,&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0);">Oral Presentation</span></strong><strong style="font-family: arial, helvetica, sans-serif;">,&nbsp;Acceptance Rate 约11.0%</strong><span style="font-family: arial, helvetica, sans-serif;">,&nbsp;<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25417" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/25417">PDF</a></span><span style="font-family: arial, helvetica, sans-serif;">)</span>
+				<span style="background-color: rgb(250, 235, 200);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">D Yang,&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">Y Zhou*</strong><span style="font-family: arial, helvetica, sans-serif;">, X Hong, A Zhang, W Wang.&nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">One-shot Replay: Boosting Incremental Object Detection via Retrospecting One Object."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2023. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong><span style="font-family: arial, helvetica, sans-serif;">,&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0);">Oral Presentation</span></strong><strong style="font-family: arial, helvetica, sans-serif;">,&nbsp;Acceptance Rate 约11.0%</strong><span style="font-family: arial, helvetica, sans-serif;">,&nbsp;<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25417" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/25417">PDF</a></span><span style="font-family: arial, helvetica, sans-serif;">)</span>
 				</span>
 			</li>
 			<li>
@@ -266,7 +266,7 @@ Y Yang, X Chen, Z Zhao, <strong>Y Zhou</strong>, X Gu, J Cao. "ComMark: Covert a
 				</span>
 			</li>
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif; background-color: rgb(247, 224, 217);font-size:15px">D Yang,&nbsp;<strong>Y Zhou*</strong>, X Hong, A Zhang, X Wei, L Zeng, Z Qiao, W Wang. "Pseudo Object Replay and Mining for Incremental Object Detection."&nbsp;<strong>ACM MM</strong>, 2023. (<strong>CCF-A, <span style="color:#ff0000">Oral Presentation</span></strong>, <a href="https://dl.acm.org/doi/10.1145/3581783.3611952" target="_blank" _href="https://dl.acm.org/doi/10.1145/3581783.3611952"><span style="font-size:15px">PDF</span></a>)
+				<span style="font-family: arial, helvetica, sans-serif; background-color: rgb(250, 235, 200);font-size:15px">D Yang,&nbsp;<strong>Y Zhou*</strong>, X Hong, A Zhang, X Wei, L Zeng, Z Qiao, W Wang. "Pseudo Object Replay and Mining for Incremental Object Detection."&nbsp;<strong>ACM MM</strong>, 2023. (<strong>CCF-A, <span style="color:#ff0000">Oral Presentation</span></strong>, <a href="https://dl.acm.org/doi/10.1145/3581783.3611952" target="_blank" _href="https://dl.acm.org/doi/10.1145/3581783.3611952"><span style="font-size:15px">PDF</span></a>)
 				</span>
 			</li>
 			<li>
@@ -317,7 +317,7 @@ Y Yang, X Chen, Z Zhao, <strong>Y Zhou</strong>, X Gu, J Cao. "ComMark: Covert a
 				</span>
 			</li>
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif; background-color: rgb(247, 224, 217);font-size:15px">D Yang,&nbsp;<strong>Y Zhou*</strong>, A Zhang, X Sun, D Wu, W Wang, Q Ye. "Multi-view Correlation Distillation for Incremental Object Detection."&nbsp;<strong>PR</strong>, 2022. (<strong>SCI一区</strong>,&nbsp;<strong>CCF-B</strong>,&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320322003442" target="_blank" _href="https://www.sciencedirect.com/science/article/abs/pii/S0031320322003442"><span style="font-size:15px">PDF</span></a>)
+				<span style="font-family: arial, helvetica, sans-serif; background-color: rgb(250, 235, 200);font-size:15px">D Yang,&nbsp;<strong>Y Zhou*</strong>, A Zhang, X Sun, D Wu, W Wang, Q Ye. "Multi-view Correlation Distillation for Incremental Object Detection."&nbsp;<strong>PR</strong>, 2022. (<strong>SCI一区</strong>,&nbsp;<strong>CCF-B</strong>,&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320322003442" target="_blank" _href="https://www.sciencedirect.com/science/article/abs/pii/S0031320322003442"><span style="font-size:15px">PDF</span></a>)
 				</span>
 			</li>
 			<li>
@@ -325,7 +325,7 @@ Y Yang, X Chen, Z Zhao, <strong>Y Zhou</strong>, X Gu, J Cao. "ComMark: Covert a
 				</span>
 			</li>
 			<li>
-				<span style="background-color: rgb(247, 224, 217);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">D Yang</span><span style="font-family: arial, helvetica, sans-serif;">,</span><strong style="font-family: arial, helvetica, sans-serif;">&nbsp;Y Zhou*</strong><span style="font-family: arial, helvetica, sans-serif;">, W Shi, D Wu, W Wang. "RD-IOD: Two-level Residual-distillation-based Triple Network for Incremental Object Detection."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">TOMM</strong><span style="font-family: arial, helvetica, sans-serif;">, 2022. (<strong>SCI一区</strong>,&nbsp;<strong>CCF-B</strong>,&nbsp;<a href="https://dl.acm.org/doi/10.1145/3472393" target="_blank" _href="https://dl.acm.org/doi/10.1145/3472393">PDF</a></span><span style="font-family: arial, helvetica, sans-serif;">)</span>
+				<span style="background-color: rgb(250, 235, 200);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">D Yang</span><span style="font-family: arial, helvetica, sans-serif;">,</span><strong style="font-family: arial, helvetica, sans-serif;">&nbsp;Y Zhou*</strong><span style="font-family: arial, helvetica, sans-serif;">, W Shi, D Wu, W Wang. "RD-IOD: Two-level Residual-distillation-based Triple Network for Incremental Object Detection."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">TOMM</strong><span style="font-family: arial, helvetica, sans-serif;">, 2022. (<strong>SCI一区</strong>,&nbsp;<strong>CCF-B</strong>,&nbsp;<a href="https://dl.acm.org/doi/10.1145/3472393" target="_blank" _href="https://dl.acm.org/doi/10.1145/3472393">PDF</a></span><span style="font-family: arial, helvetica, sans-serif;">)</span>
 				</span>
 			</li>
 			<li>
