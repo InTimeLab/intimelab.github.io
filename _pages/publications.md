@@ -78,6 +78,10 @@ L He, M Liu, Q Ye, <strong>Y Zhou</strong>, X Deng, G Ding. "Task-Aware 3D Affor
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(232, 204, 242);font-size:15px">
 D Wu, D Yang, C Ma, <strong>Y Zhou*</strong>. "EmoCaliber: Advancing Reliable Visual Emotion Comprehension via Confidence Verbalization and Calibration." <strong>PR</strong>, 2026. (<strong>中科院SCI一区, CCF-B</strong>, <a href="https://arxiv.org/abs/2512.15528" target="_blank" _href="https://arxiv.org/abs/2512.15528">PDF</a>)</span></span>  
+			</li>			
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 245);font-size:15px">
+Y Yang, X Chen, Z Zhao, <strong>Y Zhou</strong>, X Gu, J Cao. "ComMark: Covert and Robust Black-Box Model Watermarking with Compressed Samples." <strong>ICMR</strong>, 2025. (<strong>CCF-B</strong>, <a href="https://arxiv.org/abs/2512.15641" target="_blank" _href="https://arxiv.org/abs/2512.15641">PDF</a>)</span></span>  
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
@@ -186,10 +190,6 @@ Z Yang, Y Shu, Z Yang, Y Zhang, Y Li, K Lu, G Zeng, S Liu, <strong>Y Zhou</stron
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
 ..., G li, ..., H Shen, ..., <strong>Y Zhou</strong>, .... "HunyuanOCR Technical Report." 2025. (<a href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf" target="_blank" _href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf">PDF</a>)</span></span>  
-			</li>
-			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 245);font-size:15px">
-Y Yang, X Chen, Z Zhao, <strong>Y Zhou</strong>, X Gu, J Cao. "ComMark: Covert and Robust Black-Box Model Watermarking with Compressed Samples." arXiv, 2025. (<a href="https://arxiv.org/abs/2512.15641" target="_blank" _href="https://arxiv.org/abs/2512.15641">PDF</a>)</span></span>  
 			</li>
    
 		</ol>
