@@ -61,7 +61,7 @@ redirect_from:
     <em><strong>26年03月27日</strong>，实验室"面向真机交互的GUI Agent环境搭建与模型优化"项目入选<strong>CAAI-腾讯犀牛鸟研究计划</strong>！</em><br>    
     <em><strong>26年03月24日</strong>，祝贺<strong>杨东宝</strong>老师获聘南开大学软件学院副教授！</em><br>    
     <em><strong>26年02月27日</strong>，周宇老师担任ACM MM 2026 <strong>Area Chair</strong>。</em><br>
-    <em><strong>26年02月21日</strong>，祝贺<strong>李庚洛</strong>文档解析&端到端翻译、<strong>曾翊晨</strong>strong>音视频导航、<strong>刘亿超</strong>GUI定位、<strong>陈泽宇</strong>多语言场景文本生成共5项工作被<strong>CVPR 2026</strong>接收！</em><br>
+    <em><strong>26年02月21日</strong>，祝贺<strong>李庚洛</strong>文档解析&端到端翻译、<strong>曾翊晨</strong>音视频导航、<strong>刘亿超</strong>GUI定位、<strong>陈泽宇</strong>多语言场景文本生成共5项工作被<strong>CVPR 2026</strong>接收！</em><br>
     <em><strong>26年01月31日</strong>，实验室2026“见贤思齐”交流活动顺利开展！毕业生<strong>曾港艳、乔峙、罗德昭、舒言</strong>与部分高年级同学分享科研、工作、生活经验。</em><br>
     <em><strong>26年01月26日</strong>，祝贺<strong>吴岱卿</strong>多模态视觉情感分析评估、音频理解2项工作被<strong>ICLR 2026</strong>接收！</em><br>
     <em><strong>25年12月15日</strong>，祝贺<strong>叶启朗</strong>入选2025年<strong>中国科协青年科技人才培育工程博士生专项计划</strong>！</em><br>
