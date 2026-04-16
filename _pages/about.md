@@ -57,36 +57,36 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
-    <em><strong>26年04月11日</strong>，祝贺吴岱卿可信视觉情感理解工作被<strong>PR</strong>接收！</em><br>
+    <em><strong>26年04月11日</strong>，祝贺<strong>吴岱卿</strong>可信视觉情感理解工作被<strong>PR</strong>接收！</em><br>
     <em><strong>26年03月27日</strong>，实验室"面向真机交互的GUI Agent环境搭建与模型优化"项目入选<strong>CAAI-腾讯犀牛鸟研究计划</strong>！</em><br>    
     <em><strong>26年03月24日</strong>，祝贺<strong>杨东宝</strong>老师获聘南开大学软件学院副教授！</em><br>    
     <em><strong>26年02月27日</strong>，周宇老师担任ACM MM 2026 <strong>Area Chair</strong>。</em><br>
-    <em><strong>26年02月21日</strong>，祝贺李庚洛文档解析&端到端翻译、曾翊晨音视频导航、刘亿超GUI定位、陈泽宇多语言场景文本生成共5项工作被<strong>CVPR 2026</strong>接收！</em><br>
+    <em><strong>26年02月21日</strong>，祝贺<strong>李庚洛</strong>文档解析&端到端翻译、<strong>曾翊晨</strong>strong>音视频导航、<strong>刘亿超</strong>GUI定位、<strong>陈泽宇</strong>多语言场景文本生成共5项工作被<strong>CVPR 2026</strong>接收！</em><br>
     <em><strong>26年01月31日</strong>，实验室2026“见贤思齐”交流活动顺利开展！毕业生<strong>曾港艳、乔峙、罗德昭、舒言</strong>与部分高年级同学分享科研、工作、生活经验。</em><br>
-    <em><strong>26年01月26日</strong>，祝贺吴岱卿多模态视觉情感分析评估、音频理解2项工作被<strong>ICLR 2026</strong>接收！</em><br>
+    <em><strong>26年01月26日</strong>，祝贺<strong>吴岱卿</strong>多模态视觉情感分析评估、音频理解2项工作被<strong>ICLR 2026</strong>接收！</em><br>
     <em><strong>25年12月15日</strong>，祝贺<strong>叶启朗</strong>入选2025年<strong>中国科协青年科技人才培育工程博士生专项计划</strong>！</em><br>
     <em><strong>25年11月11日</strong>，祝贺<strong>张宜飞、李未</strong>顺利通过博士学位论文答辩！</em><br>
-    <em><strong>25年11月08日</strong>，祝贺魏谨场景文本分割、叶启朗音视频大模型幻觉&行为识别、何莲具身可供性共4项工作被<strong>AAAI 2026</strong>接收！</em><br>
-    <em><strong>25年11月05日</strong>，祝贺吴岱卿情感分析工作被<strong>PR</strong>接收！</em><br>
+    <em><strong>25年11月08日</strong>，祝贺<strong>魏谨</strong>场景文本分割、<strong>叶启朗</strong>音视频大模型幻觉&行为识别、<strong>何莲</strong>具身可供性共4项工作被<strong>AAAI 2026</strong>接收！</em><br>
+    <em><strong>25年11月05日</strong>，祝贺<strong>吴岱卿</strong>情感分析工作被<strong>PR</strong>接收！</em><br>
     <em><strong>25年10月16日</strong>，周宇老师参加PRCV 2025会议，并做“多模态文档大模型幻觉问题及缓解方法研究”报告。</em><br>
-    <em><strong>25年09月19日</strong>，祝贺舒言多模态文档大模型幻觉缓解工作被<strong>NeurIPS 2025</strong>接收！</em><br>
-    <em><strong>25年09月16日</strong>，周宇老师参加ICDAR 2025国际会议，并与上海交大沈为教授共同在Tutorial环节做<strong>"How to Train a Multi-modal Large Document Understanding Model?"</strong>报告；与中科大谢洪涛教授、北科大殷绪成教授、南理工曾港艳老师联合组织的<strong>Workshop on Visual Text Generation and Text Image Processing</strong>成功举办；实验室博士生<strong>李增、吕嘉昊</strong>参会并分享3项工作。</em><br>
-    <em><strong>25年07月11日</strong>，祝贺赵方敏文档图像畸变校正工作被<strong>ECAI 2025</strong>接收！</em><br>
-    <em><strong>25年07月05日</strong>，祝贺张言视频TextVQA、赵方敏文档图像恢复2项工作被<strong>ACM MM 2025</strong>接收！</em><br>
+    <em><strong>25年09月19日</strong>，祝贺<strong>舒言</strong>多模态文档大模型幻觉缓解工作被<strong>NeurIPS 2025</strong>接收！</em><br>
+    <em><strong>25年09月16日</strong>，周宇老师参加ICDAR 2025国际会议，并与上海交大<strong>沈为</strong>教授共同在Tutorial环节做<strong>"How to Train a Multi-modal Large Document Understanding Model?"</strong>报告；与<strong>中科大谢洪涛教授、北科大殷绪成教授、南理工曾港艳老师</strong>联合组织的<strong>Workshop on Visual Text Generation and Text Image Processing</strong>成功举办；实验室博士生<strong>李增、吕嘉昊</strong>参会并分享3项工作。</em><br>
+    <em><strong>25年07月11日</strong>，祝贺<strong>赵方敏</strong>文档图像畸变校正工作被<strong>ECAI 2025</strong>接收！</em><br>
+    <em><strong>25年07月05日</strong>，祝贺<strong>张言</strong>视频TextVQA、赵方敏文档图像恢复2项工作被<strong>ACM MM 2025</strong>接收！</em><br>
     <em><strong>25年06月22日</strong>，周宇老师参加<strong>2025第二届全国民族古籍文献智能分析学术会议</strong>，并做“可视文本智能技术”报告。</em><br>
     <em><strong>25年06月07日</strong>，周宇老师参加<strong>视觉与学习青年学者研讨会（VALSE）2025-深度连续学习研讨会</strong>，并做“增量目标检测：关键挑战与技术进展”报告。</em><br>
-    <em><strong>25年06月07日</strong>，祝贺张德民（<strong>本科二年级</strong>）的指定区域检测、李增的手写公式识别和场景文本识别2项工作共3篇论文被<strong>ICDAR 2025</strong>接收！</em><br>
+    <em><strong>25年06月07日</strong>，祝贺<strong>张德民（<本科二年级）</strong>的指定区域检测、<strong>李增</strong>的手写公式识别和场景文本识别2项工作共3篇论文被<strong>ICDAR 2025</strong>接收！</em><br>
     <em><strong>25年05月17日</strong>，周宇老师参加<strong>2025多语言多民族文档智能技术及应用系列论坛</strong>，并做“可视文本智能技术”报告。</em><br>
     <em><strong>25年05月15日</strong>，祝贺<strong>曾维超、谢恩泽</strong>顺利通过硕士学位论文答辩！</em><br>
     <em><strong>25年05月09日</strong>，周宇老师参加<strong>2025中国图象图形大会（CCIG）文字识别与文档智能论坛</strong>，并做“可视文本智能技术”报告。</em><br>
-    <em><strong>25年05月01日</strong>，祝贺吕嘉昊的基于文本块的场景文本检测识别工作被<strong style="">TOMM</strong>接收！</em><br>
-    <em><strong>25年05月01日</strong>，祝贺吴岱卿的多模态大模型情感感知能力评估、李庚洛的中文场景文本检索新基准工作被<strong style="">ICML 2025</strong>接收！</em><br>
-    <em><strong>25年04月29日</strong>，祝贺李未的基于视频生成的数据受限行为理解、曹天骄的统一与长尾场景文本检测数据集工作被<strong style="">IJCAI 2025</strong>接收！</em><br>
-    <em><strong>25年04月22日</strong>，李庚洛、申化文参加的InTimeLab与腾讯HYOCR联队获ICDAR 2025 Competition on End-to-End Document Image Machine Translation Towards Complex Layouts (DIMT 2025 Challenge) OCR-free DIMT (Track 1) Translation-Small <strong>冠军</strong>！</em><br>    
+    <em><strong>25年05月01日</strong>，祝贺<strong>吕嘉昊</strong>的基于文本块的场景文本检测识别工作被<strong style="">TOMM</strong>接收！</em><br>
+    <em><strong>25年05月01日</strong>，祝贺<strong>吴岱卿</strong>的多模态大模型情感感知能力评估、<strong>李庚洛</strong>的中文场景文本检索新基准工作被<strong style="">ICML 2025</strong>接收！</em><br>
+    <em><strong>25年04月29日</strong>，祝贺<strong>李未</strong>的基于视频生成的数据受限行为理解、<strong>曹天骄</strong>的统一与长尾场景文本检测数据集工作被<strong style="">IJCAI 2025</strong>接收！</em><br>
+    <em><strong>25年04月22日</strong>，<strong>李庚洛、申化文</strong>参加的InTimeLab与腾讯HYOCR联队获ICDAR 2025 Competition on End-to-End Document Image Machine Translation Towards Complex Layouts (DIMT 2025 Challenge) OCR-free DIMT (Track 1) Translation-Small <strong>冠军</strong>！</em><br>    
     <em><strong>25年03月30日</strong>，InTimeLab承办的“2025年CSIG文档图像分析与识别专委会多模态大模型与可视文本智能（OCR）学术论坛”顺利召开！论坛邀请<strong>刘成林、金连文、谢洪涛、刘禹良、杨春、方山城</strong>等专家到南开大学分享研究成果，共有<strong>150余位</strong>老师、同学及企业同行参会！</em><br>
-    <em><strong>25年03月29日</strong>，祝贺杨晓萌和乔峙的场景文本识别工作IPAD暨PIMNet++被<strong style="">IJCV</strong>接收！</em><br>
+    <em><strong>25年03月29日</strong>，祝贺<strong>杨晓萌和乔峙</strong>的场景文本识别工作IPAD暨PIMNet++被<strong style="">IJCV</strong>接收！</em><br>
     <em><strong>25年03月15日</strong>，ICDAR 2025 Workshop on Visual Text Generation and Text Image Processing Call for Papers: <a href="https://icdar-vtg-tip.github.io" target="_blank" _href="https://icdar-vtg-tip.github.io">https://icdar-vtg-tip.github.io</a>。</em><br>
     <em><strong>25年03月14日</strong>，周宇老师担任ACM MM 2025 <strong>Area Chair</strong>。</em><br>
-    <em><strong>25年02月27日</strong>，祝贺张宜飞自监督文本识别工作被<strong style="">CVPR 2025</strong>接收！</em><br>
-    <em><strong>24年12月10日</strong>，祝贺申化文/吕嘉昊/张言的多语言VIE/任意阅读顺序文字Spotting/视频TextVQA、张傲婷的增量检测/多标签类增量共5项工作被<strong style="">AAAI 2025</strong>接收！</em><br>
-    <em><strong>24年09月26日</strong>，祝贺曾维超可视文字编辑工作被<strong style="">NeurIPS 2024</strong>接收！Spotlight类型报告。</em><br><br><br>
+    <em><strong>25年02月27日</strong>，祝贺<strong>张宜飞</strong>自监督文本识别工作被<strong style="">CVPR 2025</strong>接收！</em><br>
+    <em><strong>24年12月10日</strong>，祝贺<strong>申化文/吕嘉昊/张言</strong>的多语言VIE/任意阅读顺序文字Spotting/视频TextVQA、<strong>张傲婷</strong>的增量检测/多标签类增量共5项工作被<strong style="">AAAI 2025</strong>接收！</em><br>
+    <em><strong>24年09月26日</strong>，祝贺<strong>曾维超</strong>可视文字编辑工作被<strong style="">NeurIPS 2024</strong>接收！Spotlight类型报告。</em><br><br><br>
