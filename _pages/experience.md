@@ -7,7 +7,7 @@ author_profile: true
 
 ## 教育经历 
 + 至2009.12，<strong>哈尔滨工业大学</strong>，计算机科学与技术学院，学士、硕士、博士（导师：<strong>高文院士、陈熙霖研究员</strong>）
-+ 至2009.12，<strong>中国科学院计算技术研究所</strong>、JDL实验室，硕博联合培养
++ 至2009.12，<strong>JDL实验室、中国科学院计算技术研究所</strong>，硕博联合培养
 
 ## 工作经历
 + 至2012.03，<strong>上海交通大学</strong>，电子信息与电气工程学院，博士后（导师：<strong>杨小康教授</strong>） 
