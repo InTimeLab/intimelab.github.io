@@ -35,7 +35,7 @@ author_profile: true
      <strong>张同学</strong>，2018级硕士生，一作CCF-C *1，中科院信工所博士生
     </li>
     <li>
-     <strong style="background-color: rgb(255, 255, 255);">李同学</strong>，2019级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、CCF-C *2
+     <strong style="background-color: rgb(255, 255, 255);">李同学</strong>，2019级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、CCF-C *2，入职济南大学师资博士后
     </li>
     <li>
      <strong>李同学</strong>，2019级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span>、<span style="background-color: rgb(235, 241, 221);">中科院SCI一区 *1</span>、CCF-C *1，三好学生标兵，入职北京银行
