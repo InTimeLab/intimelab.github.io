@@ -20,10 +20,10 @@ author_profile: true
      <span style="background-color: rgb(255, 255, 255);"><strong>秦同学</strong>，2017级博士生，一作</span><span style="background-color: rgb(198, 217, 240);">ACM MM *2</span><span style="background-color: rgb(255, 255, 255);">、</span>ICDAR *1、ICASSP *1，优秀毕业生，入职南理工（教职）
     </li>
     <li>
-     <span style="background-color: rgb(255, 255, 255);"><strong>陈同学</strong>，2017级硕士生<span style="white-space: normal;">，一作CCF-C *2，3项国内外竞赛前三名</span>，入职字节跳动</span>
+     <span style="background-color: rgb(255, 255, 255);"><strong>陈同学</strong>，2017级硕士生<span style="white-space: normal;">，一作ICPR *1、PRICAI *1，3项国内外竞赛前三名</span>，入职字节跳动</span>
     </li>
     <li>
-     <strong>李同学</strong>，2018级博士生，一作CCF-C *2，入职中关村科学城创新发展有限公司
+     <strong>李同学</strong>，2018级博士生，一作ICTAI *2，入职中关村科学城创新发展有限公司
     </li>
     <li>
      <strong style="background-color: rgb(255, 255, 255);">乔同学</strong><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">ACM MM Best Paper Candidate</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(198, 217, 240);">CVPR *1</span><span style="background-color: rgb(255, 255, 255);">、CCF-C *1</span></span><span style="background-color: rgb(255, 255, 255);">，院长奖提名、国奖、优秀毕业生，入职好未来（SSP Offer）</span>
