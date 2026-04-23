@@ -26,30 +26,30 @@ author_profile: true
      <strong>李同学</strong>，2018级博士生，一作ICTAI *2，入职中关村科学城创新发展有限公司
     </li>
     <li>
-     <strong style="background-color: rgb(255, 255, 255);">乔同学</strong><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">ACM MM Best Paper Candidate</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(198, 217, 240);">CVPR *1</span><span style="background-color: rgb(255, 255, 255);">、CCF-C *1</span></span><span style="background-color: rgb(255, 255, 255);">，院长奖提名、国奖、优秀毕业生，入职好未来（SSP Offer）</span>
+     <strong style="background-color: rgb(255, 255, 255);">乔同学</strong><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">ACM MM Best Paper Candidate</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(198, 217, 240);">CVPR *1</span><span style="background-color: rgb(255, 255, 255);">、ICPR *1</span></span><span style="background-color: rgb(255, 255, 255);">，院长奖提名、国奖、优秀毕业生，入职好未来（SSP Offer）</span>
     </li>
     <li>
-    <strong>罗同学</strong>，2018级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(235, 241, 221);">JCR SCI一区 *1</span><span style="background-color: rgb(255, 255, 255);"></span><span style="background-color: rgb(255, 255, 255);">，国奖、所长特别奖、优秀毕业生，英国QMUL龚少刚教授博士生</span>
+    <strong>罗同学</strong>，2018级硕士生，一作<span style="background-color: rgb(198, 217, 240);">AAAI Oral *1</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(235, 241, 221);">TOMM *1</span><span style="background-color: rgb(255, 255, 255);"></span><span style="background-color: rgb(255, 255, 255);">，国奖、所长特别奖、优秀毕业生，英国QMUL龚少刚教授博士生</span>
     </li>
     <li>
-     <strong>张同学</strong>，2018级硕士生，一作CCF-C *1，中科院信工所博士生
+     <strong>张同学</strong>，2018级硕士生，一作ICPR *1，中科院信工所博士生
     </li>
     <li>
-     <strong style="background-color: rgb(255, 255, 255);">李同学</strong>，2019级直博生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>、CCF-C *2，入职济南大学师资博士后
+     <strong style="background-color: rgb(255, 255, 255);">李同学</strong>，2019级直博生，一作<span style="background-color: rgb(198, 217, 240);">IJCAI *1</span>、ICANN *2，入职济南大学师资博士后
     </li>
     <li>
-     <strong>李同学</strong>，2019级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A Oral *1</span>、<span style="background-color: rgb(235, 241, 221);">中科院SCI一区 *1</span>、CCF-C *1，三好学生标兵，入职北京银行
+     <strong>李同学</strong>，2019级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM Oral *1</span>、<span style="background-color: rgb(235, 241, 221);">PR *1</span>、ICANN *1，三好学生标兵，入职北京银行
     </li>
     <li>
-     <span style="background-color: rgb(255, 255, 255);"><strong>过同学</strong>，2019级硕士生，一作</span>CCF-B *1<span style="background-color: rgb(255, 255, 255);">、CCF-C *1，入职科大讯飞（飞星计划<span style="white-space: normal;">）</span></span></li>
+     <span style="background-color: rgb(255, 255, 255);"><strong>过同学</strong>，2019级硕士生，一作</span>ICME *1<span style="background-color: rgb(255, 255, 255);">、ICANN *1，入职科大讯飞（飞星计划<span style="white-space: normal;">）</span></span></li>
      <li>
-     <strong>曾同学</strong>，2020级博士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *3</span>、<span style="background-color: rgb(235, 241, 221);">中科院SCI一区 *1</span>、CCF-C *1，入职南理工（<span style="text-wrap: wrap;">教职</span>）
+     <strong>曾同学</strong>，2020级博士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *3</span>、<span style="background-color: rgb(235, 241, 221);">PR *1</span>、PRICAI *1，入职南理工（<span style="text-wrap: wrap;">教职</span>）
     </li>
-    <li><strong style="">王同学</strong>，2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *1</span>，CSIG 2022票据识别与分析挑战赛冠军，国奖，第二届中国图象图形学报研究生学术论坛优秀报告，入职上海人工智能实验室
+    <li><strong style="">王同学</strong>，2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *1</span>，CSIG 2022票据识别与分析挑战赛冠军，国奖，第二届中国图象图形学报研究生学术论坛优秀报告，入职上海人工智能实验室
     </li>
     <li>
      <strong style="">方同学</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ICCV *1、ACM MM *1</span>、国奖，香港城市大学陈万师教授博士生</span></li>
-    <li><span style="white-space: normal;"><strong style="">魏同学</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CCF-A *2</span>，入职联想研究院</span></span>
+    <li><span style="white-space: normal;"><strong style="">魏同学</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、ACM MM *1</span>，入职联想研究院</span></span>
     </li>
     <li>
      <span style="white-space: normal;"><span style="white-space: normal;"><strong>杨同学</strong>，2020级硕士生，一作CCF-B *1，入职中科院软件所</span></span>
