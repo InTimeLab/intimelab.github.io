@@ -51,11 +51,11 @@ Y Zeng, H Wang, M Liu, <strong>Y Zhou</strong>, C Gao, K Chen, G Huang. "Semanti
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(232, 204, 242);font-size:15px">
-D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou</strong>. "Customizing Visual Emotion Evaluation for MLLMs: An Open-vocabulary, Multifaceted, and Scalable Approach." <strong>ICLR</strong>, 2026. (<strong>THU-A</strong>, <a href="https://arxiv.org/abs/2509.21950" target="_blank" _href="https://arxiv.org/abs/2509.21950">PDF</a>)</span></span>  
+D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou</strong>. "Customizing Visual Emotion Evaluation for MLLMs: An Open-vocabulary, Multifaceted, and Scalable Approach." <strong>ICLR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2509.21950" target="_blank" _href="https://arxiv.org/abs/2509.21950">PDF</a>)</span></span>  
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(232, 204, 242);font-size:15px">
-D Wu, X Zhang, D Yang, J Yao, L Chen, Q Liu, S Zhao, C Ma, Y Kang, <strong>Y Zhou*</strong>. "Echo: Towards Advanced Audio Comprehension via Audio-Interleaved Reasoning." <strong>ICLR</strong>, 2026. (<strong>THU-A</strong>, <a href="https://arxiv.org/abs/2602.11909" target="_blank" _href="https://arxiv.org/abs/2602.11909">PDF</a>)</span></span>  
+D Wu, X Zhang, D Yang, J Yao, L Chen, Q Liu, S Zhao, C Ma, Y Kang, <strong>Y Zhou*</strong>. "Echo: Towards Advanced Audio Comprehension via Audio-Interleaved Reasoning." <strong>ICLR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2602.11909" target="_blank" _href="https://arxiv.org/abs/2602.11909">PDF</a>)</span></span>  
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">J Wei, Y Wu, J Yan, Z Li, Z Zu, <strong>Y Zhou</strong>, L Zhang, QY Wang. "ST-SAM: Multimodal Scene Text Segmentation with Dense Visual and Sparse Textual Prompts via SAM." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38025" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/38025">PDF</a>)</span></span>  			
