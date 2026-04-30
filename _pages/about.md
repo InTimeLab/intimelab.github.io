@@ -57,6 +57,7 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
+    <em>26年04月30日，祝贺<strong>赵方敏、曹天骄</strong>顺利通过硕士学位论文答辩！</em><br>
     <em>26年04月11日，祝贺<strong>吴岱卿</strong>可信视觉情感理解工作被<strong>PR</strong>接收！</em><br>
     <em>26年03月27日，实验室"面向真机交互的GUI Agent环境搭建与模型优化"项目入选<strong>CAAI-腾讯犀牛鸟研究计划</strong>！</em><br>    
     <em>26年03月24日，祝贺<strong>杨东宝</strong>老师获聘南开大学软件学院副教授！</em><br>    
