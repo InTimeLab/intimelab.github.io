@@ -90,7 +90,7 @@ author_profile: true
      <strong><em>李同学</em></strong>，2023级直博生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *2、ICML *1</span>，HunyuanOCR核心贡献者之一，ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，2025年度腾讯犀牛鸟精英人才计划，在读
     </li>
     <li>
-     <strong>曹同学</strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IJCAI *1</span>，入职小红书
+     <strong>曹同学</strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IJCAI *1</span>，入职小红书（SSP Offer）
     </li>
     <li>
      <strong>赵同学</strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *1</span>、ECAI *1，国奖、所长特别奖，入职字节（SSP Offer）
