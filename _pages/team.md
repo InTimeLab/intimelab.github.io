@@ -63,7 +63,7 @@ author_profile: true
      <strong style=""><em>申同学</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、IJCAI *1</span>，<span style="white-space: normal;">CSIG 2022票据识别与分析挑战赛冠军、ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，在读</span>
     </li>    
     <li>
-     <strong style=""><em>张同学</em></strong>，2021级直博生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *2</span>，在读
+     <strong style=""><em>张同学</em></strong>，2021级直博生，一作<span style="background-color: rgb(198, 217, 240);">ICML *1、AAAI *2</span>，在读
     </li>
     <li>
      <strong style=""><em>吴同学</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">ICML *1、ICLR *2、ACM MM *2</span>、<span style="background-color: rgb(235, 241, 221);">PR *2</span>，国奖、所长特别奖，在读
@@ -95,6 +95,9 @@ author_profile: true
     <li>
      <strong>赵同学</strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *1</span>、ECAI *1，国奖、所长特别奖，入职字节（SSP Offer）
     </li>    
+    <li>
+     <strong>余同学</strong>，2023级本科生，一作<span style="background-color: rgb(198, 217, 240);">ICML *1</span>，在读
+    </li>
     <li>
      <strong><em>曾同学</em></strong>，2024级博士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1</span>，在读
     </li>
