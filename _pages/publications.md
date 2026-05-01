@@ -51,9 +51,7 @@ Y Zeng, H Wang, M Liu, <strong>Y Zhou</strong>, C Gao, K Chen, G Huang. "Semanti
 			</li>			
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">C Yu, Y Liu, D Wu, G Li, Z Chen, <strong>Y Zhou*</strong>. "Beyond Detection: A Structure-Aware Framework for Scene Text Tracking." <strong>ICML</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
-			</li>			
-   			<li>
-				<span style="background-color: rgb(250, 235, 200);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">A Zhang, D Yang, C Liu, X Hong, <strong>Y Zhou*</strong>. &nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">"</span><span style="font-family: arial, helvetica, sans-serif;">Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">ICML</strong><span style="font-family: arial, helvetica, sans-serif;">, 2026. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span>
+			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(232, 204, 242);font-size:15px">
 D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou</strong>. "Customizing Visual Emotion Evaluation for MLLMs: An Open-vocabulary, Multifaceted, and Scalable Approach." <strong>ICLR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2509.21950" target="_blank" _href="https://arxiv.org/abs/2509.21950">PDF</a>)</span></span>  
