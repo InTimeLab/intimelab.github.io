@@ -13,7 +13,7 @@ author_profile: true
 					文档智能<span style="background-color: rgb(204, 224, 245);">&nbsp;&nbsp;&nbsp;</span>
 					具身智能<span style="background-color: rgb(238, 190, 190);">&nbsp;&nbsp;&nbsp;</span>
 					多模态智能<span style="background-color: rgb(232, 204, 242);">&nbsp;&nbsp;&nbsp;</span>
-					增量检测<span style="background-color: rgb(250, 235, 200);">&nbsp;&nbsp;&nbsp;</span>
+					持续与开放学习<span style="background-color: rgb(250, 235, 200);">&nbsp;&nbsp;&nbsp;</span>
 					自监督学习<span style="background-color: rgb(217, 240, 209);">&nbsp;&nbsp;&nbsp;</span>
 					其他工作<span style="background-color: rgb(242, 242, 245);">&nbsp;&nbsp;&nbsp;</span>
 				</span>
