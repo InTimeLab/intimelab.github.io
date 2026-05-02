@@ -102,9 +102,6 @@ author_profile: true
      <strong><em>曾同学</em></strong>，2024级博士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1</span>，在读
     </li>
     <li>
-     <strong><em>何同学</em></strong>，2024级博士生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1</span>，在读
-    </li>
-    <li>
      <strong><em>叶同学</em></strong>，2025级博士生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *2</span>，入选2025年中国科协青年科技人才培育工程博士生专项计划（一作发表顶会顶刊论文4篇，含硕士阶段TPAMI *1、ECCV*1），在读
     </li>    
     <li>
