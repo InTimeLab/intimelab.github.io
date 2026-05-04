@@ -102,6 +102,10 @@ J Lyu, P Fu, Z Li, W Zeng, S Zhan, J Yang, C Ma, <strong>Y Zhou*</strong>, Z Luo
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
 Y Zhang, P Fu, D Wu, H Shen, R Zhang, S Zhang, J Yang, X Xi, C Ma, <strong>Y Zhou*</strong>, Z Luo, J Luan. "All in One: Unified Pretraining of GUI Agents via Masked Trajectory Prediction." 2026. (<a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
 			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
+Y Zhang, D Wu, H Shen, <strong>Y Zhou*</strong>, C Ma. "Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding." arXiv, 2026. (<a href="https://arxiv.org/abs/2605.00642" target="_blank" _href="https://arxiv.org/abs/2605.00642">PDF</a>)</span></span>  
+			</li>
 
 		</ol>
     	<p style="text-wrap: wrap;">
