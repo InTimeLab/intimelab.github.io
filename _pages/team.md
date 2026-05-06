@@ -69,7 +69,7 @@ author_profile: true
      <strong style=""><em>吴同学</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">ICML *1、ICLR *2、ACM MM *2</span>、<span style="background-color: rgb(235, 241, 221);">PR *2</span>，国奖、所长特别奖，在读
     </li>
     <li>
-     <span style="white-space: normal;"><strong>舒同学</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM Oral *1</span>、ICASSP *1，意大利Trento大学Nicu Sebe教授博士生</span>
+     <span style="white-space: normal;"><strong>舒同学</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM Oral *1</span>、ICASSP *1、中国图象图形学报 *1，意大利Trento大学Nicu Sebe教授博士生</span>
     </li> 
     <li>
      <strong>杨同学</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IJCV *1</span>、IEEE SPL *1、ICASSP *1，美国东北大学王言治教授博士生
@@ -78,7 +78,7 @@ author_profile: true
      <strong><em>吕同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1</span>、<span style="background-color: rgb(235, 241, 221);">TOMM *1</span>，在读
     </li>
     <li>
-     <span style="white-space: normal;"><strong><em>张同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、ACM MM *1</span>、PRCV *1，在读</span>
+     <span style="white-space: normal;"><strong><em>张同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、ACM MM *1</span>、PRCV *1、中国图象图形学报 *1，在读</span>
     </li>
     <li>
      <strong>曾同学</strong>，2022级硕士生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS Spotlight *1</span>，国奖、优秀毕业生，日本东京大学郑银强教授博士生
