@@ -21,6 +21,9 @@ author_profile: true
     </li>
     <li>
      <span style="background-color: rgb(255, 255, 255);"><strong>陈同学</strong>，2017级硕士生<span style="white-space: normal;">，一作ICPR *1、PRICAI *1，3项国内外竞赛前三名</span>，入职字节跳动</span>
+    </li>    
+    <li>
+     <strong>张同学</strong>，2018级硕考博，一作<span style="background-color: rgb(198, 217, 240);">TMM *1、CVPR *1</span>、ICPR *1，入职腾讯（青云计划）
     </li>
     <li>
      <strong>李同学</strong>，2018级博士生，一作ICTAI *2，入职中关村科学城创新发展有限公司
@@ -30,9 +33,6 @@ author_profile: true
     </li>
     <li>
     <strong>罗同学</strong>，2018级硕士生，一作<span style="background-color: rgb(198, 217, 240);">AAAI Oral *1</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(235, 241, 221);">TOMM *1</span><span style="background-color: rgb(255, 255, 255);"></span><span style="background-color: rgb(255, 255, 255);">，国奖、所长特别奖、优秀毕业生，英国QMUL龚少刚教授博士生</span>
-    </li>
-    <li>
-     <strong>张同学</strong>，2018级硕士生，一作ICPR *1，中科院信工所博士生
     </li>
     <li>
      <strong style="background-color: rgb(255, 255, 255);">李同学</strong>，2019级直博生，一作<span style="background-color: rgb(198, 217, 240);">IJCAI *1</span>、ICANN *2，入职济南大学师资博士后
@@ -55,10 +55,7 @@ author_profile: true
      <span style="white-space: normal;"><span style="white-space: normal;"><strong>杨同学</strong>，2020级硕士生，一作ICME *1，入职中科院软件所</span></span>
     </li>
     <li>
-     <span style="white-space: normal;"><span style="white-space: normal;"><strong style="">李同学</strong>，2020级硕士生，一作ICANN *1，入职重庆赛力斯技术有限公司</span></span></li>
-    <li>
-     <strong>张同学</strong>，2021级博士生，一作<span style="background-color: rgb(198, 217, 240);">TMM *1、CVPR *1</span>，入职腾讯（青云计划）
-    </li>
+     <span style="white-space: normal;"><span style="white-space: normal;"><strong style="">李同学</strong>，2020级硕士生，一作ICANN *1，入职重庆赛力斯技术有限公司</span></span></li>    
     <li>
      <strong style=""><em>申同学</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、IJCAI *1</span>，<span style="white-space: normal;">CSIG 2022票据识别与分析挑战赛冠军、ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，在读</span>
     </li>    
