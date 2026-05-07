@@ -57,13 +57,13 @@ author_profile: true
     <li>
      <span style="white-space: normal;"><span style="white-space: normal;"><strong style="">李同学</strong>，2020级硕士生，一作ICANN *1，入职重庆赛力斯技术有限公司</span></span></li>    
     <li>
-     <strong style=""><em>申同学</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、IJCAI *1</span>，<span style="white-space: normal;">CSIG 2022票据识别与分析挑战赛冠军、ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，在读</span>
+     <strong style=""><em>申同学</em></strong>，2021级硕转博，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、IJCAI *1</span>，<span style="white-space: normal;">CSIG 2022票据识别与分析挑战赛冠军、ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，在读</span>
     </li>    
     <li>
      <strong style=""><em>张同学</em></strong>，2021级直博生，一作<span style="background-color: rgb(198, 217, 240);">ICML *1、AAAI *2</span>，在读
     </li>
     <li>
-     <strong style=""><em>吴同学</em></strong>，2021级硕博生，一作<span style="background-color: rgb(198, 217, 240);">ICML *1、ICLR *2、ACM MM *2</span>、<span style="background-color: rgb(235, 241, 221);">PR *2</span>，国奖、所长特别奖，在读
+     <strong style=""><em>吴同学</em></strong>，2021级硕转博，一作<span style="background-color: rgb(198, 217, 240);">ICML *1、ICLR *2、ACM MM *2</span>、<span style="background-color: rgb(235, 241, 221);">PR *2</span>，国奖、所长特别奖，在读
     </li>
     <li>
      <span style="white-space: normal;"><strong>舒同学</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM Oral *1</span>、ICASSP *1、中国图象图形学报 *1，意大利Trento大学Nicu Sebe教授博士生</span>
