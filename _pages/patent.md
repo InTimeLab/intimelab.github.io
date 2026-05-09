@@ -14,7 +14,8 @@ author_profile: true
       <span style="text-wrap: nowrap;"><strong></strong></span>
     </p>
     <ol style="text-wrap: wrap;">
-	    <li><span style="text-wrap: nowrap;">基于掩码下一尺度预测的自监督场景文字识别方法，2026，受理号：202610604992.1</span></li>
+	    <li><span style="text-wrap: nowrap;">一种基于稀疏约束整流流的开放集视觉文本篡改检测方法，2026，受理号：202610619935.0</span></li>
+		<li><span style="text-wrap: nowrap;">基于掩码下一尺度预测的自监督场景文字识别方法，2026，受理号：202610604992.1</span></li>
 		<li><span style="text-wrap: nowrap;">基于动态区域搜索的图形用户界面指令定位方法及系统，2026，受理号：202610483993.5</span></li>
 		<li><span style="text-wrap: nowrap;">一种基于语义引导与结构校正的场景文本跟踪方法及系统，2026，受理号：202610434672.6</span></li>
 		<li><span style="text-wrap: nowrap;">一种基于语言感知的场景文字识别预训练方法及系统，2025，受理号：202510335613.9</span></li>
