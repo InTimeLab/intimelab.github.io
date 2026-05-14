@@ -106,6 +106,10 @@ Y Zhang, P Fu, D Wu, H Shen, R Zhang, S Zhang, J Yang, X Xi, C Ma, <strong>Y Zho
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
 Y Zhang, D Wu, H Shen, <strong>Y Zhou*</strong>, C Ma. "Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding." arXiv, 2026. (<a href="https://arxiv.org/abs/2605.00642" target="_blank" _href="https://arxiv.org/abs/2605.00642">PDF</a>)</span></span>  
 			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
+G Li, S Peng, X Wan, C Zhang, ..., C Ma, W Wang, <strong>Y Zhou*</strong>, H Hu. "Chronicles-OCR: A Cross-Temporal Perception Benchmark for the Evolutionary Trajectory of Chinese Characters." arXiv, 2026. (<a href="https://arxiv.org/abs/2605.11960" target="_blank" _href="https://arxiv.org/abs/2605.11960">PDF</a>)</span></span>  
+			</li>
 
 		</ol>
     	<p style="text-wrap: wrap;">
