@@ -96,7 +96,7 @@ Y Yang, X Chen, Z Zhao, <strong>Y Zhou</strong>, X Gu, J Cao. "ComMark: Covert a
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
-T Cao, J Lyu, D Yang, W Mu, <strong>Y Zhou*</strong>. "Towards Breaking the Visual Perception Bottleneck for Geometry Problem Solving." <strong>ICDAR</strong>, 2026. (<a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
+T Cao, J Lyu, D Yang, W Mu, <strong>Y Zhou*</strong>. "Towards Breaking the Visual Perception Bottleneck for Geometry Problem Solving." <strong>ICDAR</strong>, 2026. (<strong>CCF-C</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
