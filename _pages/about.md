@@ -57,6 +57,7 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
+    <em>26年05月16日，祝贺<strong>曹天骄</strong>几何问题求解工作被<strong>ICDAR</strong>接收！</em><br>
     <em>26年05月09日，祝贺<strong>吴岱卿、申化文</strong>顺利通过博士学位论文答辩！</em><br>
     <em>26年05月01日，祝贺<strong>张傲婷</strong>的增量物体检测、<strong>余辰民（本科生）</strong>的无需检测与识别的场景文本跟踪共2项工作被<strong style="">ICML 2026</strong>接收！</em><br>
     <em>26年04月30日，祝贺<strong>赵方敏、曹天骄</strong>顺利通过硕士学位论文答辩！</em><br>
