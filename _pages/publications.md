@@ -96,6 +96,10 @@ Y Yang, X Chen, Z Zhao, <strong>Y Zhou</strong>, X Gu, J Cao. "ComMark: Covert a
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
+T Cao, J Lyu, D Yang, W Mu, <strong>Y Zhou*</strong>. "Towards Breaking the Visual Perception Bottleneck for Geometry Problem Solving." <strong>ICDAR</strong>, 2026. (<a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
+			</li>
+   			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
 J Lyu, P Fu, Z Li, W Zeng, S Zhan, J Yang, C Ma, <strong>Y Zhou*</strong>, Z Luo, J Luan. "IMTBench: A Multi-Scenario Cross-Modal Collaborative Evaluation Benchmark for In-Image Machine Translation." arXiv, 2026. (<a href="https://arxiv.org/abs/2603.10495" target="_blank" _href="https://arxiv.org/abs/2603.10495">PDF</a>)</span></span>  
 			</li>
 			<li>
