@@ -10,7 +10,8 @@ author_profile: true
   <p style="text-wrap: wrap;">
    <strong>学术报告</strong>
   </p>
-  <ul style="text-wrap: wrap;">
+  <ul style="text-wrap: wrap;">   
+   <li>2026年05月16日，“从局部编辑到全局翻译：可视文本编辑与翻译技术”，2026年CSIG多语言多民族文档智能技术及应用系列论坛，安阳师范学院</li>
    <li>2025年10月18日，“多模态文档大模型幻觉问题及缓解方法研究”，CCF走进高校&CSIG中国行暨建校70周年学术论坛，中原工学院</li>
    <li>2025年10月16日，“多模态文档大模型幻觉问题及缓解方法研究”，PRCV 2025 多模态文本智能大模型前沿技术与应用，上海交通大学</li>
    <li>2025年09月16日，“How to Train a Multi-modal Large Document Understanding Model?”，ICDAR 2025 Tutorial (With 沈为@SJTU)，华中科技大学</li>
