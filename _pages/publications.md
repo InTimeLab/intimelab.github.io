@@ -37,20 +37,20 @@ author_profile: true
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">G Li, C Zhang, Y Liang, H Shen, Y Zhang, P Lyu, W Wang, X Wan, G Zeng, H Hu, C Ma, <strong>Y Zhou*</strong>. "MMTIT-Bench: A Multilingual and Multi-Scenario Benchmark with Cognition–Perception–Reasoning Guided Text-Image Machine Translation." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2603.23896" target="_blank" _href="https://arxiv.org/abs/2603.23896">PDF</a>)</span></span>  			
 			</li>			
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">Y Liu, H Shen, Y Liu, S Liu, Z Chen, <strong>Y Zhou*</strong>. "DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">Y Liu, H Shen, Y Liu, S Liu, Z Chen, <strong>Y Zhou*</strong>. "DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2605.15542" target="_blank" _href="https://arxiv.org/abs/2605.15542">PDF</a>)</span></span>  			
 			</li>			
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">Z Chen, F Zhao, Y Shu, Y Liu, Y Liu, <strong>Y Zhou*</strong>. "StyleTextGen: Style-Conditioned Multilingual Scene Text Generation." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">Z Chen, F Zhao, Y Shu, Y Liu, Y Liu, <strong>Y Zhou*</strong>. "StyleTextGen: Style-Conditioned Multilingual Scene Text Generation." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2605.14708" target="_blank" _href="https://arxiv.org/abs/2605.14708">PDF</a>)</span></span>  			
 			</li>			
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(238, 190, 190);font-size:15px">
 Y Zeng, H Wang, M Liu, <strong>Y Zhou</strong>, C Gao, K Chen, G Huang. "Semantic Audio-Visual Navigation in Continuous Environments." <strong>CVPR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2603.19660" target="_blank" _href="https://arxiv.org/abs/2603.19660">PDF</a>)</span></span>  
 			</li>
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">Z Chen, Z Li, Y Zhang, C Liu, <strong>Y Zhou*</strong>. "Masked Next-Scale Prediction For Self-Supervised Scene Text Recognition." <strong>CVPR Findings</strong>, 2026. (<a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">Z Chen, Z Li, Y Zhang, C Liu, <strong>Y Zhou*</strong>. "Masked Next-Scale Prediction For Self-Supervised Scene Text Recognition." <strong>CVPR Findings</strong>, 2026. (<a href="https://arxiv.org/abs/2605.14885" target="_blank" _href="https://arxiv.org/abs/2605.14885">PDF</a>)</span></span>  			
 			</li>			
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">C Yu, Y Liu, D Wu, G Li, Z Chen, <strong>Y Zhou*</strong>. "Beyond Detection: A Structure-Aware Framework for Scene Text Tracking." <strong>ICML</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">C Yu, Y Liu, D Wu, G Li, Z Chen, <strong>Y Zhou*</strong>. "Beyond Detection: A Structure-Aware Framework for Scene Text Tracking." <strong>ICML</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2605.17270" target="_blank" _href="https://arxiv.org/abs/2605.17270">PDF</a>)</span></span>  			
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(250, 235, 200);font-size:15px">A Zhang, D Yang, C Liu, X Hong, <strong>Y Zhou*</strong>. "Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection." <strong>ICML</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
