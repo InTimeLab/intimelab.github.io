@@ -88,7 +88,7 @@ D Wu, D Yang, C Ma, <strong>Y Zhou*</strong>. "EmoCaliber: Advancing Reliable Vi
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(232, 204, 242);font-size:15px">
 H Zhang, D Wu, Y Li, K Liu, Y Wang, <strong>Y Zhou</strong>, S Zhao. "Multimodal Emotion Recognition with Large Language Models
-." <strong>IJCAI Survey Track</strong>, 2026. (<a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
+." <strong>IJCAI Survey Track</strong>, 2026. (<a href="https://arxiv.org/abs/2605.21239" target="_blank" _href="https://arxiv.org/abs/2605.21239">PDF</a>)</span></span>  
 			</li>	
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 245);font-size:15px">
