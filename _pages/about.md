@@ -91,7 +91,6 @@ redirect_from:
     <em>25年04月22日，<strong>李庚洛、申化文</strong>参加的InTimeLab与腾讯HYOCR联队获ICDAR 2025 Competition on End-to-End Document Image Machine Translation Towards Complex Layouts (DIMT 2025 Challenge) OCR-free DIMT (Track 1) Translation-Small <strong>冠军</strong>！</em><br>    
     <em>25年03月30日，InTimeLab承办的“2025年CSIG文档图像分析与识别专委会多模态大模型与可视文本智能（OCR）学术论坛”顺利召开！论坛邀请<strong>刘成林、金连文、谢洪涛、刘禹良、杨春、方山城</strong>等专家到南开大学分享研究成果，共有<strong>150余位</strong>老师、同学及企业同行参会！</em><br>
     <em>25年03月29日，祝贺<strong>杨晓萌和乔峙</strong>的场景文本识别工作IPAD暨PIMNet++被<strong style="">IJCV</strong>接收！</em><br>
-    <em>25年03月15日，ICDAR 2025 Workshop on Visual Text Generation and Text Image Processing Call for Papers: <a href="https://icdar-vtg-tip.github.io" target="_blank" _href="https://icdar-vtg-tip.github.io">https://icdar-vtg-tip.github.io</a>。</em><br>
     <em>25年03月14日，周宇老师担任ACM MM 2025 <strong>Area Chair</strong>。</em><br>
     <em>25年02月27日，祝贺<strong>张宜飞</strong>自监督文本识别工作被<strong style="">CVPR 2025</strong>接收！</em><br>
     <em>24年12月10日，祝贺<strong>申化文/吕嘉昊/张言</strong>的多语言VIE/任意阅读顺序文字Spotting/视频TextVQA、<strong>张傲婷</strong>的增量检测/多标签类增量共5项工作被<strong style="">AAAI 2025</strong>接收！</em><br>
