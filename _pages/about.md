@@ -57,7 +57,7 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
-    <em>26年05月26日，周宇老师任中国图像图形学会英文期刊<strong>Visual Intelligence Associate Editor</strong>。</em><br>
+    <em>26年06月02日，周宇老师任中国图像图形学会英文期刊<strong>Visual Intelligence Associate Editor</strong>。</em><br>
     <em>26年05月16日，周宇老师参加<strong>2026年CSIG多语言多民族文档智能技术及应用系列论坛(安阳站)</strong>，并做“从局部编辑到全局翻译：可视文本编辑与翻译技术”报告。</em><br>    
     <em>26年05月16日，祝贺<strong>曹天骄</strong>几何问题求解工作被<strong>ICDAR 2026</strong>接收！</em><br>
     <em>26年05月09日，祝贺<strong>吴岱卿、申化文</strong>顺利通过博士学位论文答辩！</em><br>
