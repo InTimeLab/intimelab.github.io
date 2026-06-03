@@ -51,7 +51,7 @@ Y Zeng, H Wang, M Liu, <strong>Y Zhou</strong>, C Gao, K Chen, G Huang. "Semanti
 			</li>			
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
-Z Yang, Y Shu, Z Yang, Y Zhang, Y Li, K Lu, G Zeng, S Liu, <strong>Y Zhou</strong>, N Sebe. "VidText: Towards Comprehensive Evaluation for Video Text Understanding." <strong>CVPR Workshops</strong>, 2026. (<a href="https://arxiv.org/abs/2505.22810" target="_blank" _href="https://arxiv.org/abs/2505.22810">PDF</a>)</span></span>  
+Z Yang, Y Shu, Z Yang, Y Zhang, Y Li, K Lu, G Zeng, S Liu, <strong>Y Zhou</strong>, N Sebe. "VidText: Towards Comprehensive Evaluation for Video Text Understanding." <strong>CVPRW</strong>, 2026. (<a href="https://arxiv.org/abs/2505.22810" target="_blank" _href="https://arxiv.org/abs/2505.22810">PDF</a>)</span></span>  
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">C Yu, Y Liu, D Wu, G Li, Z Chen, <strong>Y Zhou*</strong>. "Beyond Detection: A Structure-Aware Framework for Scene Text Tracking." <strong>ICML</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2605.17270" target="_blank" _href="https://arxiv.org/abs/2605.17270">PDF</a>)</span></span>  			
