@@ -49,6 +49,10 @@ Y Zeng, H Wang, M Liu, <strong>Y Zhou</strong>, C Gao, K Chen, G Huang. "Semanti
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">Z Chen, Z Li, Y Zhang, C Liu, <strong>Y Zhou*</strong>. "Masked Next-Scale Prediction For Self-Supervised Scene Text Recognition." <strong>CVPR Findings</strong>, 2026. (<a href="https://arxiv.org/abs/2605.14885" target="_blank" _href="https://arxiv.org/abs/2605.14885">PDF</a>)</span></span>  			
 			</li>			
+   			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
+Z Yang, Y Shu, Z Yang, Y Zhang, Y Li, K Lu, G Zeng, S Liu, <strong>Y Zhou</strong>, N Sebe. "VidText: Towards Comprehensive Evaluation for Video Text Understanding." <strong>CVPR Workshops</strong>, 2026. (<a href="https://arxiv.org/abs/2505.22810" target="_blank" _href="https://arxiv.org/abs/2505.22810">PDF</a>)</span></span>  
+			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">C Yu, Y Liu, D Wu, G Li, Z Chen, <strong>Y Zhou*</strong>. "Beyond Detection: A Structure-Aware Framework for Scene Text Tracking." <strong>ICML</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2605.17270" target="_blank" _href="https://arxiv.org/abs/2605.17270">PDF</a>)</span></span>  			
 			</li>
@@ -213,10 +217,6 @@ M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</str
 			</li>
 			<li>
 				<span style="font-size: 15px; background-color: rgb(204, 224, 245); font-family: arial, helvetica, sans-serif;">Y Shu, W Zeng, F Zhao, Z Chen, Z Li, X Yang,  <b>Y Zhou*</b>, P Rota, X Bai, L Jin, X-C Yin, N Sebe. "Visual Text Processing: A Comprehensive Review and Unified Evaluation." arXiv, 2025. (<a href="https://arxiv.org/abs/2504.21682" target="_blank" _href="https://arxiv.org/abs/2504.21682">PDF</a>)</span>		
-			</li>
-   			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
-Z Yang, Y Shu, Z Yang, Y Zhang, Y Li, K Lu, G Zeng, S Liu, <strong>Y Zhou</strong>, N Sebe. "VidText: Towards Comprehensive Evaluation for Video Text Understanding." arXiv, 2025. (<a href="https://arxiv.org/abs/2505.22810" target="_blank" _href="https://arxiv.org/abs/2505.22810">PDF</a>)</span></span>  
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
