@@ -137,6 +137,10 @@ S Peng, G Li, X Wan, C Zhang, H Feng, B Wu, H Shen, W Wang, Z Cai, Z Tian, H Hu,
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
 X Yang, Z Qiao, <strong>Y Zhou*</strong>. "IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition." <strong>IJCV</strong>, 2025. (<strong>CCF-A, SCI一区</strong>, <a href="https://link.springer.com/article/10.1007/s11263-025-02443-1" target="_blank" _href="https://link.springer.com/article/10.1007/s11263-025-02443-1">PDF</a>)</span></span>  			
+			</li>			
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
+Hunyuan Vision Team, P Lyu, X Wan, G Li, S Peng, W Wang, L Wu, H Shen, <strong>Y Zhou</strong>, C Tang, Q Yang, Q Peng, B Luo, H Yang, X Zhang, J Zhang, H Peng, H Yang, S Xie, L Zhou, G Pei, B Wu, K Wu, J Yang, B Wang, K Liu, J Zhu, J Jiang, Linus, H Hu, C Zhang. "HunyuanOCR Technical Report." 2025. (Github: 1.6k stars, 130 forks. <a href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf" target="_blank" _href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf">PDF</a>)</span></span>  
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
@@ -217,10 +221,6 @@ M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</str
 			</li>
 			<li>
 				<span style="font-size: 15px; background-color: rgb(204, 224, 245); font-family: arial, helvetica, sans-serif;">Y Shu, W Zeng, F Zhao, Z Chen, Z Li, X Yang,  <b>Y Zhou*</b>, P Rota, X Bai, L Jin, X-C Yin, N Sebe. "Visual Text Processing: A Comprehensive Review and Unified Evaluation." arXiv, 2025. (<a href="https://arxiv.org/abs/2504.21682" target="_blank" _href="https://arxiv.org/abs/2504.21682">PDF</a>)</span>		
-			</li>
-			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
-..., G li, ..., H Shen, ..., <strong>Y Zhou</strong>, .... "HunyuanOCR Technical Report." 2025. (<a href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf" target="_blank" _href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf">PDF</a>)</span></span>  
 			</li>
    
 		</ol>
