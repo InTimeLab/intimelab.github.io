@@ -140,7 +140,7 @@ X Yang, Z Qiao, <strong>Y Zhou*</strong>. "IPAD: Iterative, Parallel, and Diffus
 			</li>			
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
-Hunyuan Vision Team, P Lyu, X Wan, G Li, S Peng, W Wang, L Wu, H Shen, <strong>Y Zhou</strong>, C Tang, Q Yang, Q Peng, B Luo, H Yang, X Zhang, J Zhang, H Peng, H Yang, S Xie, L Zhou, G Pei, B Wu, K Wu, J Yang, B Wang, K Liu, J Zhu, J Jiang, Linus, H Hu, C Zhang. "HunyuanOCR Technical Report." 2025. (<strong>Github: 1.6k stars, 130 forks</strong>, <a href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf" target="_blank" _href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf">PDF</a>)</span></span>  
+Hunyuan Vision Team, P Lyu, X Wan, G Li, S Peng, W Wang, L Wu, H Shen, <strong>Y Zhou</strong>, C Tang, Q Yang, Q Peng, B Luo, H Yang, X Zhang, J Zhang, H Peng, H Yang, S Xie, L Zhou, G Pei, B Wu, K Wu, J Yang, B Wang, K Liu, J Zhu, J Jiang, Linus, H Hu, C Zhang. "HunyuanOCR Technical Report." 2025. (<strong>Github 1.6k stars & 130 forks</strong>, <a href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf" target="_blank" _href="https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/HunyuanOCR_Technical_Report.pdf">PDF</a>)</span></span>  
 			</li>
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
