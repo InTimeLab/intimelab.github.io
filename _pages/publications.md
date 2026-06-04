@@ -271,7 +271,7 @@ M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</str
 		</p>
 		<ol style="text-wrap: wrap;">
 			<li>
-				<span style="background-color: rgb(204, 224, 245);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">张言，李强，申化文，曾港艳，</span><strong style="font-family: arial, helvetica, sans-serif;">周宇*</strong><span style="font-family: arial, helvetica, sans-serif;">，马灿，张远，王伟平. "以文字为中心的图像理解技术综述."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">中国图象图形学报</strong><span style="font-family: arial, helvetica, sans-serif;">, 2023. (</span><span style="font-family:arial, helvetica, sans-serif"><a href="http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=220968" target="_blank" _href="http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=220968">PDF</a></span><span style="font-family: arial, helvetica, sans-serif;">)</span>
+				<span style="background-color: rgb(204, 224, 245);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">张言，李强，申化文，曾港艳，</span><strong style="font-family: arial, helvetica, sans-serif;">周宇*</strong><span style="font-family: arial, helvetica, sans-serif;">，马灿，张远，王伟平. "以文字为中心的图像理解技术综述."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">中国图象图形学报</strong><span style="font-family: arial, helvetica, sans-serif;">, 2023. (</span><span style="font-family:arial, helvetica, sans-serif"><a href="http://www.cjig.cn/zh/article/doi/10.11834/jig.220968/" target="_blank" _href="http://www.cjig.cn/zh/article/doi/10.11834/jig.220968/">PDF</a></span><span style="font-family: arial, helvetica, sans-serif;">)</span>
 				</span>
 			</li>
 			<li>
