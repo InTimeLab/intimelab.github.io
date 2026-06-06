@@ -51,6 +51,22 @@ redirect_from:
   }
 </style>
 
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>#map{width:100%;height:500px;}</style>
+</head>
+<body>
+<div id="map"></div>
+<script>
+// 加载天地图（国内官方源，免翻墙）
+const map = L.map('map').setView([39.9,116.4],3);
+L.tileLayer('https://t0.tianditu.gov.cn/DataServer?T=vec_w&x={x}&y={y}&l={z}&tk=你的天地图密钥').addTo(map);
+// 后续：接入IP定位API（高德/百度IP定位），访客进入拿到IP→解析经纬度→地图自动打点
+</script>
+</body>
+
 <!--
 <div style="width:462px;height:420px;overflow:hidden;">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=2KYfHIZwB-VTu7d5cWrNgBIQJMtFcIzN8wpfedn98qM&cl=ffffff&w=a"></script>
