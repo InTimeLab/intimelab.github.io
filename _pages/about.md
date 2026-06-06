@@ -51,39 +51,9 @@ redirect_from:
   }
 </style>
 
-<div class="map" style="width:100%;max-width:320px;height:220px;">
-<div id="visitor_world_map" style="width:100%;height:100%;"></div>
-<!--国内CDN Echarts，国内秒加载-->
-<script src="https://cdn.jsdelivr.net/npm/echarts@5.4/dist/echarts.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/echarts/map/js/world.js"></script>
-<!--国产访客统计服务，国内域名直连，自动采集访客地域-->
-<script async src="https://webviso.yestool.org/js/index.min.js"></script>
-<script>
-const chart = echarts.init(document.getElementById('visitor_world_map'));
-// 复刻clustrmaps白底+全球点位样式
-const opt={
-  backgroundColor:'#ffffff',
-  series:[{
-    type:'map',map:'world',zoom:1.2,
-    itemStyle:{areaColor:'#eef2f7',borderColor:'#ccc'},
-    data:[]
-  }]
-};
-chart.setOption(opt);
-// 定时拉取访问数据自动打点（长期累计访客点位）
-setInterval(()=>{
-fetch('https://webviso.yestool.org/api/map')
-.then(r=>r.json()).then(d=>{opt.series[0].data=d;chart.setOption(opt);})
-},8000);
-</script>
-</div>
-
-
-<!--
 <div style="width:462px;height:420px;overflow:hidden;">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=2KYfHIZwB-VTu7d5cWrNgBIQJMtFcIzN8wpfedn98qM&cl=ffffff&w=a"></script>
 </div>
--->
 
 <!--
 <div class="map">
