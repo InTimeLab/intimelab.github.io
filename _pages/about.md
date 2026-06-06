@@ -51,17 +51,6 @@ redirect_from:
   }
 </style>
 
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?40551d08c3582565c2e42b0e3b6bb0aa";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
-
-
 <div style="width:462px;height:420px;overflow:hidden;">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=2KYfHIZwB-VTu7d5cWrNgBIQJMtFcIzN8wpfedn98qM&cl=ffffff&w=a"></script>
 </div>
