@@ -51,6 +51,21 @@ redirect_from:
   }
 </style>
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+<div id="map" style="width:100%;height:500px;"></div>
+<script>
+// 初始化地图，高德国内瓦片
+const map = L.map('map').setView([30,110],3);
+L.tileLayer('https://{s}.amap.com/appmap/v3/map/{z}/{x}/{y}.png',{subdomains:['01','02','03']}).addTo(map);
+// 国内IP接口获取当前访客经纬度
+fetch('https://www.ip.cn/api/index?ip=&type=0')
+.then(r=>r.json()).then(res=>{
+  let lat=res.lat,lng=res.lng;
+  L.marker([lat,lng]).addTo(map).bindPopup(res.address);
+})
+</script>
+
 <!--
 <div style="width:462px;height:420px;overflow:hidden;">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=2KYfHIZwB-VTu7d5cWrNgBIQJMtFcIzN8wpfedn98qM&cl=ffffff&w=a"></script>
