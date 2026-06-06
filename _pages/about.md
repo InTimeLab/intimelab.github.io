@@ -53,9 +53,11 @@ redirect_from:
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=2KYfHIZwB-VTu7d5cWrNgBIQJMtFcIzN8wpfedn98qM&cl=ffffff&w=a"></script>
 
+<!--
 <div class="map">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=IZ9pPSCretfEwjCp7s_Fm8UrWtt2kUvApAL5BtbtCBA&cl=ffffff&w=a"></script>
 </div>
+-->
 
 <div class="news">
     <strong>最新消息：</strong><br>    
