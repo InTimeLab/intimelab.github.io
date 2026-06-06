@@ -51,13 +51,6 @@ redirect_from:
   }
 </style>
 
-<div id="visitMap" style="width:240px;height:220px;"></div>
-<script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
-<script>
-var myChart = echarts.init(document.getElementById('visitMap'));
-// 读取访客地域数据渲染世界地图
-</script>
-
 <div style="width:462px;height:420px;overflow:hidden;">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=2KYfHIZwB-VTu7d5cWrNgBIQJMtFcIzN8wpfedn98qM&cl=ffffff&w=a"></script>
 </div>
