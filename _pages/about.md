@@ -51,19 +51,22 @@ redirect_from:
   }
 </style>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
-<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
-<div id="map" style="width:100%;height:500px;"></div>
+<!--1.引入国内CDN ECharts地图（jsDelivr国内节点）-->
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/echarts/map/js/world.js"></script>
+<!--2.接入国内可用访客统计接口Webviso-->
+<script async src="https://webviso.yestool.org/js/index.min.js"></script>
+<!--地图容器-->
+<div id="visitMap" style="width:100%;height:480px;"></div>
+
 <script>
-// 初始化地图，高德国内瓦片
-const map = L.map('map').setView([30,110],3);
-L.tileLayer('https://{s}.amap.com/appmap/v3/map/{z}/{x}/{y}.png',{subdomains:['01','02','03']}).addTo(map);
-// 国内IP接口获取当前访客经纬度
-fetch('https://www.ip.cn/api/index?ip=&type=0')
-.then(r=>r.json()).then(res=>{
-  let lat=res.lat,lng=res.lng;
-  L.marker([lat,lng]).addTo(map).bindPopup(res.address);
-})
+// 定时拉取访客地域数据渲染地图（Webviso后台自动收集IP省份/国家）
+let myChart = echarts.init(document.getElementById('visitMap'));
+// 地图配置，自动打点/热力
+let option = {
+    series: [{type: 'map',map: 'world',data:[]}]
+};
+myChart.setOption(option);
 </script>
 
 <!--
