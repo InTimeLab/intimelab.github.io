@@ -51,23 +51,33 @@ redirect_from:
   }
 </style>
 
-<!--1.引入国内CDN ECharts地图（jsDelivr国内节点）-->
-<script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+<div class="map" style="width:100%;max-width:320px;height:220px;">
+<div id="visitor_world_map" style="width:100%;height:100%;"></div>
+<!--国内CDN Echarts，国内秒加载-->
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.4/dist/echarts.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/echarts/map/js/world.js"></script>
-<!--2.接入国内可用访客统计接口Webviso-->
+<!--国产访客统计服务，国内域名直连，自动采集访客地域-->
 <script async src="https://webviso.yestool.org/js/index.min.js"></script>
-<!--地图容器-->
-<div id="visitMap" style="width:100%;height:480px;"></div>
-
 <script>
-// 定时拉取访客地域数据渲染地图（Webviso后台自动收集IP省份/国家）
-let myChart = echarts.init(document.getElementById('visitMap'));
-// 地图配置，自动打点/热力
-let option = {
-    series: [{type: 'map',map: 'world',data:[]}]
+const chart = echarts.init(document.getElementById('visitor_world_map'));
+// 复刻clustrmaps白底+全球点位样式
+const opt={
+  backgroundColor:'#ffffff',
+  series:[{
+    type:'map',map:'world',zoom:1.2,
+    itemStyle:{areaColor:'#eef2f7',borderColor:'#ccc'},
+    data:[]
+  }]
 };
-myChart.setOption(option);
+chart.setOption(opt);
+// 定时拉取访问数据自动打点（长期累计访客点位）
+setInterval(()=>{
+fetch('https://webviso.yestool.org/api/map')
+.then(r=>r.json()).then(d=>{opt.series[0].data=d;chart.setOption(opt);})
+},8000);
 </script>
+</div>
+
 
 <!--
 <div style="width:462px;height:420px;overflow:hidden;">
