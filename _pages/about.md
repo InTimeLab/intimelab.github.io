@@ -51,7 +51,7 @@ redirect_from:
   }
 </style>
 
-<div style="width:330px;height:300px;overflow:hidden;">
+<div style="width:440px;height:400px;overflow:hidden;">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=2KYfHIZwB-VTu7d5cWrNgBIQJMtFcIzN8wpfedn98qM&cl=ffffff&w=a"></script>
 </div>
 
