@@ -57,6 +57,12 @@ Z Yang, Y Shu, Z Yang, Y Zhang, Y Li, K Lu, G Zeng, S Liu, <strong>Y Zhou</stron
 			</li>			
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(250, 235, 200);font-size:15px">A Zhang, D Yang, C Liu, X Hong, C Ma, <strong>Y Zhou*</strong>. "Orthogonal Knowledge Refreshing for Domain-Incremental Object Detection." <strong>ECCV</strong>, 2026. (<strong>THU-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+			</li>			
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">J Lyu, P Fu, Z Li, S Zhang, J Yang, <strong>Y Zhou*</strong>, C Ma, Z Luo, J Luan. "UniTranslator: A Unified Multi-modal framework for End-to-end In-Image Machine Translation." <strong>ECCV</strong>, 2026. (<strong>THU-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span> 		
+			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">G Li, S Peng, C Zhang, B Wu, H Feng, W Wang, P Lyu, H Shen, X Wan, Z Tian, H Hu, C Ma, <strong>Y Zhou*</strong>. "StrucTab: A Structured Optimization Framework for Table Parsing." <strong>ECCV</strong>, 2026. (<strong>THU-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span> 		
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">C Yu, Y Liu, D Wu, G Li, Z Chen, <strong>Y Zhou*</strong>. "Beyond Detection: A Structure-Aware Framework for Scene Text Tracking." <strong>ICML</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2605.17270" target="_blank" _href="https://arxiv.org/abs/2605.17270">PDF</a>)</span></span> 		
