@@ -9,7 +9,7 @@ author_profile: true
  <div class="mib-c ">
   <p>* 含<strong>全部毕业生</strong>，含与中科院信工所王伟平&马灿研究员、北京中关村学院聂礼强&刘萌教授、中国传媒大学张远教授、哈尔滨工业大学刘绍辉教授联合指导学生</p>
   <p>
-   <span style="background-color: rgb(255, 255, 255);">*CCF-A&nbsp;</span><span style="background-color: rgb(198, 217, 240);">&nbsp; &nbsp;&nbsp;</span>
+   <span style="background-color: rgb(255, 255, 255);">*CCF-A&THU-A&nbsp;</span><span style="background-color: rgb(198, 217, 240);">&nbsp; &nbsp;&nbsp;</span>
    <span style="background-color: rgb(255, 255, 255);"><span style="text-wrap: wrap;">、SCI一区&nbsp;</span><span style="text-wrap: wrap; background-color: rgb(235, 241, 221);">&nbsp; &nbsp;&nbsp;</span><p>        
   <p>
    <a href="https://shownx.github.io/" target="_blank" _href="https://shownx.github.io/"></a></p><ol><a href="https://shownx.github.io/" target="_blank" _href="https://shownx.github.io/"></a>
@@ -60,7 +60,7 @@ author_profile: true
      <strong style="">申同学</strong>，2021级硕转博，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、IJCAI *1</span>，CSIG 2022票据识别与分析挑战赛冠军、ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，入职腾讯混元大模型团队（青云计划）
     </li>    
     <li>
-     <strong style=""><em>张同学</em></strong>，2021级直博生，一作<span style="background-color: rgb(198, 217, 240);">ICML *1、AAAI *2</span>，在读
+     <strong style=""><em>张同学</em></strong>，2021级直博生，一作<span style="background-color: rgb(198, 217, 240);">ECCV *1、ICML *1、AAAI *2</span>，在读
     </li>
     <li>
      <strong style="">吴同学</strong>，2021级硕转博，一作<span style="background-color: rgb(198, 217, 240);">ICML *1、ICLR *2、ACM MM *2</span>、<span style="background-color: rgb(235, 241, 221);">PR *2</span>，国奖、所长特别奖，入职清华大学博士后
@@ -72,7 +72,7 @@ author_profile: true
      <strong>杨同学</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IJCV *1</span>、IEEE SPL *1、ICASSP *1，美国东北大学王言治教授博士生
     </li>
     <li>
-     <strong><em>吕同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1</span>、<span style="background-color: rgb(235, 241, 221);">TOMM *1</span>，在读
+     <strong><em>吕同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">ECCV *1、AAAI *1</span>、<span style="background-color: rgb(235, 241, 221);">TOMM *1</span>，在读
     </li>
     <li>
      <span style="white-space: normal;"><strong><em>张同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、ACM MM *1</span>、PRCV *1、中国图象图形学报 *1，在读</span>
@@ -84,7 +84,7 @@ author_profile: true
      <strong>谢同学</strong>，2022级硕士生，一作ICASSP *1，入职快手
     </li>
     <li>
-     <strong><em>李同学</em></strong>，2023级直博生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *2、ICML *1</span>，HunyuanOCR核心贡献者之一，ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，2025年度腾讯犀牛鸟精英人才计划，在读
+     <strong><em>李同学</em></strong>，2023级直博生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *2、ECCV *1、ICML *1</span>，HunyuanOCR核心贡献者之一，ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，2025年度腾讯犀牛鸟精英人才计划，在读
     </li>
     <li>
      <strong>曹同学</strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IJCAI *1</span>、ICDAR *1，入职小红书（SSP Offer）
