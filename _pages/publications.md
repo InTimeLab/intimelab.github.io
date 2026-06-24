@@ -262,10 +262,10 @@ M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</str
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">Z Li, Y Shu, W Zeng, D Yang, <strong>Y Zhou*</strong>. "First Creating Backgrounds Then Rendering Texts: A New Paradigm for Visual Text Blending." <strong>ECAI</strong>, 2024. (<strong>CCF-B</strong>, Acceptance Rate 23.0%, <a href="https://arxiv.org/abs/2410.10168" target="_blank" _href="https://arxiv.org/abs/2410.10168">PDF</a>)</span></span>			
 			</li>
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">X Yang, D Yang, Z Qiao, <strong>Y Zhou</strong>. "Accurate and Robust Scene Text Recognition via Adversarial Training." <strong>ICASSP</strong>, 2024. (<strong>CCF-B</strong>, <a href="https://ieeexplore.ieee.org/document/10445827" target="_blank" _href="https://ieeexplore.ieee.org/document/10445827">PDF</a>)</span></span>				
-			</li>
-			<li>
 				<span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(204, 224, 245);">X Yang, Z Qiao, J Wei, D Yang, <b>Y Zhou*</b>. "Masked and Permuted Implicit Context Learning for Scene Text Recognition."&nbsp;<strong>IEEE SPL</strong>, 2024. (<strong>CCF-C</strong>, <strong>SCI</strong>,&nbsp;<a href="https://ieeexplore.ieee.org/document/10479970" target="_blank" _href="https://ieeexplore.ieee.org/document/10479970">PDF</a>)</span>				
+			</li>			
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">X Yang, D Yang, Z Qiao, <strong>Y Zhou</strong>. "Accurate and Robust Scene Text Recognition via Adversarial Training." <strong>ICASSP</strong>, 2024. (<strong>CCF-B</strong>, <a href="https://ieeexplore.ieee.org/document/10445827" target="_blank" _href="https://ieeexplore.ieee.org/document/10445827">PDF</a>)</span></span>				
 			</li>
 			<li>
 				<span style="font-size: 15px; font-family: arial, helvetica, sans-serif; background-color: rgb(204, 224, 245);">Y Zhang, G Zeng, H Shen, C Ma, <b>Y Zhou*</b>. "Show Exemplars and Tell Me What You See: In-context Learning with Frozen Large Language Models for TextVQA."&nbsp;<strong>PRCV</strong>, 2024. (<strong>CCF-C</strong>, <a href="https://link.springer.com/chapter/10.1007/978-981-97-8511-7_17" target="_blank" _href="https://link.springer.com/chapter/10.1007/978-981-97-8511-7_17">PDF</a>)</span>				
@@ -285,6 +285,10 @@ M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</str
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif; background-color: rgb(217, 240, 209);font-size:15px">B Fang, W Wu, C Liu,&nbsp;<strong>Y Zhou*</strong>, M Yang, Y Song, F Li, W Wang, X Ji, W Ouyang. "UATVR: Uncertainty-adaptive Text-Video Retrieval."&nbsp;<strong>ICCV</strong>, 2023. (<strong>CCF-A</strong>,&nbsp;<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_UATVR_Uncertainty-Adaptive_Text-Video_Retrieval_ICCV_2023_paper.pdf" target="_blank" _href="https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_UATVR_Uncertainty-Adaptive_Text-Video_Retrieval_ICCV_2023_paper.pdf"><span style="font-size:15px">PDF</span></a>)
+				</span>
+			</li>			
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif; background-color: rgb(217, 240, 209);font-size:15px">C Liu, Y Yao, D Luo, <strong style="">Y Zhou</strong>, Q Ye. "Self-supervised Motion Perception for Spatio-temporal Representation Learning." <strong>TNNLS</strong>, 2023. (<strong>SCI一区</strong>, <strong>CCF-B</strong>, <a href="https://ieeexplore.ieee.org/document/9745754" target="_blank" _href="https://ieeexplore.ieee.org/document/9745754"><span style="font-size:15px">PDF</span></a>)
 				</span>
 			</li>
 			<li>
@@ -316,10 +320,6 @@ M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</str
 				</span>
 			</li>
 			<li>
-				<span style="font-family: arial, helvetica, sans-serif; background-color: rgb(217, 240, 209);font-size:15px">C Liu, Y Yao, D Luo, <strong style="">Y Zhou</strong>, Q Ye. "Self-supervised Motion Perception for Spatio-temporal Representation Learning." <strong>TNNLS</strong>, 2023. (<strong>SCI一区</strong>, <strong>CCF-B</strong>, <a href="https://ieeexplore.ieee.org/document/9745754" target="_blank" _href="https://ieeexplore.ieee.org/document/9745754"><span style="font-size:15px">PDF</span></a>)
-				</span>
-			</li>
-			<li>
 				<span style="background-color: rgb(204, 224, 245);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">X Yang, D Yang,&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">Y Zhou</strong><span style="font-family: arial, helvetica, sans-serif;">, Y Guo, W Wang. "Mask-guided Stamp Erasure for Real Document Image."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">ICME</strong><span style="font-family: arial, helvetica, sans-serif;">, 2023. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-B</strong><span style="font-family: arial, helvetica, sans-serif;">, <a href="https://ieeexplore.ieee.org/document/10219771" target="_blank" _href="https://ieeexplore.ieee.org/document/10219771">PDF</a></span><span style="font-family: arial, helvetica, sans-serif;">)</span>
 				</span>
 			</li>
@@ -341,6 +341,10 @@ M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</str
 			<li>
 				<span style="background-color: rgb(204, 224, 245);font-size:15px"><strong style="font-family: arial, helvetica, sans-serif;">周宇*</strong><span style="font-family: arial, helvetica, sans-serif;">，吕嘉昊，申化文，王威，魏谨，曾港艳，曾维超，王伟平. "从检测、识别到理解：场景文字相关领域研究进展."&nbsp;<strong>中国自动化学会模式识别与机器智能专委会通讯特约专栏</strong>, 2022. (<a href="https://mp.weixin.qq.com/s/MgtEDBTQQ_c-s05RzQJoEg" target="_blank" _href="https://mp.weixin.qq.com/s/MgtEDBTQQ_c-s05RzQJoEg">链接</a>)</span>
 				</span>
+			</li>			
+			<li>
+				<span style="background-color: rgb(242, 242, 245);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">X Chen, Y Zhou, D Wu, W Zhang,&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">Y Zhou</strong><span style="font-family: arial, helvetica, sans-serif;">, B Li, W Wang. "Imagine by Reasoning: A Reasoning-based Implicit Semantic Data Augmentation for Long-tailed Classification."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2022. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong><span style="font-family: arial, helvetica, sans-serif;">,&nbsp;</span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/19912" target="_blank" style="font-family: arial, helvetica, sans-serif;" _href="https://ojs.aaai.org/index.php/AAAI/article/view/19912"><span style="font-size:15px">PDF</span></a><span style="font-family: arial, helvetica, sans-serif;">)</span>
+				</span>
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif; background-color: rgb(217, 240, 209);font-size:15px">B Fang, W Wu, C Liu,&nbsp;<strong>Y Zhou*</strong>, D He, W Wang. "MaMiCo: Macro-to-micro Semantic Correspondence for Self-supervised Video Representation Learning."&nbsp;<strong>ACM MM</strong>, 2022. (<strong>CCF-A</strong>,&nbsp;<strong><span style="color: rgb(255, 0, 0);">Oral Presentation,&nbsp;<strong>Acceptance Rate 5.0%</strong></span></strong>,&nbsp;<a href="https://dl.acm.org/doi/10.1145/3503161.3547888" target="_self" _href="https://dl.acm.org/doi/10.1145/3503161.3547888"><span style="font-size:15px">PDF</span></a>)
@@ -352,10 +356,6 @@ M Luo, Z Xia, L Chen, Z Li, W Zeng, J Wang, W Cheng, Y Wang, <strong>Y Zhou</str
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif; background-color: rgb(204, 224, 245);font-size:15px">J Wei, Y Zhang,&nbsp;<strong>Y Zhou*</strong>, G Zeng, Z Qiao, Y Guo, H Wu, H Wang, W Wang. "TextBlock: Towards Scene Text Spotting without Fine-grained Detection."&nbsp;<strong>ACM MM</strong>, 2022. (<strong>CCF-A</strong>,&nbsp;<a href="https://dl.acm.org/doi/10.1145/3503161.3548051" target="_blank" _href="https://dl.acm.org/doi/10.1145/3503161.3548051"><span style="font-size:15px">PDF</span></a>)
-				</span>
-			</li>
-			<li>
-				<span style="background-color: rgb(242, 242, 245);font-size:15px"><span style="font-family: arial, helvetica, sans-serif;">X Chen, Y Zhou, D Wu, W Zhang,&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">Y Zhou</strong><span style="font-family: arial, helvetica, sans-serif;">, B Li, W Wang. "Imagine by Reasoning: A Reasoning-based Implicit Semantic Data Augmentation for Long-tailed Classification."&nbsp;</span><strong style="font-family: arial, helvetica, sans-serif;">AAAI</strong><span style="font-family: arial, helvetica, sans-serif;">, 2022. (</span><strong style="font-family: arial, helvetica, sans-serif;">CCF-A</strong><span style="font-family: arial, helvetica, sans-serif;">,&nbsp;</span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/19912" target="_blank" style="font-family: arial, helvetica, sans-serif;" _href="https://ojs.aaai.org/index.php/AAAI/article/view/19912"><span style="font-size:15px">PDF</span></a><span style="font-family: arial, helvetica, sans-serif;">)</span>
 				</span>
 			</li>
 			<li>
