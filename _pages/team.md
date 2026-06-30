@@ -14,94 +14,94 @@ author_profile: true
   <p>
    <a href="https://shownx.github.io/" target="_blank" _href="https://shownx.github.io/"></a></p><ol><a href="https://shownx.github.io/" target="_blank" _href="https://shownx.github.io/"></a>
     <li>
-     <span style="background-color: rgb(255, 255, 255);"><strong style="">杨同学</strong>，2020级博士生，一作/通作发表<span style="background-color: rgb(198, 217, 240);">CCF-A/SCI一区论文10余篇</span>（累计发表期刊会议论文30余篇），主持国家自然科学基金青年基金项目、国家重点研发计划子课题各一项，南开大学软件学院副教授</span>
+     <span style="background-color: rgb(255, 255, 255);"><strong style="">杨同学</strong>，2020级博士生，一作/通作发表<span style="background-color: rgb(198, 217, 240);">CCF-A/SCI一区论文10余篇</span>（累计发表期刊会议论文30余篇），主持国家自然科学基金青年基金项目、国家重点研发计划子课题各一项，南开大学软件学院副教授。（DB）</span>
     </li>
     <li>
-     <span style="background-color: rgb(255, 255, 255);"><strong>秦同学</strong>，2017级博士生，一作</span><span style="background-color: rgb(198, 217, 240);">ACM MM *2</span><span style="background-color: rgb(255, 255, 255);">、</span>ICDAR *1、ICASSP *1，优秀毕业生，入职南理工（教职）
+     <span style="background-color: rgb(255, 255, 255);"><strong>秦同学</strong>，2017级博士生，一作</span><span style="background-color: rgb(198, 217, 240);">ACM MM *2</span><span style="background-color: rgb(255, 255, 255);">、</span>ICDAR *1、ICASSP *1，优秀毕业生，入职南理工（教职）。（XG）
     </li>
     <li>
-     <span style="background-color: rgb(255, 255, 255);"><strong>陈同学</strong>，2017级硕士生<span style="white-space: normal;">，一作ICPR *1、PRICAI *1，3项国内外竞赛前三名</span>，入职字节跳动</span>
+     <span style="background-color: rgb(255, 255, 255);"><strong>陈同学</strong>，2017级硕士生<span style="white-space: normal;">，一作ICPR *1、PRICAI *1，3项国内外竞赛前三名</span>，入职字节跳动。（YD）</span>
     </li>    
     <li>
-     <strong>张同学</strong>，2018级硕考博，一作<span style="background-color: rgb(198, 217, 240);">TMM *1、CVPR *1</span>、ICPR *1，入职腾讯（青云计划）
+     <strong>张同学</strong>，2018级硕考博，一作<span style="background-color: rgb(198, 217, 240);">TMM *1、CVPR *1</span>、ICPR *1，入职腾讯（青云计划）。（YF）
     </li>
     <li>
-     <strong>李同学</strong>，2018级博士生，一作ICTAI *2，入职中关村科学城创新发展有限公司
+     <strong>李同学</strong>，2018级博士生，一作ICTAI *2，入职中关村科学城创新发展有限公司。（HY）
     </li>
     <li>
-     <strong style="background-color: rgb(255, 255, 255);">乔同学</strong><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">ACM MM Best Paper Candidate</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(198, 217, 240);">CVPR *1</span><span style="background-color: rgb(255, 255, 255);">、ICPR *1</span></span><span style="background-color: rgb(255, 255, 255);">，院长奖提名、国奖、优秀毕业生，入职好未来（SSP Offer）</span>
+     <strong style="background-color: rgb(255, 255, 255);">乔同学</strong><span style="background-color: rgb(255, 255, 255);">，2018级硕士生</span><span style="white-space: normal;"><span style="background-color: rgb(255, 255, 255);">，一作</span><span style="background-color: rgb(198, 217, 240);">ACM MM Best Paper Candidate</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(198, 217, 240);">CVPR *1</span><span style="background-color: rgb(255, 255, 255);">、ICPR *1</span></span><span style="background-color: rgb(255, 255, 255);">，院长奖提名、国奖、优秀毕业生，入职好未来（SSP Offer）。（Z）</span>
     </li>
     <li>
-    <strong>罗同学</strong>，2018级硕士生，一作<span style="background-color: rgb(198, 217, 240);">AAAI Oral *1</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(235, 241, 221);">TOMM *1</span><span style="background-color: rgb(255, 255, 255);"></span><span style="background-color: rgb(255, 255, 255);">，国奖、所长特别奖、优秀毕业生，英国QMUL龚少刚教授博士生</span>
+    <strong>罗同学</strong>，2018级硕士生，一作<span style="background-color: rgb(198, 217, 240);">AAAI Oral *1</span><span style="background-color: rgb(255, 255, 255);">、</span><span style="background-color: rgb(235, 241, 221);">TOMM *1</span><span style="background-color: rgb(255, 255, 255);"></span><span style="background-color: rgb(255, 255, 255);">，国奖、所长特别奖、优秀毕业生，英国QMUL龚少刚教授博士生。（DZ）</span>
     </li>
     <li>
-     <strong style="background-color: rgb(255, 255, 255);">李同学</strong>，2019级直博生，一作<span style="background-color: rgb(198, 217, 240);">IJCAI *1</span>、ICANN *2，入职济南大学师资博士后
+     <strong style="background-color: rgb(255, 255, 255);">李同学</strong>，2019级直博生，一作<span style="background-color: rgb(198, 217, 240);">IJCAI *1</span>、ICANN *2，入职济南大学师资博士后。（W）
     </li>
     <li>
-     <strong>李同学</strong>，2019级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM Oral *1</span>、<span style="background-color: rgb(235, 241, 221);">PR *1</span>、ICANN *1，三好学生标兵，入职北京银行
+     <strong>李同学</strong>，2019级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM Oral *1</span>、<span style="background-color: rgb(235, 241, 221);">PR *1</span>、ICANN *1，三好学生标兵，入职北京银行。（XN）
     </li>
     <li>
-     <span style="background-color: rgb(255, 255, 255);"><strong>过同学</strong>，2019级硕士生，一作</span>ICME *1<span style="background-color: rgb(255, 255, 255);">、ICANN *1，入职科大讯飞（飞星计划<span style="white-space: normal;">）</span></span></li>
+     <span style="background-color: rgb(255, 255, 255);"><strong>过同学</strong>，2019级硕士生，一作</span>ICME *1<span style="background-color: rgb(255, 255, 255);">、ICANN *1，入职科大讯飞（飞星计划<span style="white-space: normal;">）。（YH）</span></span></li>
      <li>
-     <strong>曾同学</strong>，2020级博士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *3</span>、<span style="background-color: rgb(235, 241, 221);">PR *1</span>、PRICAI *1，入职南理工（<span style="text-wrap: wrap;">教职</span>）
+     <strong>曾同学</strong>，2020级博士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *3</span>、<span style="background-color: rgb(235, 241, 221);">PR *1</span>、PRICAI *1，入职南理工（<span style="text-wrap: wrap;">教职</span>）。（GY）
     </li>
-    <li><strong style="">王同学</strong>，2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *1</span>，CSIG 2022票据识别与分析挑战赛冠军，国奖，第二届中国图象图形学报研究生学术论坛优秀报告，入职上海人工智能实验室
-    </li>
-    <li>
-     <strong style="">方同学</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ICCV *1、ACM MM *1</span>、国奖，香港城市大学陈万师教授博士生</span></li>
-    <li><span style="white-space: normal;"><strong style="">魏同学</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、ACM MM *1</span>，入职联想研究院</span></span>
+    <li><strong style="">王同学</strong>，2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *1</span>，CSIG 2022票据识别与分析挑战赛冠军，国奖，第二届中国图象图形学报研究生学术论坛优秀报告，入职上海人工智能实验室。（W）
     </li>
     <li>
-     <span style="white-space: normal;"><span style="white-space: normal;"><strong>杨同学</strong>，2020级硕士生，一作ICME *1，入职中科院软件所</span></span>
+     <strong style="">方同学</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ICCV *1、ACM MM *1</span>、国奖，香港城市大学陈万师教授博士生。（B）</span></li>
+    <li><span style="white-space: normal;"><strong style="">魏同学</strong>，<span style="white-space: normal;">2020级硕士生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、ACM MM *1</span>，入职联想研究院。（J）</span></span>
     </li>
     <li>
-     <span style="white-space: normal;"><span style="white-space: normal;"><strong style="">李同学</strong>，2020级硕士生，一作ICANN *1，入职重庆赛力斯技术有限公司</span></span></li>    
+     <span style="white-space: normal;"><span style="white-space: normal;"><strong>杨同学</strong>，2020级硕士生，一作ICME *1，入职中科院软件所。（XY）</span></span>
+    </li>
     <li>
-     <strong style="">申同学</strong>，2021级硕转博，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、IJCAI *1</span>，CSIG 2022票据识别与分析挑战赛冠军、ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，入职腾讯混元大模型团队（青云计划）
+     <span style="white-space: normal;"><span style="white-space: normal;"><strong style="">李同学</strong>，2020级硕士生，一作ICANN *1，入职重庆赛力斯技术有限公司。（Q）</span></span></li>    
+    <li>
+     <strong style="">申同学</strong>，2021级硕转博，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、IJCAI *1</span>，CSIG 2022票据识别与分析挑战赛冠军、ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，入职腾讯混元大模型团队（青云计划）。（HW）
     </li>    
     <li>
-     <strong style=""><em>张同学</em></strong>，2021级直博生，一作<span style="background-color: rgb(198, 217, 240);">ECCV *1、ICML *1、AAAI *2</span>，在读
+     <strong style=""><em>张同学</em></strong>，2021级直博生，一作<span style="background-color: rgb(198, 217, 240);">ECCV *1、ICML *1、AAAI *2</span>，在读。（AT）
     </li>
     <li>
-     <strong style="">吴同学</strong>，2021级硕转博，一作<span style="background-color: rgb(198, 217, 240);">ICML *1、ICLR *2、ACM MM *2</span>、<span style="background-color: rgb(235, 241, 221);">PR *2</span>，国奖、所长特别奖，入职清华大学博士后
+     <strong style="">吴同学</strong>，2021级硕转博，一作<span style="background-color: rgb(198, 217, 240);">ICML *1、ICLR *2、ACM MM *2</span>、<span style="background-color: rgb(235, 241, 221);">PR *2</span>，国奖、所长特别奖，入职清华大学博士后。（DQ）
     </li>
     <li>
-     <span style="white-space: normal;"><strong>舒同学</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM Oral *1</span>、ICASSP *1、中国图象图形学报 *1，意大利Trento大学Nicu Sebe教授博士生</span>
+     <span style="white-space: normal;"><strong>舒同学</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM Oral *1</span>、ICASSP *1、中国图象图形学报 *1，意大利Trento大学Nicu Sebe教授博士生。（Y）</span>
     </li> 
     <li>
-     <strong>杨同学</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IJCV *1</span>、IEEE SPL *1、ICASSP *1，美国东北大学王言治教授博士生
+     <strong>杨同学</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IJCV *1</span>、IEEE SPL *1、ICASSP *1，美国东北大学王言治教授博士生。（XM）
     </li>
     <li>
-     <strong><em>吕同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">ECCV *1、AAAI *1</span>、<span style="background-color: rgb(235, 241, 221);">TOMM *1</span>，在读
+     <strong><em>吕同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">ECCV *1、AAAI *1</span>、<span style="background-color: rgb(235, 241, 221);">TOMM *1</span>，在读。（JH）
     </li>
     <li>
-     <span style="white-space: normal;"><strong><em>张同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、ACM MM *1</span>、PRCV *1、中国图象图形学报 *1，在读</span>
+     <span style="white-space: normal;"><strong><em>张同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、ACM MM *1</span>、PRCV *1、中国图象图形学报 *1，在读。（Y）</span>
     </li>
     <li>
-     <strong>曾同学</strong>，2022级硕士生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS Spotlight *1</span>，国奖、优秀毕业生，日本东京大学郑银强教授博士生
+     <strong>曾同学</strong>，2022级硕士生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS Spotlight *1</span>，国奖、优秀毕业生，日本东京大学郑银强教授博士生。（WC）
     </li>
     <li>
-     <strong>谢同学</strong>，2022级硕士生，一作ICASSP *1，入职快手
+     <strong>谢同学</strong>，2022级硕士生，一作ICASSP *1，入职快手。（EZ）
     </li>
     <li>
-     <strong><em>李同学</em></strong>，2023级直博生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *2、ECCV *1、ICML *1</span>，HunyuanOCR核心贡献者之一，ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，2025年度腾讯犀牛鸟精英人才计划，在读
+     <strong><em>李同学</em></strong>，2023级直博生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *2、ECCV *1、ICML *1</span>，HunyuanOCR核心贡献者之一，ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，2025年度腾讯犀牛鸟精英人才计划，在读。（GL）
     </li>
     <li>
-     <strong>曹同学</strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IJCAI *1</span>、ICDAR *1，入职小红书（SSP Offer）
+     <strong>曹同学</strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IJCAI *1</span>、ICDAR *1，入职小红书（SSP Offer）。（TJ）
     </li>
     <li>
-     <strong>赵同学</strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *1</span>、ECAI *1，国奖、所长特别奖，入职字节（SSP Offer）
+     <strong>赵同学</strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *1</span>、ECAI *1，国奖、所长特别奖，入职字节（SSP Offer）。（FM）
     </li>    
     <li>
-     <strong><em>余同学</em></strong>，2023级本科生，一作<span style="background-color: rgb(198, 217, 240);">ICML *1</span>，在读
+     <strong><em>余同学</em></strong>，2023级本科生，一作<span style="background-color: rgb(198, 217, 240);">ICML *1</span>，在读。（CM）
     </li>
     <li>
-     <strong><em>叶同学</em></strong>，2025级博士生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *2</span>，入选2025年中国科协青年科技人才培育工程博士生专项计划（一作发表顶会顶刊论文4篇，含硕士阶段TPAMI *1、ECCV*1），在读
+     <strong><em>叶同学</em></strong>，2025级博士生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *2</span>，入选2025年中国科协青年科技人才培育工程博士生专项计划（一作发表顶会顶刊论文4篇，含硕士阶段TPAMI *1、ECCV*1），在读。（QL）
     </li>    
     <li>
-     <strong><em>刘同学</em></strong>，2025级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1</span>，在读
+     <strong><em>刘同学</em></strong>，2025级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1</span>，在读。（YC）
     </li>
     <li>
-     <strong><em>陈同学</em></strong>，2025级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1</span>，在读
+     <strong><em>陈同学</em></strong>，2025级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1</span>，在读。（ZY）
     </li>    
    </ol>
