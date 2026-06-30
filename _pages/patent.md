@@ -28,7 +28,7 @@ author_profile: true
 	    <li><span style="text-wrap: nowrap;">基于对比学习特征增强的场景文字检测方法及装置，2023，受理号：202311298617.1</span></li>
 	    <li><span style="text-wrap: nowrap;">基于伪目标重放与挖掘的增量目标检测方法及装置，2023，受理号：202311216027.X</span></li>
 	    <li><span style="text-wrap: nowrap;">基于Transformer的逐行扫描的表格结构识别方法及系统，2023，专利号：ZL 2023 1 1025547.2</span></li>
-	    <li><span style="text-wrap: nowrap;">基于掩模引导的去除印章噪声的图像生成方法及系统，2023，受理号：202310733846.5</span></li>
+	    <li><span style="text-wrap: nowrap;">基于掩模引导的去除印章噪声的图像生成方法及系统，2023，专利号：ZL 2023 1 0733846.5</span></li>
 	    <li><span style="text-wrap: nowrap;">基于单目标重放的增量目标检测方法及装置，2023，受理号：202310102438.X</span></li>
 	    <li><span style="text-wrap: nowrap;">无需细粒度检测的场景文本提取方法、系统，2022，受理号：202211233226.7</span></li>
 	    <li><span style="text-wrap: nowrap;">基于宏观到微观语义关联对比的视频自监督表征学习方法, 2022, 受理号：202211237958.3</span></li>
