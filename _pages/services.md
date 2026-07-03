@@ -50,15 +50,16 @@ author_profile: true
    <strong>会议</strong><br>
   </p>
   <ul style="text-wrap: wrap;">
+   <li>Outstanding Senior Area Chair Award: ICME 26</li>
    <li>Best Area Chair Award: PRCV 25</li>
+   <li>Outstanding Reviewer: CVPR 25 (711/12593=5.65%)</li>
    <li>论坛主席: 2025年 CSIG文档图像分析与识别专委会 多模态大模型与可视文本智能（OCR）学术论坛，南开大学</li>
-   <li>Workshop Organization: ICDAR 2025 Workshop on Visual Text Generation and Text Image Processing</li>
-   <li>Sponsorship Chair: ICDAR 25</li>
-   <li>Webpage Chair: PRCV 25</li>   
+   <li>Workshop Organization: ICDAR 2025 Workshop on Visual Text Generation and Text Image Processing</li>   
    <li>Senior Area Chair: ICME 26</li>
    <li>Area Chair: ACM MM, NeurIPS, ICDAR, ICME, PRCV</li>
-   <li>SPC Member: IJCAI, ICDAR</li>
-   <li>Outstanding Reviewer: CVPR 25 (711/12593=5.65%)</li>
+   <li>Sponsorship Chair: ICDAR 25</li>
+   <li>Webpage Chair: PRCV 25</li>   
+   <li>SPC Member: IJCAI, ICDAR</li>   
    <li>PC Member: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI, IJCAI, ACM MM, ICDAR, ECAI, ICPR, ...</li>
    <li>Session Chair: ICDAR 25, ICME 21, TrustCom 14</li>
   </ul>
