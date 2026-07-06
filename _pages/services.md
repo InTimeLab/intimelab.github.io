@@ -41,6 +41,7 @@ author_profile: true
    <strong>评审咨询</strong>
   </div>
   <ul style="text-wrap: wrap;">
+   <li>国家重要人才计划评审专家</li>
    <li>国家自然科学基金委，项目评审专家</li>
    <li>国家广播电视总局，项目评审专家</li>
    <li>北京市自然科学基金，项目评审专家</li>
