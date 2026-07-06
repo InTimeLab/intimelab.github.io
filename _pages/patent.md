@@ -19,7 +19,7 @@ author_profile: true
 		<li><span style="text-wrap: nowrap;">基于掩码下一尺度预测的自监督场景文字识别方法，2026，受理号：202610604992.1</span></li>
 		<li><span style="text-wrap: nowrap;">基于动态区域搜索的图形用户界面指令定位方法及系统，2026，专利号：ZL 2026 1 0483993.5</span></li>
 		<li><span style="text-wrap: nowrap;">一种基于语义引导与结构校正的场景文本跟踪方法及系统，2026，专利号：ZL 2026 1 0434672.6</span></li>
-		<li><span style="text-wrap: nowrap;">一种基于语言感知的场景文字识别预训练方法及系统，2025，受理号：202510335613.9</span></li>
+		<li><span style="text-wrap: nowrap;">一种基于语言感知的场景文字识别预训练方法及系统，2025，专利号：ZL 2025 1 0335613.9</span></li>
 	    <li><span style="text-wrap: nowrap;">基于明确已知和未知知识的多标签类增量学习方法和系统，2025，受理号：202510190260.8</span></li>
 	    <li><span style="text-wrap: nowrap;">基于分治健忘症的增量目标检测方法和系统，2025，受理号：202510190263.1</span></li>
 	    <li><span style="text-wrap: nowrap;">具有场景文字的图像生成方法，2024，受理号：202411423694.X</span></li>
