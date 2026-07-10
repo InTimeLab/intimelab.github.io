@@ -97,11 +97,17 @@ author_profile: true
     </li>
     <li>
      <strong><em>叶同学</em></strong>，2025级博士生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *2</span>，入选2025年中国科协青年科技人才培育工程博士生专项计划（一作发表顶会顶刊论文4篇，含硕士阶段TPAMI *1、ECCV*1），在读。（QL）
-    </li>    
+    </li>      
     <li>
-     <strong><em>刘同学</em></strong>，2025级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1</span>，在读。（YC）
+     <strong><em>冯同学</em></strong>，2025级直博生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *1</span>，在读。（YF）
     </li>
     <li>
-     <strong><em>陈同学</em></strong>，2025级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1</span>，在读。（ZY）
+     <strong><em>刘同学</em></strong>，2025级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1、ACM MM *1</span>，在读。（YC）
+    </li>
+    <li>
+     <strong><em>陈同学</em></strong>，2025级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1、ACM MM *1</span>，在读。（ZY）
+    </li>     
+    <li>
+     <strong><em>张同学</em></strong>，2026级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *1</span>，在读。（JL）
     </li>    
    </ol>
