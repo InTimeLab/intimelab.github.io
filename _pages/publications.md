@@ -99,7 +99,19 @@ Q Ye, <strong>Y Zhou*</strong>, L He, J Zhang, X Guo, J Zhang, M Tan, W Xie, Y S
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(238, 190, 190);font-size:15px">
 L He, M Liu, Q Ye, <strong>Y Zhou</strong>, X Deng, G Ding. "Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement." <strong>AAAI</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/42466" target="_blank" _href="https://ojs.aaai.org/index.php/AAAI/article/view/42466">PDF</a>)</span></span>  
+			</li>				
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">J Zhang, S Gao, Z Chen, Y Liu, <strong>Y Zhou</strong>. "Open-Set Visual Text Forensics via Sparse-Constraint Rectified Flow." <strong>ACM MM</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
 			</li>			
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">Z Chen, C Yu, F Zhao, Y Liu, <strong>Y Zhou</strong>. "Structure Leads, Semantics Assist: Hallucination-Resistant Diffusion for Scene Text Image Super-Resolution." <strong>ACM MM</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+			</li>			
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">Y Liu, G Li, M Huang, Z Chen, <strong>Y Zhou</strong>. "WildTab: Decoupling Content and Structure for Robust Multimodal Table Understanding in the Wild." <strong>ACM MM</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(250, 235, 200);font-size:15px">Y Feng, D Yang, A Zhang, Y Liu, <strong>Y Zhou*</strong>. "H-Hub: Hierarchical Domain-aware Parameter Adaptation for Continual Test-Time Object Detection." <strong>ACM MM</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  			
+			</li>
 			<li>
 				<span style="font-size: 15px; background-color: rgb(204, 224, 245); font-family: arial, helvetica, sans-serif;">D Wu, D Yang, H Shen, C Ma, <b>Y Zhou*</b>. "Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition." <strong>PR</strong>, 2026. (<strong>中科院SCI一区, CCF-B</strong>, <a href="https://doi.org/10.1016/j.patcog.2025.112719" target="_blank" title="" _href="https://doi.org/10.1016/j.patcog.2025.112719">PDF</a>)</span>			
 			</li>			
