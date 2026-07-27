@@ -59,7 +59,7 @@ author_profile: true
    <li>Area Chair: ACM MM, NeurIPS, ICDAR, ICME, PRCV</li>
    <li>Sponsorship Chair: ICDAR 25</li>
    <li>Webpage Chair: PRCV 25</li>   
-   <li>SPC Member: IJCAI, ICDAR</li>   
+   <li>SPC Member: AAAI, IJCAI, ICDAR</li>   
    <li>PC Member: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI, IJCAI, ACM MM, ICDAR, ECAI, ICPR, ...</li>
    <li>Session Chair: ICDAR 25, ICME 21, TrustCom 14</li>
   </ul>
