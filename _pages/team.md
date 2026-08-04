@@ -14,7 +14,7 @@ author_profile: true
   <p>
    <a href="https://shownx.github.io/" target="_blank" _href="https://shownx.github.io/"></a></p><ol><a href="https://shownx.github.io/" target="_blank" _href="https://shownx.github.io/"></a>
     <li>
-     <span style="background-color: rgb(255, 255, 255);"><strong style="">杨同学</strong>，2020级博士生，一作/通作发表<span style="background-color: rgb(198, 217, 240);">CCF-A/SCI一区论文10余篇</span>（累计发表期刊会议论文30余篇），主持国家自然科学基金青年基金项目、国家重点研发计划子课题各一项，南开大学软件学院副教授。（DB）</span>
+     <span style="background-color: rgb(255, 255, 255);"><strong style="">杨同学</strong>，2020级博士生，一作/通作发表<span style="background-color: rgb(198, 217, 240);">CCF-A/SCI一区论文10余篇</span>（累计发表期刊会议论文30余篇），主持国家自然科学基金青年基金项目、国家重点研发计划子课题各一项，南开大学软件学院博导、副教授。（DB）</span>
     </li>
     <li>
      <span style="background-color: rgb(255, 255, 255);"><strong>秦同学</strong>，2017级博士生，一作</span><span style="background-color: rgb(198, 217, 240);">ACM MM *2</span><span style="background-color: rgb(255, 255, 255);">、</span>ICDAR *1、ICASSP *1，优秀毕业生，入职南理工（教职）。（XG）
