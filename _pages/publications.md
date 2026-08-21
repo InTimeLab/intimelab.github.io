@@ -123,7 +123,11 @@ D Wu, D Yang, C Ma, <strong>Y Zhou*</strong>. "EmoCaliber: Advancing Reliable Vi
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(232, 204, 242);font-size:15px">
 H Zhang, D Wu, Y Li, K Liu, Y Wang, <strong>Y Zhou</strong>, S Zhao. "Multimodal Emotion Recognition with Large Language Models
 ." <strong>IJCAI Survey Track</strong>, 2026. (<a href="https://arxiv.org/abs/2605.21239" target="_blank" _href="https://arxiv.org/abs/2605.21239">PDF</a>)</span></span>  
-			</li>	
+			</li>				
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
+Y Zhang, P Fu, D Wu, H Shen, R Zhang, S Zhang, J Yang, <strong>Y Zhou*</strong>, C Ma, Z Luo, J Luan. "Towards Omni-dimensional GUI Agent Navigation with Masked Trajectory Prediction." <strong>EMNLP Findings</strong>, 2026. (<a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
+			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 245);font-size:15px">
 Y Yang, X Chen, Z Zhao, <strong>Y Zhou</strong>, X Gu, J Cao. "ComMark: Covert and Robust Black-Box Model Watermarking with Compressed Samples." <strong>ICMR</strong>, 2026. (<strong>CCF-B</strong>, <a href="https://arxiv.org/abs/2512.15641" target="_blank" _href="https://arxiv.org/abs/2512.15641">PDF</a>)</span></span>  
@@ -135,10 +139,6 @@ T Cao, J Lyu, D Yang, W Mu, <strong>Y Zhou*</strong>. "Towards Breaking the Visu
    			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
 J Lyu, P Fu, Z Li, W Zeng, S Zhan, J Yang, C Ma, <strong>Y Zhou*</strong>, Z Luo, J Luan. "IMTBench: A Multi-Scenario Cross-Modal Collaborative Evaluation Benchmark for In-Image Machine Translation." arXiv, 2026. (<a href="https://arxiv.org/abs/2603.10495" target="_blank" _href="https://arxiv.org/abs/2603.10495">PDF</a>)</span></span>  
-			</li>
-			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
-Y Zhang, P Fu, D Wu, H Shen, R Zhang, S Zhang, J Yang, X Xi, C Ma, <strong>Y Zhou*</strong>, Z Luo, J Luan. "All in One: Unified Pretraining of GUI Agents via Masked Trajectory Prediction." 2026. (<a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
