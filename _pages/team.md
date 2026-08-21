@@ -75,7 +75,7 @@ author_profile: true
      <strong><em>吕同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">ECCV *1、AAAI *1</span>、<span style="background-color: rgb(235, 241, 221);">TOMM *1</span>，在读。（JH）
     </li>
     <li>
-     <span style="white-space: normal;"><strong><em>张同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、ACM MM *1</span>、PRCV *1、中国图象图形学报 *1，在读。（Y）</span>
+     <span style="white-space: normal;"><strong><em>张同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、ACM MM *1</span>、EMNLP Findings *1, PRCV *1、中国图象图形学报 *1，在读。（Y）</span>
     </li>
     <li>
      <strong>曾同学</strong>，2022级硕士生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS Spotlight *1</span>，国奖、优秀毕业生，日本东京大学郑银强教授博士生。（WC）
