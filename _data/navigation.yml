@@ -3,9 +3,6 @@ main:
   - title: "个人履历"
     url: /experience/
     
-  - title: "招生信息"
-    url: /stu/
-    
   - title: "学术论文"
     url: /publications/  
 
@@ -20,6 +17,9 @@ main:
 
   - title: "学术服务"
     url: /services/
+    
+  - title: "招生信息"
+    url: /stu/
 
   - title: "学生指导"
     url: /edu/
