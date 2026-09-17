@@ -65,7 +65,7 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
-    <em>26年09月10日，周宇老师任ICLR 2027 <strong>Area Chair</strong>（领域主席）。</em><br>
+    <em>26年09月17日，周宇老师任ICLR 2027 <strong>Area Chair</strong>（领域主席）。</em><br>
     <em>26年09月13日，周宇老师任2026年CSIG文档智能大会<strong>程序委员会主席</strong>（Program Chair）。</em><br>
     <em>26年09月10日，祝贺<strong>吴岱卿获得中国科学院院长奖</strong>！</em><br>
     <em>26年07月27日，祝贺<strong>吴岱卿获得北京图象图形学学会2026优秀博士学位论文提名</strong>！</em><br>
