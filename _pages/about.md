@@ -65,8 +65,8 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
-    <em>26年09月10日，周宇老师任ICLR 2027领域主席。</em><br>
-    <em>26年09月13日，周宇老师任2026年CSIG文档智能大会程序委员会主席。</em><br>
+    <em>26年09月10日，周宇老师任ICLR 2027 <strong>Area Chair</strong>（领域主席）。</em><br>
+    <em>26年09月13日，周宇老师任2026年CSIG文档智能大会<strong>程序委员会主席</strong>（Program Chair）。</em><br>
     <em>26年09月10日，祝贺<strong>吴岱卿获得中国科学院院长奖</strong>！</em><br>
     <em>26年07月27日，祝贺<strong>吴岱卿获得北京图象图形学学会2026优秀博士学位论文提名</strong>！</em><br>
     <em>26年07月10日，祝贺<strong>陈泽宇</strong>场景文本超分辨率、<strong>刘亿超</strong>真实场景表格问答、<strong>张蒋灵</strong>可视文本篡改检测、<strong>冯宇菲</strong>物体检测持续测试时适应共4项工作被<strong>ACM MM 2026</strong>接收！</em><br>
