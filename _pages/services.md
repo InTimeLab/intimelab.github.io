@@ -52,7 +52,7 @@ author_profile: true
    <strong>会议</strong><br>
   </p>
   <ul style="text-wrap: wrap;">
-   <li>程序委员会主席：2026CSIG文档智能大会</li>
+   <li>程序委员会主席：2026年CSIG文档智能大会</li>
    <li>Outstanding Senior Area Chair Award: ICME 26</li>
    <li>Best Area Chair Award: PRCV 25</li>
    <li>Outstanding Reviewer: CVPR 25 (711/12593=5.65%)</li> 
