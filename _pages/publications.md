@@ -159,6 +159,10 @@ D Wu, D Yang, J Yao, H Zhang, C Ma, <strong>Y Zhou*</strong>, S Zhao. "MVEI & Em
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(250, 235, 200);font-size:15px">A Zhang, D Yang, C Liu, X Hong, C Ma, <strong>Y Zhou*</strong>. "Knowing Beyond the Known: Reinforced Knowledge Specification for Multi-Label Class-Incremental Learning." arXiv, 2026. (<a href="https://arxiv.org/abs/2608.30316" target="_blank" _href="https://arxiv.org/abs/2608.30316">PDF</a>)</span></span>  			
 			</li>	
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 245);font-size:15px">
+A Zhang, M Gao, D Yang, L Chen, D Zhang, Y Wu, Y Hu, <strong>Y Zhou*</strong>. "From Glance to Scrutiny: Progressive Distortion Reasoning for Fine-Grained Image Quality Assessment." arXiv, 2026. (<a href="https://arxiv.org/abs/2609.08316" target="_blank" _href="https://arxiv.org/abs/2609.08316">PDF</a>)</span></span>  
+			</li>
 
 		</ol>
     	<p style="text-wrap: wrap;">
