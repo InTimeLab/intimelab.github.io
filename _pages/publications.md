@@ -151,6 +151,10 @@ G Li, S Peng, X Wan, C Zhang, ..., C Ma, W Wang, <strong>Y Zhou*</strong>, H Hu.
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
 S Peng, G Li, X Wan, C Zhang, H Feng, B Wu, H Shen, W Wang, Z Cai, Z Tian, H Hu, C Ma, <strong>Y Zhou*</strong>. "ChartArena: Benchmarking Chart Parsing across Languages, Scenarios, and Formats." arXiv, 2026. (<a href="https://arxiv.org/abs/2606.01348" target="_blank" _href="https://arxiv.org/abs/2606.01348">PDF</a>)</span></span>  
+			</li>			
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(232, 204, 242);font-size:15px">
+D Wu, D Yang, J Yao, H Zhang, C Ma, <strong>Y Zhou*</strong>, S Zhao. "MVEI & EmObserver: Empowering MLLM-Oriented Visual Emotional Intelligence via Emotion Statement Judgement." arXiv, 2026. (<a href="https://arxiv.org/abs/2607.21061" target="_blank" _href="https://arxiv.org/abs/2607.21061">PDF</a>)</span></span>  
 			</li>
 
 		</ol>
