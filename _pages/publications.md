@@ -156,6 +156,9 @@ S Peng, G Li, X Wan, C Zhang, H Feng, B Wu, H Shen, W Wang, Z Cai, Z Tian, H Hu,
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(232, 204, 242);font-size:15px">
 D Wu, D Yang, J Yao, H Zhang, C Ma, <strong>Y Zhou*</strong>, S Zhao. "MVEI & EmObserver: Empowering MLLM-Oriented Visual Emotional Intelligence via Emotion Statement Judgement." arXiv, 2026. (<a href="https://arxiv.org/abs/2607.21061" target="_blank" _href="https://arxiv.org/abs/2607.21061">PDF</a>)</span></span>  
 			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(250, 235, 200);font-size:15px">A Zhang, D Yang, C Liu, X Hong, C Ma, <strong>Y Zhou*</strong>. "Knowing Beyond the Known: Reinforced Knowledge Specification for Multi-Label Class-Incremental Learning." arXiv, 2026. (<a href="https://arxiv.org/abs/2608.30316" target="_blank" _href="https://arxiv.org/abs/2608.30316">PDF</a>)</span></span>  			
+			</li>	
 
 		</ol>
     	<p style="text-wrap: wrap;">
