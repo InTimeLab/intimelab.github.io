@@ -99,7 +99,7 @@ S Liu, <strong>Y Zhou*</strong>, M Liu, X Guo, L Nie. "Counterfactual Instructio
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(238, 190, 190);font-size:15px">
-Q Ye, M Liu, <strong>Y Zhou</strong>. "RAO-Nav: Probing Omni-Language Models for Zero-shot Semantic Audio-Visual Navigation." <strong>NeurIPS</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
+Q Ye, M Liu, <strong>Y Zhou*</strong>. "RAO-Nav: Probing Omni-Language Models for Zero-shot Semantic Audio-Visual Navigation." <strong>NeurIPS</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(232, 204, 242);font-size:15px">
