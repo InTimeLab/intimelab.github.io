@@ -65,6 +65,7 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
+    <em>26年09月25日，祝贺<strong>张言</strong>OPSD GUI Grounding、<strong>李庚洛</strong>图表解析、<strong>李斐然</strong>场景文本检测攻击、<strong>叶启朗</strong>零样本视听语义导航、<strong>刘时宇</strong>VLA反事实指令锚定共5项工作被<strong>NeurIPS 2026</strong>接收！</em><br>
     <em>26年09月17日，周宇老师任ICLR 2027 <strong>Area Chair</strong>（领域主席）。</em><br>
     <em>26年09月13日，周宇老师任2026年CSIG文档智能大会<strong>程序委员会主席</strong>（Program Chair）。</em><br>
     <em>26年09月10日，祝贺<strong>吴岱卿获得中国科学院院长奖</strong>！</em><br>
