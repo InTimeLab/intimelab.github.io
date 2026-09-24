@@ -126,7 +126,7 @@ H Zhang, D Wu, Y Li, K Liu, Y Wang, <strong>Y Zhou</strong>, S Zhao. "Multimodal
 			</li>				
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
-Y Zhang, P Fu, D Wu, H Shen, R Zhang, S Zhang, J Yang, <strong>Y Zhou*</strong>, C Ma, Z Luo, J Luan. "Towards Omni-dimensional GUI Agent Navigation with Masked Trajectory Prediction." <strong>EMNLP Findings</strong>, 2026. (<a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
+Y Zhang, P Fu, D Wu, H Shen, R Zhang, S Zhang, J Yang, <strong>Y Zhou*</strong>, C Ma, Z Luo, J Luan. "Towards Omni-dimensional GUI Agent Navigation with Masked Trajectory Prediction." <strong>EMNLP Findings</strong>, 2026. (<a href="https://arxiv.org/abs/2609.25769" target="_blank" _href="https://arxiv.org/abs/2609.25769">PDF</a>)</span></span>  
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 245);font-size:15px">
@@ -162,6 +162,10 @@ D Wu, D Yang, J Yao, H Zhang, C Ma, <strong>Y Zhou*</strong>, S Zhao. "MVEI & Em
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(242, 242, 245);font-size:15px">
 A Zhang, M Gao, D Yang, L Chen, D Zhang, Y Wu, Y Hu, <strong>Y Zhou*</strong>. "From Glance to Scrutiny: Progressive Distortion Reasoning for Fine-Grained Image Quality Assessment." arXiv, 2026. (<a href="https://arxiv.org/abs/2609.08316" target="_blank" _href="https://arxiv.org/abs/2609.08316">PDF</a>)</span></span>  
+			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
+Y Zhang, D Wu, H Shen, L Li, G Cao, Z Gong, W Dai, X Zhang, C Ma, <strong>Y Zhou*</strong>. "Learn How to Act from Your Own Interactions: On-Policy Self-Distillation for GUI Agents." arXiv, 2026. (<a href="https://arxiv.org/abs/2609.27307" target="_blank" _href="https://arxiv.org/abs/2609.27307">PDF</a>)</span></span>  
 			</li>
 
 		</ol>
