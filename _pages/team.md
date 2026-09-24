@@ -75,7 +75,7 @@ author_profile: true
      <strong><em>吕同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">ECCV *1、AAAI *1</span>、<span style="background-color: rgb(235, 241, 221);">TOMM *1</span>，在读。（JH）
     </li>
     <li>
-     <span style="white-space: normal;"><strong><em>张同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、ACM MM *1</span>、EMNLP Findings *1, PRCV *1、中国图象图形学报 *1，在读。（Y）</span>
+     <span style="white-space: normal;"><strong><em>张同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS *1、AAAI *1、ACM MM *1</span>、EMNLP Findings *1, PRCV *1、中国图象图形学报 *1，在读。（Y）</span>
     </li>
     <li>
      <strong>曾同学</strong>，2022级硕士生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS Spotlight *1</span>，国奖、优秀毕业生，日本东京大学郑银强教授博士生。（WC）
@@ -96,8 +96,14 @@ author_profile: true
      <strong><em>余同学</em></strong>，2023级本科生，一作<span style="background-color: rgb(198, 217, 240);">ICML *1</span>，在读。（CM）
     </li>
     <li>
-     <strong><em>叶同学</em></strong>，2025级博士生，一作<span style="background-color: rgb(198, 217, 240);">AAAI *2</span>，入选2025年中国科协青年科技人才培育工程博士生专项计划（一作发表顶会顶刊论文4篇，含硕士阶段TPAMI *1、ECCV*1），在读。（QL）
+     <strong><em>李同学</em></strong>，2024级硕士生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS *1</span>，在读。（FR）
+    </li>
+    <li>
+     <strong><em>叶同学</em></strong>，2025级博士生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS *1、AAAI *2</span>，入选2025年中国科协青年科技人才培育工程博士生专项计划（一作发表顶会顶刊论文4篇，含硕士阶段TPAMI *1、ECCV*1），在读。（QL）
     </li>      
+    <li>
+     <strong><em>刘同学</em></strong>，2025级博士生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS *1</span>，在读。（SY）
+    </li>
     <li>
      <strong><em>冯同学</em></strong>，2025级直博生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *1</span>，在读。（YF）
     </li>
