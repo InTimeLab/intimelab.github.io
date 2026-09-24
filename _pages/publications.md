@@ -80,7 +80,27 @@ D Wu, D Yang, S Zhao, C Ma, <strong>Y Zhou</strong>. "Customizing Visual Emotion
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(232, 204, 242);font-size:15px">
 D Wu, X Zhang, D Yang, J Yao, L Chen, Q Liu, S Zhao, C Ma, Y Kang, <strong>Y Zhou*</strong>. "Echo: Towards Advanced Audio Comprehension via Audio-Interleaved Reasoning." <strong>ICLR</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2602.11909" target="_blank" _href="https://arxiv.org/abs/2602.11909">PDF</a>)</span></span>  
-			</li>			
+			</li>				
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
+Y Zhang, D Wu, H Shen, <strong>Y Zhou*</strong>, C Ma. "Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding." <strong>NeurIPS</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2605.00642" target="_blank" _href="https://arxiv.org/abs/2605.00642">PDF</a>)</span></span>  
+			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
+F Li, J Lyu, K Jiang, Y Zhou*</strong>, J Shi. "Seeing but Not Detecting: Privacy-Preserving Scene Text Attack via Hybrid Adversarial Policy Learning." <strong>NeurIPS</strong>, 2026. (<strong>CCF-A</strong>, <a href="https:" target="_blank" _href="https:">PDF</a>)</span></span>  
+			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
+S Peng, G Li, X Wan, C Zhang, H Feng, B Wu, H Shen, W Wang, Z Cai, Z Tian, H Hu, C Ma, <strong>Y Zhou*</strong>. "ChartArena: Benchmarking Chart Parsing across Languages, Scenarios, and Formats." <strong>NeurIPS</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://arxiv.org/abs/2606.01348" target="_blank" _href="https://arxiv.org/abs/2606.01348">PDF</a>)</span></span>  
+			</li>	
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(238, 190, 190);font-size:15px">
+S Liu, <strong>Y Zhou*</strong>, M Liu, X Guo, L Nie. "Counterfactual Instruction Grounding for Vision-Language-Action Models." <strong>NeurIPS</strong>, 2026. (<strong>CCF-A</strong>, <a href="https:" target="_blank" _href="https://">PDF</a>)</span></span>  
+			</li>
+			<li>
+				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(238, 190, 190);font-size:15px">
+Q Ye, M Liu, <strong>Y Zhou</strong>. "RAO-Nav: Probing Omni-Language Models for Zero-shot Semantic Audio-Visual Navigation." <strong>NeurIPS</strong>, 2026. (<strong>CCF-A</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
+			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(232, 204, 242);font-size:15px">
 S Zhao, H Zhang, D Wu, D Huang, W Hong, J Sun, Y Chen, <strong>Y Zhou</strong>, G Ding. "EmotionReasoner: Emotion-Explanation-Oriented Reinforcement Learning for Explainable Multimodal Emotion Recognition." <strong>TAFFC</strong>, 2026. (<strong>SCI一区</strong>, <a href="https://" target="_blank" _href="https://">PDF</a>)</span></span>  
@@ -142,16 +162,8 @@ J Lyu, P Fu, Z Li, W Zeng, S Zhan, J Yang, C Ma, <strong>Y Zhou*</strong>, Z Luo
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
-Y Zhang, D Wu, H Shen, <strong>Y Zhou*</strong>, C Ma. "Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding." arXiv, 2026. (<a href="https://arxiv.org/abs/2605.00642" target="_blank" _href="https://arxiv.org/abs/2605.00642">PDF</a>)</span></span>  
-			</li>
-			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
 G Li, S Peng, X Wan, C Zhang, ..., C Ma, W Wang, <strong>Y Zhou*</strong>, H Hu. "Chronicles-OCR: A Cross-Temporal Perception Benchmark for the Evolutionary Trajectory of Chinese Characters." arXiv, 2026. (<a href="https://arxiv.org/abs/2605.11960" target="_blank" _href="https://arxiv.org/abs/2605.11960">PDF</a>)</span></span>  
-			</li>			
-			<li>
-				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
-S Peng, G Li, X Wan, C Zhang, H Feng, B Wu, H Shen, W Wang, Z Cai, Z Tian, H Hu, C Ma, <strong>Y Zhou*</strong>. "ChartArena: Benchmarking Chart Parsing across Languages, Scenarios, and Formats." arXiv, 2026. (<a href="https://arxiv.org/abs/2606.01348" target="_blank" _href="https://arxiv.org/abs/2606.01348">PDF</a>)</span></span>  
-			</li>			
+			</li>	
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(232, 204, 242);font-size:15px">
 D Wu, D Yang, J Yao, H Zhang, C Ma, <strong>Y Zhou*</strong>, S Zhao. "MVEI & EmObserver: Empowering MLLM-Oriented Visual Emotional Intelligence via Emotion Statement Judgement." arXiv, 2026. (<a href="https://arxiv.org/abs/2607.21061" target="_blank" _href="https://arxiv.org/abs/2607.21061">PDF</a>)</span></span>  
