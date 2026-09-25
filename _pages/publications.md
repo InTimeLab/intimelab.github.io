@@ -87,7 +87,7 @@ Y Zhang, D Wu, H Shen, <strong>Y Zhou*</strong>, C Ma. "Learn where to Click fro
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
-F Li, J Lyu, K Jiang, Y Zhou*</strong>, J Shi. "Seeing but Not Detecting: Privacy-Preserving Scene Text Attack via Hybrid Adversarial Policy Learning." <strong>NeurIPS</strong>, 2026. (<strong>CCF-A</strong>, <a href="https:" target="_blank" _href="https:">PDF</a>)</span></span>  
+F Li, J Lyu, K Jiang, <strong>Y Zhou*</strong>, J Shi. "Seeing but Not Detecting: Privacy-Preserving Scene Text Attack via Hybrid Adversarial Policy Learning." <strong>NeurIPS</strong>, 2026. (<strong>CCF-A</strong>, <a href="https:" target="_blank" _href="https:">PDF</a>)</span></span>  
 			</li>
 			<li>
 				<span style="font-family: arial, helvetica, sans-serif;"><span style="background-color: rgb(204, 224, 245);font-size:15px">
