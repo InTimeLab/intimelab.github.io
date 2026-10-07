@@ -27,7 +27,7 @@ author_profile: true
 	    <li><span style="text-wrap: nowrap;">基于对抗训练的场景文字识别方法及装置，2024，受理号：202410434598.9</span></li>
 	    <li><span style="text-wrap: nowrap;">基于提示学习的生成式文本视觉问答方法及系统，2023，受理号：202311267037.6</span></li>
 	    <li><span style="text-wrap: nowrap;">基于对比学习特征增强的场景文字检测方法及装置，2023，受理号：202311298617.1</span></li>
-	    <li><span style="text-wrap: nowrap;">基于伪目标重放与挖掘的增量目标检测方法及装置，2023，受理号：202311216027.X</span></li>
+	    <li><span style="text-wrap: nowrap;">基于伪目标重放与挖掘的增量目标检测方法及装置，2023，受理号：ZL 2023 1 1216027.X</span></li>
 	    <li><span style="text-wrap: nowrap;">基于Transformer的逐行扫描的表格结构识别方法及系统，2023，专利号：ZL 2023 1 1025547.2</span></li>
 	    <li><span style="text-wrap: nowrap;">基于掩模引导的去除印章噪声的图像生成方法及系统，2023，专利号：ZL 2023 1 0733846.5</span></li>
 	    <li><span style="text-wrap: nowrap;">基于单目标重放的增量目标检测方法及装置，2023，受理号：202310102438.X</span></li>
