@@ -21,7 +21,7 @@ author_profile: true
 
 + **关于算力**：这是高校现在共同的问题；目前组内有RTX Pro 5000 72G *8（可全参微调7B大模型）、A6000 48G *8、4090 24G *8；解决方案是随着项目经费的落实、逐渐增加算力规模，与各企业合作、增加算力上限，派学生前往企业实习（有合作项目）、可调动数十块高显存GPU卡；
 
-+ 具备**推免资格**；满足**南开大学及**<a href="https://cc.nankai.edu.cn/2026/0709/c13297a600172/page.htm" target="_blank" style="background-color: rgb(255, 255, 255);" _href="https://cc.nankai.edu.cn/2026/0709/c13297a600172/page.htm">**学院推免要求**；
++ 具备**推免资格**；满足**南开大学及**<a href="https://cc.nankai.edu.cn/2026/0709/c13297a600172/page.htm" target="_blank" style="background-color: rgb(255, 255, 255);" _href="https://cc.nankai.edu.cn/2026/0709/c13297a600172/page.htm">**学院推免要求**</a>；
 
 + 具备**自我激励**能力，对探索未知的科研工作有**热情，以学位为终极目标者请飘过**，请全面深入了解我们的工作（通过论文）及团队风格，对团队有**认同感**；
 
