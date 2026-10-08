@@ -72,7 +72,7 @@ author_profile: true
      <strong>杨同学</strong>，2021级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IJCV *1</span>、IEEE SPL *1、ICASSP *1，美国东北大学王言治教授博士生。（XM@IIE）
     </li>
     <li>
-     <strong><em>吕同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">ECCV *1、AAAI *1</span>、<span style="background-color: rgb(235, 241, 221);">TOMM *1</span>，在读。（JH@IIE）
+     <strong><em>吕同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">ECCV *1、AAAI *1</span>、<span style="background-color: rgb(235, 241, 221);">TOMM *1</span>，所长优秀奖，在读。（JH@IIE）
     </li>
     <li>
      <span style="white-space: normal;"><strong><em>张同学</em></strong>，2022级直博生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS *1、AAAI *1、ACM MM *1</span>、EMNLP Findings *1, PRCV *1、中国图象图形学报 *1，在读。（Y@IIE）</span>
