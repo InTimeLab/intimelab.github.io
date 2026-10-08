@@ -60,7 +60,7 @@ author_profile: true
      <strong style="">申同学</strong>，2021级硕转博，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、IJCAI *1</span>，CSIG 2022票据识别与分析挑战赛冠军、ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，入职腾讯混元大模型团队（青云计划）。（HW@IIE）
     </li>    
     <li>
-     <strong style=""><em>张同学</em></strong>，2021级直博生，一作<span style="background-color: rgb(198, 217, 240);">ECCV *1、ICML *1、AAAI *2</span>，在读。（AT@IIE）
+     <strong style=""><em>张同学</em></strong>，2021级直博生，一作<span style="background-color: rgb(198, 217, 240);">ECCV *1、ICML *1、AAAI *2</span>，所长优秀奖，在读。（AT@IIE）
     </li>
     <li>
      <strong style="">吴同学</strong>，2021级硕转博，一作<span style="background-color: rgb(198, 217, 240);">ICML *1、ICLR *2、ACM MM *2</span>、<span style="background-color: rgb(235, 241, 221);">PR *2</span>，北京图象图形学学会2026优秀博士学位论文提名、2026年度中国科学院院长奖、国奖、所长特别奖，入职清华大学博士后。（DQ@IIE）
@@ -99,7 +99,7 @@ author_profile: true
      <strong><em>李同学</em></strong>，2024级硕士生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS *1</span>，在读。（FR@BUPT）
     </li>
     <li>
-     <strong><em>叶同学</em></strong>，2025级博士生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS *1、AAAI *2</span>，入选2025年中国科协青年科技人才培育工程博士生专项计划（一作发表顶会顶刊论文4篇，含硕士阶段TPAMI *1、ECCV*1），在读。（QL@NKU）
+     <strong><em>叶同学</em></strong>，2025级博士生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS *1、AAAI *2</span>，入选2025年中国科协青年科技人才培育工程博士生专项计划（一作发表顶会顶刊论文4篇，含硕士阶段TPAMI *1、ECCV*1），南开大数学校友奖、公能一等奖学金，在读。（QL@NKU）
     </li>      
     <li>
      <strong><em>刘同学</em></strong>，2025级博士生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS *1</span>，在读。（SY@NKU）
@@ -108,10 +108,10 @@ author_profile: true
      <strong><em>冯同学</em></strong>，2025级直博生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *1</span>，在读。（YF@NKU）
     </li>
     <li>
-     <strong><em>刘同学</em></strong>，2025级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1、ACM MM *1</span>，在读。（YC@NKU）
+     <strong><em>刘同学</em></strong>，2025级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1、ACM MM *1</span>，国奖、南开公能一等奖学金，在读。（YC@NKU）
     </li>
     <li>
-     <strong><em>陈同学</em></strong>，2025级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1、ACM MM *1</span>，在读。（ZY@NKU）
+     <strong><em>陈同学</em></strong>，2025级硕士生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *1、ACM MM *1</span>，南开公能一等奖学金，在读。（ZY@NKU）
     </li>     
     <li>
      <strong><em>张同学</em></strong>，2026级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *1</span>，在读。（JL@NKU）
