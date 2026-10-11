@@ -12,8 +12,8 @@ author_profile: true
   </p>
   <ul style="text-wrap: wrap;">
    <li>中国图象图形学学会文档图像分析与识别专委会，副秘书长、常务委员</li>
-   <li>中国图象图形学学会第九次会员代表大会（2025.11.01），会员代表</li>
    <li>北京中关村学院，学院导师</li>
+   <li>中国图象图形学学会第九次会员代表大会（2025.11.01），会员代表</li>   
   </ul>
   <div style="text-wrap: wrap;">
    <strong>评审咨询</strong>
