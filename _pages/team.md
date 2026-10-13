@@ -93,7 +93,7 @@ author_profile: true
      <strong>赵同学</strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">ACM MM *1</span>、ECAI *1，国奖、所长特别奖，入职字节（SSP Offer）。（FM@IIE）
     </li>    
     <li>
-     <strong><em>余同学</em></strong>，2023级本科生，一作<span style="background-color: rgb(198, 217, 240);">ICML *1</span>，在读。（CM@NKU）
+     <strong>余同学</strong>，2023级本科生，一作<span style="background-color: rgb(198, 217, 240);">ICML *1</span>，保研复旦大学。（CM@NKU）
     </li>
     <li>
      <strong><em>李同学</em></strong>，2024级硕士生，一作<span style="background-color: rgb(198, 217, 240);">NeurIPS *1</span>，在读。（FR@BUPT）
