@@ -54,16 +54,6 @@ author_profile: true
    <li>Reviewer: IEEE TPAMI/TIP/TMM/TCSVT/TITS/MM, IJCV, AIJ, PR, ACM TOMM, CVIU, ...</li>
    <li>审稿人：SCIS、JCST、计算机学报、中国图象图形学报</li>
   </ul>
-  <p style="text-wrap: wrap;">
-   <strong>课程</strong>
-  </p>
-  <ul style="text-wrap: wrap;">
-   <li>2025秋季学期，图像与视频处理（北京中关村学院）</li>
-   <li>2025秋季学期，数据结构（南开大学）</li>
-   <li>2024秋季学期，数据结构（南开大学）</li>
-   <li>2024春季学期，文献阅读（中国科学院大学）</li>
-   <li>2021夏季学期，人工智能安全（中国科学院大学）</li>
-  </ul>
     <p style="text-wrap: wrap;">
    <strong>学术报告</strong>
   </p>
@@ -85,6 +75,16 @@ author_profile: true
    <li>2022年09月30日，“场景文字表示与提取技术研究”，图像智能分析与应用国际学术研讨会，西北民族大学</li>
    <li>2022年06月16日，“场景文字检测、识别与理解技术研究”，企业交流报告（MSXF）</li>
    <li>2022年04月24日，“低质量场景文字识别技术研究”，中国图象图形学学会“OCR学术前沿及产业应用”高峰论坛（<a href="https://www.bilibili.com/video/BV1LZ4y1a7zr" target="_blank" _href="https://www.bilibili.com/video/BV1LZ4y1a7zr">报告视频</a>），在线观众峰值8000余人</li>
+  </ul>
+  <p style="text-wrap: wrap;">
+   <strong>课程</strong>
+  </p>
+  <ul style="text-wrap: wrap;">
+   <li>2025秋季学期，图像与视频处理（北京中关村学院）</li>
+   <li>2025秋季学期，数据结构（南开大学）</li>
+   <li>2024秋季学期，数据结构（南开大学）</li>
+   <li>2024春季学期，文献阅读（中国科学院大学）</li>
+   <li>2021夏季学期，人工智能安全（中国科学院大学）</li>
   </ul>
  </div>
 </div>
