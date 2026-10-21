@@ -84,7 +84,7 @@ author_profile: true
      <strong>谢同学</strong>，2022级硕士生，一作ICASSP *1，入职快手。（EZ@IIE）
     </li>
     <li>
-     <strong><em>李同学</em></strong>，2023级直博生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *2、ECCV *1、ICML *1</span>，HunyuanOCR核心贡献者之一，ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，2025年度腾讯犀牛鸟精英人才计划，在读。（GL@IIE）
+     <strong><em>李同学</em></strong>，2023级直博生，一作<span style="background-color: rgb(198, 217, 240);">CVPR *2、ECCV *1、ICML *1</span>，入选2026年中国科协青年科技人才培育工程博士生专项计划，HunyuanOCR核心贡献者之一，ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，2025年度腾讯犀牛鸟精英人才计划，在读。（GL@IIE）
     </li>
     <li>
      <strong>曹同学</strong>，2023级硕士生，一作<span style="background-color: rgb(198, 217, 240);">IJCAI *1</span>、ICDAR *1，入职小红书（SSP Offer）。（TJ@IIE）
