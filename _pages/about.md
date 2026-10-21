@@ -65,6 +65,7 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
+    <em>26年10月21日，祝贺<strong>李庚洛</strong>入选2026年<strong>中国科协青年科技人才培育工程博士生专项计划</strong>！</em><br>
     <em>26年10月21日，周宇老师任ICML 2027 <strong>Area Chair</strong>。</em><br>
     <em>26年09月25日，祝贺<strong>张言</strong>OPSD GUI Grounding、<strong>李庚洛</strong>图表解析、<strong>李斐然</strong>场景文本检测攻击、<strong>叶启朗</strong>零样本视听语义导航、<strong>刘时宇</strong>VLA反事实指令锚定共5项工作被<strong>NeurIPS 2026</strong>接收！</em><br>    
     <em>26年09月13日，周宇老师任2026年CSIG文档智能大会<strong>程序委员会主席</strong>（Program Chair）。</em><br>
@@ -80,8 +81,7 @@ redirect_from:
     <em>26年04月30日，祝贺<strong>赵方敏、曹天骄</strong>顺利通过硕士学位论文答辩！</em><br>
     <em>26年04月11日，祝贺<strong>吴岱卿</strong>可信视觉情感理解工作被<strong>PR</strong>接收！</em><br>
     <em>26年03月27日，实验室"面向真机交互的GUI Agent环境搭建与模型优化"项目入选<strong>CAAI-腾讯犀牛鸟研究计划</strong>！</em><br>    
-    <em>26年03月24日，祝贺<strong>杨东宝</strong>老师获聘南开大学软件学院副教授！</em><br>    
-    <em>26年02月27日，周宇老师担任ACM MM 2026 <strong>Area Chair</strong>。</em><br>
+    <em>26年03月24日，祝贺<strong>杨东宝</strong>老师获聘南开大学软件学院副教授！</em><br>        
     <em>26年02月21日，祝贺<strong>李庚洛</strong>文档解析&端到端翻译、<strong>曾翊晨</strong>音视频导航、<strong>刘亿超</strong>GUI定位、<strong>陈泽宇</strong>多语言场景文本生成共5项工作被<strong>CVPR 2026</strong>接收！</em><br>
     <em>26年01月31日，实验室2026“见贤思齐”交流活动顺利开展！毕业生<strong>曾港艳、乔峙、罗德昭、舒言</strong>与部分高年级同学分享科研、工作、生活经验。</em><br>
     <em>26年01月26日，祝贺<strong>吴岱卿</strong>多模态视觉情感分析评估、音频理解2项工作被<strong>ICLR 2026</strong>接收！</em><br>
