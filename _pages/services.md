@@ -35,7 +35,7 @@ author_profile: true
    <li>Best Area Chair Award: PRCV 25</li>
    <li>Outstanding Reviewer: CVPR 25 (711/12593=5.65%)</li> 
    <li>Senior Area Chair: ICME 26</li>
-   <li>Area Chair: ICLR, NeurIPS, ACM MM, ICDAR, ICME, PRCV</li>
+   <li>Area Chair: ICML, ICLR, NeurIPS, ACM MM, ICDAR, ICME, PRCV</li>
    <li>SPC Member: AAAI, IJCAI, ICDAR</li>      
    <li>论坛主席: 2025年，CSIG文档图像分析与识别专委会，多模态大模型与可视文本智能（OCR）学术论坛，南开大学</li>
    <li>Workshop Organization: ICDAR 2025 Workshop on Visual Text Generation and Text Image Processing</li>  
