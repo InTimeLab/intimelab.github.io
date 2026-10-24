@@ -14,7 +14,9 @@ author_profile: true
       <span style="text-wrap: nowrap;"><strong></strong></span>
     </p>
     <ol style="text-wrap: wrap;">
-	    <li><span style="text-wrap: nowrap;">一种复杂环境层次化域感知目标检测方法及系统，2026，受理号：202611627820.2</span></li>
+	    <li><span style="text-wrap: nowrap;">一种结构语义动态协同的场景文本超分辨率方法，2026，受理号：202611636332.8</span></li>
+		<li><span style="text-wrap: nowrap;">基于内容与结构退化解耦的表格图像多模态理解方法，2026，受理号：202611645091.3</span></li>
+		<li><span style="text-wrap: nowrap;">一种复杂环境层次化域感知目标检测方法及系统，2026，受理号：202611627820.2</span></li>
 		<li><span style="text-wrap: nowrap;">一种基于正交知识刷新的域增量图像目标检测方法及系统，2026，受理号：202611048253.5</span></li>
 		<li><span style="text-wrap: nowrap;">一种基于梯度稀释抑制的增量目标检测方法及系统，2026，受理号：202610836566.0</span></li>
 		<li><span style="text-wrap: nowrap;">一种基于稀疏约束整流流的开放集视觉文本篡改检测方法，2026，专利号：ZL 2026 1 0619935.0</span></li>
