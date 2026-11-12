@@ -65,6 +65,7 @@ redirect_from:
 
 <div class="news">
     <strong>最新消息：</strong><br>    
+    <em>26年11月12日，祝贺<strong>张傲婷</strong>顺利通过博士学位论文答辩！</em><br>
     <em>26年10月21日，祝贺<strong>李庚洛</strong>入选2026年<strong>中国科协青年科技人才培育工程博士生专项计划</strong>！</em><br>
     <em>26年10月21日，周宇老师任ICML 2027 <strong>Area Chair</strong>。</em><br>
     <em>26年09月25日，祝贺<strong>张言</strong>OPSD GUI Grounding、<strong>李庚洛</strong>图表解析、<strong>李斐然</strong>场景文本检测攻击、<strong>叶启朗</strong>零样本视听语义导航、<strong>刘时宇</strong>VLA反事实指令锚定共5项工作被<strong>NeurIPS 2026</strong>接收！</em><br>    
