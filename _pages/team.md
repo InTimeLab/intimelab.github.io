@@ -60,7 +60,7 @@ author_profile: true
      <strong style="">申同学</strong>，2021级硕转博，一作<span style="background-color: rgb(198, 217, 240);">AAAI *1、IJCAI *1</span>，CSIG 2022票据识别与分析挑战赛冠军、ICDAR 2025复杂版面文本图像端到端机器翻译竞赛冠军，入职腾讯混元大模型团队（青云计划）。（HW@IIE）
     </li>    
     <li>
-     <strong style=""><em>张同学</em></strong>，2021级直博生，一作<span style="background-color: rgb(198, 217, 240);">ECCV *1、ICML *1、AAAI *2</span>，所长优秀奖，在读。（AT@IIE）
+     <strong style="">张同学</strong>，2021级直博生，一作<span style="background-color: rgb(198, 217, 240);">ECCV *1、ICML *1、AAAI *2</span>，所长优秀奖。（AT@IIE）
     </li>
     <li>
      <strong style="">吴同学</strong>，2021级硕转博，一作<span style="background-color: rgb(198, 217, 240);">ICML *1、ICLR *2、ACM MM *2</span>、<span style="background-color: rgb(235, 241, 221);">PR *2</span>，北京图象图形学学会2026优秀博士学位论文提名、2026年度中国科学院院长奖、国奖、所长特别奖，入职清华大学博士后。（DQ@IIE）
