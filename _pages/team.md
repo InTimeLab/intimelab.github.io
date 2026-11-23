@@ -1,7 +1,7 @@
 ---
 title: "学生指导"
 layout: archive
-permalink: /edu/
+permalink: /team/
 author_profile: true
 ---
 
