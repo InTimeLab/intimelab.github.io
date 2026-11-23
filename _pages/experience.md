@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /experience/
-title: "个人履历"
+title: "学工经历"
 author_profile: true
 ---
 
